@@ -1,0 +1,43 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# 英语学习平台项目概述
+
+本项目是一个英语学习平台，主要用于提供英语听力、口语练习和智能推荐功能。
+
+## 项目结构
+
+项目分为前端和后端两部分：
+
+### 前端 (Vue.js)
+- 位于 [english_training_platform/frontend](mdc:english_training_platform/frontend) 目录
+- 使用Vue.js框架开发
+- 主要功能模块：
+  - 听力练习
+  - 口语练习
+  - 收藏管理
+  - 智能推荐
+
+### 后端 (Python Flask)
+- 位于 [english_training_platform/backend](mdc:english_training_platform/backend) 目录
+- 使用Flask框架开发
+- 主要功能模块：
+  - API路由
+  - 材料管理
+  - 智能推荐系统
+  - AI服务集成
+
+## 核心功能
+
+1. **听力练习**：提供多种类型的听力材料和练习题
+2. **口语练习**：支持语音录制和AI评估
+3. **智能推荐**：基于用户学习情况，智能推荐适合的学习材料
+4. **收藏管理**：允许用户收藏和管理学习材料
+
+## 数据存储
+
+学习材料和用户数据存储在JSON文件中：
+- [english_training_platform/frontend/public/materials](mdc:english_training_platform/frontend/public/materials) - 学习材料
+- [english_training_platform/backend/data](mdc:english_training_platform/backend/data) - 用户数据

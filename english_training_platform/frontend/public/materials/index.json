@@ -1,0 +1,380 @@
+{
+          "difficulties": [
+                    {
+                              "id": "CET4",
+                              "name": "CET-4",
+                              "description": "英语四级听力材料，适合大学英语四级水平的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/CET4/materials.json"
+                    },
+                    {
+                              "id": "CET6",
+                              "name": "CET-6",
+                              "description": "英语六级听力材料，适合大学英语六级水平的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/CET6/materials.json"
+                    },
+                    {
+                              "id": "IELTS",
+                              "name": "IELTS",
+                              "description": "雅思考试听力材料，适合准备雅思考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/IELTS/materials.json"
+                    },
+                    {
+                              "id": "TOEFL",
+                              "name": "TOEFL",
+                              "description": "托福考试听力材料，适合准备托福考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/TOEFL/materials.json"
+                    },
+                    {
+                              "id": "2022_06",
+                              "name": "2022年四级听力真题六月第一套",
+                              "description": "2022年四级听力真题六月第一套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2022_06/materials.json"
+                    },
+                    {
+                              "id": "2022_09",
+                              "name": "2022年四级听力真题九月第一套",
+                              "description": "2022年四级听力真题九月第一套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2022_09/materials.json"
+                    },
+                    {
+                              "id": "2022_12_1",
+                              "name": "2022年四级听力真题十二月第一套",
+                              "description": "2022年四级听力真题十二月第一套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2022_12_1/materials.json"
+                    },
+                    {
+                              "id": "2022_12_02",
+                              "name": "2022年四级听力真题十二月第二套",
+                              "description": "2022年四级听力真题十二月第二套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2022_12_2/materials.json"
+                    },
+                    {
+                              "id": "2023_03_1",
+                              "name": "2023年四级听力真题三月第一套",
+                              "description": "2023年四级听力真题三月第一套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2023_03_1/materials.json"
+                    },
+                    {
+                              "id": "2023_06_1",
+                              "name": "2023年四级听力真题六月第一套",
+                              "description": "2023年四级听力真题六月第一套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2023_06_1/materials.json"
+                    },
+                    {
+                              "id": "2023_06_2",
+                              "name": "2023年四级听力真题六月第二套",
+                              "description": "2023年四级听力真题六月第二套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2023_06_2/materials.json"
+                    },
+                    {
+                              "id": "2023_12_1",
+                              "name": "2023年四级听力真题十二月第一套",
+                              "description": "2023年四级听力真题十二月第一套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2023_12_1/materials.json"
+                    },
+                    {
+                              "id": "2023_12_2",
+                              "name": "2023年四级听力真题十二月第二套",
+                              "description": "2023年四级听力真题十二月第二套，适合准备四级考试的学习者",
+                              "materials_count": 1,
+                              "materials_path": "/materials/2023_12_2/materials.json"
+                    }
+          ],
+          "topics": [
+                    "教育",
+                    "校园生活",
+                    "科技",
+                    "创新",
+                    "环境",
+                    "可持续发展",
+                    "学术",
+                    "历史",
+                    "文化"
+          ],
+          "available_materials": [
+                    "cet4_001",
+                    "cet6_001",
+                    "ielts_001",
+                    "toefl_001",
+                    "2022_06",
+                    "2022_09",
+                    "2022_12_1",
+                    "2022_12_02",
+                    "2023_03_1",
+                    "2023_06_1",
+                    "2023_06_2",
+                    "2023_12_1",
+                    "2023_12_2"
+          ],
+          "materials_details": [
+                    {
+                              "id": "toefl_001",
+                              "title": "TOEFL 听力训练 - 学术讲座",
+                              "difficulty": "TOEFL",
+                              "topics": [
+                                        "学术",
+                                        "历史",
+                                        "文化"
+                              ],
+                              "tags": [
+                                        "学术讲座",
+                                        "历史事件",
+                                        "文化差异",
+                                        "研究方法",
+                                        "学术论证"
+                              ]
+                    },
+                    {
+                              "id": "ielts_001",
+                              "title": "IELTS 听力训练 - 环境保护",
+                              "difficulty": "IELTS",
+                              "topics": [
+                                        "环境",
+                                        "可持续发展"
+                              ],
+                              "tags": [
+                                        "环境保护",
+                                        "可持续发展",
+                                        "生态系统",
+                                        "气候变化",
+                                        "环保政策"
+                              ]
+                    },
+                    {
+                              "id": "cet6_001",
+                              "title": "CET6 听力训练 - 科技创新",
+                              "difficulty": "CET6",
+                              "topics": [
+                                        "科技",
+                                        "创新"
+                              ],
+                              "tags": [
+                                        "科技创新",
+                                        "人工智能",
+                                        "数字化转型",
+                                        "技术发展",
+                                        "科研突破"
+                              ]
+                    },
+                    {
+                              "id": "cet4_001",
+                              "title": "CET4 听力训练 - 校园生活",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "教育",
+                                        "校园生活"
+                              ],
+                              "tags": [
+                                        "校园生活",
+                                        "学生活动",
+                                        "课程安排",
+                                        "学习方法",
+                                        "校园设施"
+                              ]
+                    },
+                    {
+                              "id": "2022_06",
+                              "title": "2022年四级听力真题六月第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "教育",
+                                        "校园生活"
+                              ],
+                              "tags": [
+                                        "校园生活",
+                                        "学术研究",
+                                        "社会现象",
+                                        "职业发展",
+                                        "日常对话"
+                              ]
+                    },
+                    {
+                              "id": "2022_09",
+                              "title": "2022年四级听力真题九月第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "科技",
+                                        "环境"
+                              ],
+                              "tags": [
+                                        "科技应用",
+                                        "环境问题",
+                                        "社会发展",
+                                        "创新思维",
+                                        "公共政策"
+                              ]
+                    },
+                    {
+                              "id": "2022_12_1",
+                              "title": "2022年四级听力真题十二月第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "文化",
+                                        "历史"
+                              ],
+                              "tags": [
+                                        "文化传承",
+                                        "历史事件",
+                                        "传统习俗",
+                                        "文化差异",
+                                        "社会变迁"
+                              ]
+                    },
+                    {
+                              "id": "2022_12_02",
+                              "title": "2022年四级听力真题十二月第二套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "科技",
+                                        "创新"
+                              ],
+                              "tags": [
+                                        "科技发展",
+                                        "创新应用",
+                                        "数字化",
+                                        "未来趋势",
+                                        "技术突破"
+                              ]
+                    },
+                    {
+                              "id": "2023_03_1",
+                              "title": "2023年四级听力真题三月第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "教育",
+                                        "职业"
+                              ],
+                              "tags": [
+                                        "教育改革",
+                                        "职业规划",
+                                        "学习方法",
+                                        "就业趋势",
+                                        "技能培养"
+                              ]
+                    },
+                    {
+                              "id": "2023_06_1",
+                              "title": "2023年四级听力真题六月第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "环境",
+                                        "社会"
+                              ],
+                              "tags": [
+                                        "环境保护",
+                                        "社会责任",
+                                        "可持续发展",
+                                        "公民意识",
+                                        "全球问题"
+                              ]
+                    },
+                    {
+                              "id": "2023_06_2",
+                              "title": "2023年四级听力真题六月第二套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "文化",
+                                        "旅游"
+                              ],
+                              "tags": [
+                                        "文化体验",
+                                        "旅游景点",
+                                        "风俗习惯",
+                                        "文化交流",
+                                        "旅行建议"
+                              ]
+                    },
+                    {
+                              "id": "2023_12_1",
+                              "title": "2023年四级听力真题十二月第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "科技",
+                                        "健康"
+                              ],
+                              "tags": [
+                                        "医疗技术",
+                                        "健康生活",
+                                        "科技应用",
+                                        "医疗创新",
+                                        "健康管理"
+                              ]
+                    },
+                    {
+                              "id": "2023_12_2",
+                              "title": "2023年四级听力真题十二月第二套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "社会",
+                                        "经济"
+                              ],
+                              "tags": [
+                                        "社会发展",
+                                        "经济趋势",
+                                        "社会问题",
+                                        "经济政策",
+                                        "全球化"
+                              ]
+                    }
+          ],
+          "latest_materials": [
+                    {
+                              "id": "toefl_001",
+                              "title": "TOEFL 听力训练 - 学术讲座",
+                              "difficulty": "TOEFL",
+                              "topics": [
+                                        "学术",
+                                        "历史",
+                                        "文化"
+                              ]
+                    },
+                    {
+                              "id": "ielts_001",
+                              "title": "IELTS 听力训练 - 环境保护",
+                              "difficulty": "IELTS",
+                              "topics": [
+                                        "环境",
+                                        "可持续发展"
+                              ]
+                    },
+                    {
+                              "id": "cet6_001",
+                              "title": "CET6 听力训练 - 科技创新",
+                              "difficulty": "CET6",
+                              "topics": [
+                                        "科技",
+                                        "创新"
+                              ]
+                    },
+                    {
+                              "id": "cet4_001",
+                              "title": "CET4 听力训练 - 校园生活",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "教育",
+                                        "校园生活"
+                              ]
+                    },
+                    {
+                              "id": "2022_06_1",
+                              "title": "2022年四级听力真题六月第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "教育",
+                                        "校园生活"
+                              ]
+                    }
+          ]
+}

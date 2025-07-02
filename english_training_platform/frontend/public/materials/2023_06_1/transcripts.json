@@ -1,0 +1,375 @@
+{
+          "id": "2023_06_1",
+          "title": "2023年6月大学英语四级听力真题第一套",
+          "sections": [
+                    {
+                              "section": "A",
+                              "description": "Section A - News Reports",
+                              "introduction": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
+                              "passages": [
+                                        {
+                                                  "passage_id": 1,
+                                                  "content": "A woman is charged with allegedly violating a Rhode Island city law against feeding wild animals. The 55-year-old woman's neighbors blame her for exacerbating a rat infestation, and they have spoken out at a council meeting last week. The woman's lawyer says she only feeds birds. But some of her neighbors say that she is also feeding rats, which have been spotted jumping from trees into a bird feeder. Anthony Moretti, the city's director of public works, said it will take months to get the problem under control.",
+                                                  "questions": [
+                                                            {
+                                                                      "question_id": 1,
+                                                                      "question": "What was the woman in the news charged with?",
+                                                                      "options": [
+                                                                                "A) She was involved in a conflict with bird lovers.",
+                                                                                "B) She was charged with mistreating animals.",
+                                                                                "C) She was on bad terms with her neighbors.",
+                                                                                "D) She was accused of violating a city law."
+                                                                      ],
+                                                                      "answer": "D",
+                                                                      "explanation": "新闻中提到这名女子被指控违反了罗德岛市禁止喂食野生动物的法律(charged with allegedly violating a Rhode Island city law against feeding wild animals)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 2,
+                                                                      "question": "What did Anthony Moretti say about the situation?",
+                                                                      "options": [
+                                                                                "A) It will take time to solve the rat problem.",
+                                                                                "B) All wild animals should be well protected.",
+                                                                                "C) The woman was not to blame for the situation.",
+                                                                                "D) No one should go unpunished for violating law."
+                                                                      ],
+                                                                      "answer": "A",
+                                                                      "explanation": "城市管理主任Anthony Moretti表示，解决老鼠问题需要几个月的时间(it will take months to get the problem under control)。"
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "passage_id": 2,
+                                                  "content": "NASA began taking applications Friday for four people to live a year in Mars Dune Alpha, a 1,700 direction, two square foot Martian habitat. The paid volunteers will work in an environment similar to Mars. Applications opened Friday and they're not seeking just anybody. The requirements are strict, including a master's degree in a science, engineering or math field or pilot experience. Only American citizens or permanent U.S. residents are eligible. The food will all be ready to eat space food. The participants will grow crops, but not potatoes like in the movie The Martian.",
+                                                  "questions": [
+                                                            {
+                                                                      "question_id": 3,
+                                                                      "question": "What will the four volunteers do according to the news?",
+                                                                      "options": [
+                                                                                "A) Communicate with astronauts in Mars Dune Alpha.",
+                                                                                "B) Work in an environment resembling Mars.",
+                                                                                "C) Build a Martian habitat in Houston.",
+                                                                                "D) Send in applications before Friday."
+                                                                      ],
+                                                                      "answer": "B",
+                                                                      "explanation": "新闻中提到志愿者将在类似火星的环境中工作(will work in an environment similar to Mars)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 4,
+                                                                      "question": "What will the volunteers eat during the experiment?",
+                                                                      "options": [
+                                                                                "A) Ready-made food.",
+                                                                                "B) Food that is organic.",
+                                                                                "C) Food they grow.",
+                                                                                "D) Potatoes mostly."
+                                                                      ],
+                                                                      "answer": "A",
+                                                                      "explanation": "新闻提到食物将全部是即食太空食品(food will all be ready to eat space food)。"
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "passage_id": 3,
+                                                  "content": "A Japanese mayor is facing a public backlash after biting the Olympic gold medal of a softball player. Takashi Kawamura, the mayor of Nagoya, sparked outrage after pulling down his mask and biting the medal of Miu Goto. The athlete was visiting the mayor following her team's victory at the Tokyo 2020 Games. His apparent disregard for coronavirus restrictions led to more than 7,000 complaints to the city authorities. The mayor's action has been condemned by the Japanese public, as well as by the International Olympic Committee. Social media users described his behavior as unhygienic and disrespectful. The mayor has since apologized and offered to pay for the cost of a new one. Some Olympians said they treat their medals as treasures.",
+                                                  "questions": [
+                                                            {
+                                                                      "question_id": 5,
+                                                                      "question": "What did the Japanese mayor do according to the news?",
+                                                                      "options": [
+                                                                                "A) He apologized for scratching an athlete's gold medal.",
+                                                                                "B) He was asked to present a gold medal to Miu Goto.",
+                                                                                "C) He bit a softball player's Olympic gold medal.",
+                                                                                "D) He attracted public attention at a media event."
+                                                                      ],
+                                                                      "answer": "C",
+                                                                      "explanation": "新闻中提到日本市长咬了一名垒球运动员的奥运金牌(biting the Olympic gold medal of a softball player)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 6,
+                                                                      "question": "What did the mayor offer to do?",
+                                                                      "options": [
+                                                                                "A) Have another picture taken with the Olympic medalist.",
+                                                                                "B) Apologize to the International Olympic Committee.",
+                                                                                "C) Get the damaged medal repaired.",
+                                                                                "D) Pay for the cost of a new medal."
+                                                                      ],
+                                                                      "answer": "D",
+                                                                      "explanation": "市长表示愿意支付新奖牌的费用(offered to pay for the cost of a new one)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 7,
+                                                                      "question": "How do some Olympians regard their medals?",
+                                                                      "options": [
+                                                                                "A) Allow no one to touch them.",
+                                                                                "B) See them as symbols of honor.",
+                                                                                "C) Treat them as treasures.",
+                                                                                "D) Keep them in a safe place."
+                                                                      ],
+                                                                      "answer": "C",
+                                                                      "explanation": "一些奥运选手表示他们把奖牌当作珍宝(treat their medals as treasures)。"
+                                                            }
+                                                  ]
+                                        }
+                              ]
+                    },
+                    {
+                              "section": "B",
+                              "description": "Section B - Conversations",
+                              "introduction": "In this section, you will hear two conversations. At the end of each conversation, you will hear several questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
+                              "passages": [
+                                        {
+                                                  "passage_id": 1,
+                                                  "content": "M: What's that on your computer screen?\nW: It's a plastic sheet that blocks blue light.\nM: What's wrong with blue light?\nW: Blue light includes natural light, but it also includes light that isn't natural. You know, like from screens and devices.\nM: What's so bad about it?\nW: It can disrupt your sleep patterns. It can cause eye strain, headaches, and fatigue. It's also been linked to obesity, heart disease, and diabetes. I'm trying to be more careful about my exposure to blue light, especially before bed.\nM: I haven't slept enough in months because I have too much work to do.\nW: Well, that's not good for you. Sleep deprivation can lead to all sorts of health problems. Sleep is probably even more important than we thought. I've been reading a lot about it lately. I think we're only beginning to understand how important it is.\nM: I know. I should try to get more sleep.",
+                                                  "questions": [
+                                                            {
+                                                                      "question_id": 8,
+                                                                      "question": "What did the woman do to her computer?",
+                                                                      "options": [
+                                                                                "A) She covered its screen with a plastic sheet.",
+                                                                                "B) She connected it with her smartphone.",
+                                                                                "C) She decorated it with colorful stickers.",
+                                                                                "D) She bought some new software for it."
+                                                                      ],
+                                                                      "answer": "A",
+                                                                      "explanation": "女士用塑料薄膜覆盖了电脑屏幕(a plastic sheet that blocks blue light)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 9,
+                                                                      "question": "What does the woman say about blue light?",
+                                                                      "options": [
+                                                                                "A) It may not be simply blue.",
+                                                                                "B) It includes unnatural light.",
+                                                                                "C) It is more harmful to young people.",
+                                                                                "D) It induces people to fall asleep."
+                                                                      ],
+                                                                      "answer": "B",
+                                                                      "explanation": "女士解释说蓝光包括自然光，但也包括非自然光(Blue light includes natural light, but it also includes light that isn't natural)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 10,
+                                                                      "question": "What does the man say about himself?",
+                                                                      "options": [
+                                                                                "A) He has had much trouble falling asleep.",
+                                                                                "B) He has had some sort of health problems.",
+                                                                                "C) He has stayed up playing computer games.",
+                                                                                "D) He has been burdened with excessive work."
+                                                                      ],
+                                                                      "answer": "D",
+                                                                      "explanation": "男士表示他因为工作太多而几个月没有睡够(I haven't slept enough in months because I have too much work to do)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 11,
+                                                                      "question": "What does the woman conclude about sleep?",
+                                                                      "options": [
+                                                                                "A) Exposure to blue light is the chief cause of obesity.",
+                                                                                "B) Sleep may be more important than people assumed.",
+                                                                                "C) Sleep may also be negatively affected by natural light.",
+                                                                                "D) Overuse of electronic devices may cause heart disease."
+                                                                      ],
+                                                                      "answer": "B",
+                                                                      "explanation": "女士提到睡眠可能比人们想象的更重要(sleep is probably even more important than we thought)。"
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "passage_id": 2,
+                                                  "content": "W: Do you remember when we were kids, and adults would ask us what we wanted to be when we grew up?\nM: Yeah, I do. I remember my answers changed depending on what I was into at the time. I wanted to be a fireman, an astronaut, a professional basketball player, and even a garbage collector at one point.\nW: I wanted to be a pop singer. I spent hours singing in front of the mirror with my hairbrush as a microphone.\nM: That's cute. What does your daughter say when people ask her?\nW: She says she wants to be a mechanical engineer. It's the perfect adult-approved answer, sensible and ambitious.\nM: That's impressive. Does she know what a mechanical engineer does?\nW: Not really. She just knows they build things, and she likes the idea of building things. But that's the kind of goal setting I like to see in children, springing from their boundless imaginations.\nM: I agree. I think sometimes as adults, we try to impose our own dreams on our kids, or we dismiss their dreams as unrealistic.\nW: Exactly. I think we should focus more on helping our kids understand who they are, rather than telling them who they should be.",
+                                                  "questions": [
+                                                            {
+                                                                      "question_id": 12,
+                                                                      "question": "What did adults often ask the speakers when they were kids?",
+                                                                      "options": [
+                                                                                "A) What they wanted to be when grown up.",
+                                                                                "B) What their favorite cartoon character was.",
+                                                                                "C) What they learned from computer games.",
+                                                                                "D) What they liked to do most after school."
+                                                                      ],
+                                                                      "answer": "A",
+                                                                      "explanation": "对话中提到大人经常问孩子长大后想做什么工作(what I wanted to be when I grew up)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 13,
+                                                                      "question": "What does the woman's daughter want to be?",
+                                                                      "options": [
+                                                                                "A) A stock broker.",
+                                                                                "B) A pop singer.",
+                                                                                "C) A mechanical engineer.",
+                                                                                "D) A basketball player."
+                                                                      ],
+                                                                      "answer": "C",
+                                                                      "explanation": "女士的女儿说想成为机械工程师(mechanical engineer)，这是成人最喜欢的答案，因为它是明智和雄心勃勃的完美结合。"
+                                                            },
+                                                            {
+                                                                      "question_id": 14,
+                                                                      "question": "What does the woman think children should be?",
+                                                                      "options": [
+                                                                                "A) Ambitious.",
+                                                                                "B) Sensible.",
+                                                                                "C) Imaginative.",
+                                                                                "D) Practical."
+                                                                      ],
+                                                                      "answer": "C",
+                                                                      "explanation": "女士喜欢看到孩子们有无限的想象力(springing from their boundless imaginations)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 15,
+                                                                      "question": "What should parents do according to the speakers?",
+                                                                      "options": [
+                                                                                "A) Relax their strict control of their kids.",
+                                                                                "B) Help their kids understand themselves.",
+                                                                                "C) Impose their own dreams on their kids.",
+                                                                                "D) Dismiss their high expectations of their kids."
+                                                                      ],
+                                                                      "answer": "B",
+                                                                      "explanation": "对话结尾提到父母应该帮助孩子了解自己(helping our kids understand who they are)。"
+                                                            }
+                                                  ]
+                                        }
+                              ]
+                    },
+                    {
+                              "section": "C",
+                              "description": "Section C - Passages",
+                              "introduction": "In this section, you will hear three passages. At the end of each passage, you will hear three or more questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
+                              "passages": [
+                                        {
+                                                  "passage_id": 1,
+                                                  "content": "Some phone companies are trying to introduce internet ready phones into African markets. But they're not the same as the smartphones that we use in the West. They're much more basic. They're called KaiOS phones. They strip out costs and preserve battery life for people who likely have inadequate access to electricity. Instead of a touchscreen, they're controlled with an old school keypad. But unlike the old feature phones, they can access the internet, use apps like WhatsApp, Facebook, Google Maps, and YouTube. And they can take pictures, although the quality isn't great. The phones cost around $20. The idea is to make phones that are affordable for people in developing countries. The goal is to give people access to the internet and digital services, even if they can't afford a smartphone.",
+                                                  "questions": [
+                                                            {
+                                                                      "question_id": 16,
+                                                                      "question": "What are some phone companies trying to do in Africa?",
+                                                                      "options": [
+                                                                                "A) Set up company branches.",
+                                                                                "B) Improve its infrastructure.",
+                                                                                "C) Introduce iPhones into its markets.",
+                                                                                "D) Promote Internet-ready phones."
+                                                                      ],
+                                                                      "answer": "D",
+                                                                      "explanation": "短文提到一些电话公司正在尝试将支持互联网的手机引入非洲市场(trying to introduce internet ready phones into African markets)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 17,
+                                                                      "question": "What is special about KaiOS phones?",
+                                                                      "options": [
+                                                                                "A) They cater to Africans' needs.",
+                                                                                "B) They are more expensive models.",
+                                                                                "C) They are more powerful and capable.",
+                                                                                "D) They boast the longest battery life."
+                                                                      ],
+                                                                      "answer": "A",
+                                                                      "explanation": "KaiOS手机专为非洲人的需求设计，保留了智能手机的基本功能，同时降低成本并延长电池寿命(strip out costs and preserve battery life for people who likely have inadequate access to electricity)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 18,
+                                                                      "question": "What do KaiOS phones have instead of a touchscreen?",
+                                                                      "options": [
+                                                                                "A) A large touchscreen.",
+                                                                                "B) An old-school keypad.",
+                                                                                "C) A voice-response device.",
+                                                                                "D) A digitally-designed system."
+                                                                      ],
+                                                                      "answer": "B",
+                                                                      "explanation": "KaiOS手机没有触摸屏，而是使用老式键盘(Instead of a touchscreen, they re-controlled with an old school keypad)。"
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "passage_id": 2,
+                                                  "content": "In the past, using recycled plastic to make plastic products was cheap. By contrast, fossil fuel plastic was more expensive. But now it's the other way around. New plastic is cheaper than recycled plastic. Why? Because of a boom in petroleum chemical production from the US. This has pushed down the price of new plastic. So the economics of recycling have been turned on their head. It's now cheaper for companies to use new plastic than recycled plastic. This is a problem for the recycling industry. It's also a problem for the environment. The UK government plans to tax companies which don't use at least 30% recycled plastic in their products. They're also planning to increase the quantity of recycled plastic in the market. The hope is that this will make recycled plastic more competitive with new plastic. But it's a complex problem with no easy solutions.",
+                                                  "questions": [
+                                                            {
+                                                                      "question_id": 19,
+                                                                      "question": "What does the passage say about using recycled plastic in the past?",
+                                                                      "options": [
+                                                                                "A) It ensured sustainable economic growth.",
+                                                                                "B) It was strongly opposed by manufacturers.",
+                                                                                "C) It was cheaper than using fossil fuel plastic.",
+                                                                                "D) It satisfied consumer demands on the whole."
+                                                                      ],
+                                                                      "answer": "C",
+                                                                      "explanation": "短文提到过去使用回收塑料制造塑料产品很便宜，而化石燃料塑料更贵(using recycled plastic to make plastic products was cheap. By contrast, fossil fuel plastic was more expensive)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 20,
+                                                                      "question": "What has contributed to the cheaper price of new plastic?",
+                                                                      "options": [
+                                                                                "A) The capacity to mass produce it.",
+                                                                                "B) The U.S. federal government's regulations.",
+                                                                                "C) A boom in market demand for clear plastic bottles.",
+                                                                                "D) A rapid increase in U.S. petroleum chemical production."
+                                                                      ],
+                                                                      "answer": "D",
+                                                                      "explanation": "新塑料变得更便宜是因为美国石油化工生产的繁荣(because of a boom in petroleum chemical production from the us)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 21,
+                                                                      "question": "What does the UK government plan to do?",
+                                                                      "options": [
+                                                                                "A) Require companies to use 30% of new plastic.",
+                                                                                "B) Increase the supply of new plastic in the market.",
+                                                                                "C) Reduce the amount of plastic pollution in local areas.",
+                                                                                "D) Take measures to promote the use of recycled plastic."
+                                                                      ],
+                                                                      "answer": "D",
+                                                                      "explanation": "英国政府计划对不使用至少30%回收塑料的公司征税，并计划增加市场上回收塑料的数量(plans to tax companies which don't use at least 30% recycled plastic in their products...planning to increase the quantity of recycled plastic in the market)。"
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "passage_id": 3,
+                                                  "content": "At the Dreamery, a business in Manhattan, naps are for sale. For $25, you can take a 45-minute nap in a private, comfortable pod. The Dreamery provides pajamas, essential oils, and a wake-up light. There are dozens of studies showing how napping improves memory, creativity, and productivity. But do you really need experts to tell you that? I mean, isn't it obvious that you're better at your job when you're not exhausted? I have a creative career, and the quality and quantity of work I can do emerges directly from my ability to concentrate. When I'm tired, my concentration is shot. I can either take a 20-minute nap and then do good work for the rest of the day, or I can struggle through in a state of exhaustion. What I find odd is that bosses insist that they take the second option and that napping is associated with laziness. It's as if they're saying, 'I don't care about the quality of your work. I just want to see you sitting at your desk, looking busy.' This attitude is counterproductive and outdated.",
+                                                  "questions": [
+                                                            {
+                                                                      "question_id": 22,
+                                                                      "question": "What is the Dreamery?",
+                                                                      "options": [
+                                                                                "A) It studies dreams.",
+                                                                                "B) It rents a place for nap-takers.",
+                                                                                "C) It is a hotel for business people.",
+                                                                                "D) It is a nap research institute."
+                                                                      ],
+                                                                      "answer": "B",
+                                                                      "explanation": "Dreamery是曼哈顿的一家企业，出售小睡的地方(At the Dreamery, a business in Manhattan, naps are for sale)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 23,
+                                                                      "question": "What does the speaker think is unnecessary?",
+                                                                      "options": [
+                                                                                "A) To find out creative people's work performance.",
+                                                                                "B) To see how many people can go without napping.",
+                                                                                "C) To understand the obvious importance of napping.",
+                                                                                "D) To feel how difficult it is to get his idea across."
+                                                                      ],
+                                                                      "answer": "C",
+                                                                      "explanation": "演讲者认为没有必要提及所有表明小睡好处的研究，因为这是显而易见的(do you really need experts to tell you that?)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 24,
+                                                                      "question": "How does the speaker say his work results are determined?",
+                                                                      "options": [
+                                                                                "A) They decline due to pointless meetings.",
+                                                                                "B) They depend on his ability to concentrate.",
+                                                                                "C) They enable him to enjoy a creative career.",
+                                                                                "D) They are affected by the overuse of social media."
+                                                                      ],
+                                                                      "answer": "B",
+                                                                      "explanation": "演讲者表示他的工作质量和数量直接来源于他集中注意力的能力(the quality and quantity of work I can do emerges directly from my ability to concentrate)。"
+                                                            },
+                                                            {
+                                                                      "question_id": 25,
+                                                                      "question": "What does the speaker find odd?",
+                                                                      "options": [
+                                                                                "A) Some bosses associate napping with laziness.",
+                                                                                "B) Many office workers nap during work hours.",
+                                                                                "C) Some bosses can concentrate without napping.",
+                                                                                "D) Many of his friends daydream in the office."
+                                                                      ],
+                                                                      "answer": "A",
+                                                                      "explanation": "演讲者觉得奇怪的是老板们坚持不让员工午睡，并将午睡与懒惰联系起来(bosses insist that they take the second option and that napping is associated with laziness)。"
+                                                            }
+                                                  ]
+                                        }
+                              ]
+                    }
+          ]
+}

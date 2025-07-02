@@ -1,0 +1,49 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# 后端架构
+
+后端基于Python Flask框架开发，提供RESTful API服务。
+
+## 目录结构
+
+- [english_training_platform/backend/app](mdc:english_training_platform/backend/app) - Flask应用主目录
+- [english_training_platform/backend/routes](mdc:english_training_platform/backend/routes) - API路由定义
+- [english_training_platform/backend/services](mdc:english_training_platform/backend/services) - 业务服务层
+- [english_training_platform/backend/data](mdc:english_training_platform/backend/data) - 数据存储
+
+## 核心服务
+
+### 材料管理服务
+- [english_training_platform/backend/services/material_manager.py](mdc:english_training_platform/backend/services/material_manager.py)
+- 负责材料的加载、查询和管理
+
+### 智能推荐Agent
+- [english_training_platform/backend/services/langchain_agent.py](mdc:english_training_platform/backend/services/langchain_agent.py)
+- 基于LangChain和LangGraph构建的智能推荐系统
+- 分析用户答题情况，推荐适合的学习材料
+
+### DeepSeek API集成
+- [english_training_platform/backend/services/deepseek.py](mdc:english_training_platform/backend/services/deepseek.py)
+- 提供大语言模型API调用功能
+
+## API路由
+
+### 听力练习
+- [english_training_platform/backend/routes/listening.py](mdc:english_training_platform/backend/routes/listening.py)
+- 提供听力材料和练习题的API
+
+### 口语练习
+- [english_training_platform/backend/routes/speaking.py](mdc:english_training_platform/backend/routes/speaking.py)
+- 提供口语练习和评估的API
+
+### 智能推荐
+- [english_training_platform/backend/routes/recommendation.py](mdc:english_training_platform/backend/routes/recommendation.py)
+- 提供基于用户学习情况的智能推荐API
+
+### 收藏管理
+- [english_training_platform/backend/routes/favorites.py](mdc:english_training_platform/backend/routes/favorites.py)
+- 提供用户收藏管理的API
+

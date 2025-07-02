@@ -1,0 +1,374 @@
+{
+          "materials": [
+                    {
+                              "id": "2023_03_1",
+                              "title": "2023年3月大学英语四级听力真题第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "综合",
+                                        "考试训练"
+                              ],
+                              "audio_file": "2023_3_4.mp3",
+                              "transcript": "本听力测试包含三个部分：A部分为新闻报道听力，B部分为对话听力，C部分为短文听力。各部分均有相应的题目和选项。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "section": "A",
+                                                  "question": "What is the news report mainly about?",
+                                                  "options": [
+                                                            "A) A proposed policy allowing Africans to travel in Africa without a visa.",
+                                                            "B) An agreement among 13 African countries to set up a free-trade zone.",
+                                                            "C) A plan to invite all African countries to join the African Union.",
+                                                            "D) An important initiative to permit tourists to visit Africa without a visa."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻主要介绍了非洲联盟提出的单一护照政策，允许非洲人在非洲国家之间自由移动(a single passport policy, allowing free movement between countries)。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "section": "A",
+                                                  "question": "What benefit will the free-trade deal bring to Africa?",
+                                                  "options": [
+                                                            "A) It will attract more investments from all over the world.",
+                                                            "B) It will help many African countries reduce trade deficits.",
+                                                            "C) It will reduce the cost of trade between African countries.",
+                                                            "D) It will allow Africans to play a bigger role in world trade."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻提到非洲大陆内部的贸易成本高于任何其他地区(trade within the African continent costs more than any other region)，因此自由贸易协议将降低非洲国家之间的贸易成本。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "section": "A",
+                                                  "question": "What is the new way of tackling climate change mentioned in the news?",
+                                                  "options": [
+                                                            "A) Cooling down volcanic rock with sea water.",
+                                                            "B) Storing carbon dioxide underground as a gas.",
+                                                            "C) Capturing carbon dioxide and burying it under the sea.",
+                                                            "D) Pumping carbon dioxide underground to form stone."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "新闻提到研究人员通过将二氧化碳泵入地下并将其转化为石头来应对气候变化(pumping carbon dioxide underground and turning it into stone)。"
+                                        },
+                                        {
+                                                  "id": 4,
+                                                  "section": "A",
+                                                  "question": "What is one potential difficulty with the new method?",
+                                                  "options": [
+                                                            "A) Lack of burying ground.",
+                                                            "B) Long time for processing.",
+                                                            "C) High consumption of water.",
+                                                            "D) Enormous cost of energy."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻提到这项技术的一个潜在困难是每埋藏一吨二氧化碳，需要25吨水(for each ton of carbon dioxide buried, the technique requires 25 tons of water)。"
+                                        },
+                                        {
+                                                  "id": 5,
+                                                  "section": "A",
+                                                  "question": "What does the news report say about bread consumption in France?",
+                                                  "options": [
+                                                            "A) It varies with the seasons.",
+                                                            "B) It has been on the decline.",
+                                                            "C) It has caused nationwide concern.",
+                                                            "D) It is ninety grams daily on average."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻报道提到法国面包消费量正在下降(bread consumption is on the decline)。"
+                                        },
+                                        {
+                                                  "id": 6,
+                                                  "section": "A",
+                                                  "question": "What does the news report say about French women?",
+                                                  "options": [
+                                                            "A) They emphasize food variety.",
+                                                            "B) They prefer French stick loaves.",
+                                                            "C) They do more cooking than men.",
+                                                            "D) They favor diets lower in calories."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "新闻提到饮食习惯的改变，特别是转向低热量饮食(the switch to those low in calories)，这可以解释为什么男女之间的消费差异如此之大。"
+                                        },
+                                        {
+                                                  "id": 7,
+                                                  "section": "A",
+                                                  "question": "What is one of the lifestyle changes in France according to the news report?",
+                                                  "options": [
+                                                            "A) They bake more bread at home.",
+                                                            "B) They spend less time eating breakfast.",
+                                                            "C) They eat more fruit than they used to.",
+                                                            "D) They put jam instead of butter on bread."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻提到法国人生活方式的改变，人们花在早餐上的时间减少了(people dedicating less time to breakfast)。"
+                                        },
+                                        {
+                                                  "id": 8,
+                                                  "section": "B",
+                                                  "question": "When does the man want to travel to London?",
+                                                  "options": [
+                                                            "A) After the rush hour.",
+                                                            "B) Early in the morning.",
+                                                            "C) As soon as possible.",
+                                                            "D) Around lunch time."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "对话中男士表示他想在高峰时段之后出发(after the rush hour)。"
+                                        },
+                                        {
+                                                  "id": 9,
+                                                  "section": "B",
+                                                  "question": "What does the man request when booking the train tickets?",
+                                                  "options": [
+                                                            "A) Two first class seats.",
+                                                            "B) Two seats together.",
+                                                            "C) One window seat.",
+                                                            "D) One seat near the exit."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "男士询问是否可以安排一个靠窗的座位(Is there any chance we could have a window seat for one of those?)。"
+                                        },
+                                        {
+                                                  "id": 10,
+                                                  "section": "B",
+                                                  "question": "Where should the man wait with his bicycles?",
+                                                  "options": [
+                                                            "A) In the middle of the platform.",
+                                                            "B) At the far end of the platform.",
+                                                            "C) Behind the yellow line.",
+                                                            "D) In the waiting room."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "女士告诉男士需要在站台的远端等待(wait at the far end of the platform)。"
+                                        },
+                                        {
+                                                  "id": 11,
+                                                  "section": "B",
+                                                  "question": "What should the man do when he arrives in London to get his bicycles back?",
+                                                  "options": [
+                                                            "A) Wait in a queue for his turn.",
+                                                            "B) Go to the baggage claim area.",
+                                                            "C) Pay an extra fee for the service.",
+                                                            "D) Give the ticket to the train guard."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "女士告诉男士到达伦敦后，将票交给列车员，他会把自行车还给你(hand the ticket to the guard and he will return the bicycles to you)。"
+                                        },
+                                        {
+                                                  "id": 12,
+                                                  "section": "B",
+                                                  "question": "What does the woman say about hat factories in Britain?",
+                                                  "options": [
+                                                            "A) Almost all of them were operating at a deficit.",
+                                                            "B) They have all been turned into movie theatres.",
+                                                            "C) Nearly all of them closed down decades ago.",
+                                                            "D) They have adapted to meet fashion changes."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "女士提到几十年前大多数帽子工厂都关闭了(practically all of those factories had to close down)。"
+                                        },
+                                        {
+                                                  "id": 13,
+                                                  "section": "B",
+                                                  "question": "What is special about Cube Movie Theater?",
+                                                  "options": [
+                                                            "A) It shows foreign movies exclusively.",
+                                                            "B) It shows movies from the 1950s.",
+                                                            "C) It is the oldest theatre in London.",
+                                                            "D) It is located next to a hat factory."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "女士表示Cube电影院是全国唯一一家只放映外国电影的电影院(the only movie theater in the whole country that only shows foreign movies)。"
+                                        },
+                                        {
+                                                  "id": 14,
+                                                  "section": "B",
+                                                  "question": "What does the man say about most people in London?",
+                                                  "options": [
+                                                            "A) They wear hats on social occasions.",
+                                                            "B) They don't speak foreign languages.",
+                                                            "C) They enjoy watching foreign movies.",
+                                                            "D) They don't go to movie theatres often."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "男士认为伦敦大多数人不会说外语(I would have thought that in London, most people don't speak foreign languages)。"
+                                        },
+                                        {
+                                                  "id": 15,
+                                                  "section": "B",
+                                                  "question": "What does the woman say about the foreign movies shown in her theatre?",
+                                                  "options": [
+                                                            "A) They are meant mostly for immigrants.",
+                                                            "B) They attract large crowds of young Londoners.",
+                                                            "C) They are hard for English people to appreciate.",
+                                                            "D) They have an English translation on the screen."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "女士表示所有电影在屏幕底部都有英文字幕(all movies come with English text at the bottom of the screen)。"
+                                        },
+                                        {
+                                                  "id": 16,
+                                                  "section": "C",
+                                                  "question": "What does Astrid Natley say about smartphones?",
+                                                  "options": [
+                                                            "A) She doesn't think smartphones can replace tablets.",
+                                                            "B) She incorporates smartphones into her teaching.",
+                                                            "C) She cannot stop children using smartphones.",
+                                                            "D) She regards smartphones as a distraction."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "Astrid Natley将手机融入她的课堂教学(incorporates phones into her classroom)。"
+                                        },
+                                        {
+                                                  "id": 17,
+                                                  "section": "C",
+                                                  "question": "Why does Helen Lockhart support a complete ban on smartphones in schools?",
+                                                  "options": [
+                                                            "A) To enforce school discipline.",
+                                                            "B) To make students concentrate.",
+                                                            "C) To help children grow up to be professionals.",
+                                                            "D) To cultivate children's good study habits."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "Helen Lockhart认为需要教育孩子们如何表现得像他们将要成为的专业人士(We need to teach children how to behave like the professionals they're striving to become)。"
+                                        },
+                                        {
+                                                  "id": 18,
+                                                  "section": "C",
+                                                  "question": "What does Richard Stone suggest students do in the classroom?",
+                                                  "options": [
+                                                            "A) Use books and pens only.",
+                                                            "B) Cut down their screen time.",
+                                                            "C) Make full use of electronic devices.",
+                                                            "D) Learn to use the internet for research."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "Richard Stone建议在课堂上只使用书本和笔(one of books and pens)，而不是手机和笔记本电脑。"
+                                        },
+                                        {
+                                                  "id": 19,
+                                                  "section": "C",
+                                                  "question": "How did Kate earn her reward?",
+                                                  "options": [
+                                                            "A) By cleaning the kitchen floor.",
+                                                            "B) By looking after her baby brother.",
+                                                            "C) By helping her mother do the dishes.",
+                                                            "D) By helping her brother wash windows."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "Kate通过帮助她的兄弟洗窗户(helped her brother wash windows)来获得奖励。"
+                                        },
+                                        {
+                                                  "id": 20,
+                                                  "section": "C",
+                                                  "question": "What did Kate do when she was checking the shipping status?",
+                                                  "options": [
+                                                            "A) She ordered a large number of dolls.",
+                                                            "B) She checked if a purple doll was ordered.",
+                                                            "C) She mistakenly canceled her mom's order.",
+                                                            "D) She ordered a more expensive doll instead."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "Kate在查看发货状态时，订购了价值350多美元的娃娃(with more than $350 worth of dolls in her cart, Kate placed the order)。"
+                                        },
+                                        {
+                                                  "id": 21,
+                                                  "section": "C",
+                                                  "question": "What did Kate's parents do with the dolls?",
+                                                  "options": [
+                                                            "A) They asked the children's hospital to pick them.",
+                                                            "B) They took all of them to the children's hospital.",
+                                                            "C) They opened all of them one by one.",
+                                                            "D) They discussed where to keep them."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "Kate的父母把所有娃娃都送到了儿童医院(took all the dolls to the playroom at the children's hospital)。"
+                                        },
+                                        {
+                                                  "id": 22,
+                                                  "section": "C",
+                                                  "question": "According to the passage, what can affect how successful one's life is?",
+                                                  "options": [
+                                                            "A) The time one starts school.",
+                                                            "B) The classroom atmosphere.",
+                                                            "C) The school that one attends.",
+                                                            "D) The relationship with classmates."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "根据短文，一个人开始上学的时间会对他们的生活产生持久的影响(the time when a person starts school has an enduring impact on their lives)。"
+                                        },
+                                        {
+                                                  "id": 23,
+                                                  "section": "C",
+                                                  "question": "What was the purpose of the Australian researchers' studies?",
+                                                  "options": [
+                                                            "A) To help parents decide when to send their children to school.",
+                                                            "B) To find causes for differences in the participants' performance.",
+                                                            "C) To identify students having potential to be professional athletes.",
+                                                            "D) To offer constructive suggestions for making educational policies."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "澳大利亚研究人员想要发现是什么导致了这些差异(they wanted to discover what was driving these differences)。"
+                                        },
+                                        {
+                                                  "id": 24,
+                                                  "section": "C",
+                                                  "question": "Who were the participants in the first study?",
+                                                  "options": [
+                                                            "A) Political leaders.",
+                                                            "B) Financial analysts.",
+                                                            "C) Professional athletes.",
+                                                            "D) High-school students."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "第一项研究的参与者是600多名高中生(more than 600 high school students)。"
+                                        },
+                                        {
+                                                  "id": 25,
+                                                  "section": "C",
+                                                  "question": "What characteristic do successful people share according to the passage?",
+                                                  "options": [
+                                                            "A) Leadership ability.",
+                                                            "B) Commitment to work.",
+                                                            "C) Risk-taking.",
+                                                            "D) Self-confidence."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文提到冒险精神是成功人士的特征(risk-taking...is also a characteristic of successful people)。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "visa",
+                                                  "translation": "签证",
+                                                  "example": "African leaders plan to turn the continent into a continent without borders. They will introduce a single passport policy, allowing free movement between countries."
+                                        },
+                                        {
+                                                  "word": "carbon dioxide",
+                                                  "translation": "二氧化碳",
+                                                  "example": "Researchers in Iceland found a new way of tackling climate change by pumping carbon dioxide underground and turning it into stone."
+                                        },
+                                        {
+                                                  "word": "consumption",
+                                                  "translation": "消费",
+                                                  "example": "The National Association of French Millers says bread consumption is on the decline."
+                                        },
+                                        {
+                                                  "word": "platform",
+                                                  "translation": "站台",
+                                                  "example": "All you need to do is wait at the far end of the platform."
+                                        },
+                                        {
+                                                  "word": "smartphone",
+                                                  "translation": "智能手机",
+                                                  "example": "Love them or hate them, smartphones have become an integral part of our daily lives."
+                                        },
+                                        {
+                                                  "word": "risk-taking",
+                                                  "translation": "冒险",
+                                                  "example": "While risk-taking can be considered a negative attribute, it's also a characteristic of successful people."
+                                        }
+                              ]
+                    }
+          ]
+}

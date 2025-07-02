@@ -1,0 +1,135 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# 数据结构
+
+本项目使用JSON格式存储数据，主要包括学习材料数据和用户数据。
+
+## 材料数据结构
+
+材料数据存储在 [english_training_platform/frontend/public/materials](mdc:english_training_platform/frontend/public/materials) 目录下。
+
+### 材料索引文件
+
+[english_training_platform/frontend/public/materials/index.json](mdc:english_training_platform/frontend/public/materials/index.json) 包含所有可用材料的索引。
+
+结构示例：
+```json
+[
+  {
+    "id": "2022_06",
+    "title": "2022年6月四级听力",
+    "type": "CET4",
+    "difficulty": 3,
+    "tags": ["四级", "听力", "2022"],
+    "path": "2022_06"
+  },
+  ...
+]
+```
+
+### 材料详情文件
+
+每个材料目录下的 materials.json 包含该材料的详细信息。
+
+结构示例：
+```json
+{
+  "id": "2022_06",
+  "title": "2022年6月四级听力",
+  "sections": [
+    {
+      "id": "section1",
+      "title": "Section A",
+      "audio": "section_a.mp3",
+      "questions": [...]
+    },
+    ...
+  ]
+}
+```
+
+### 听力文本文件
+
+每个材料目录下的 transcripts.json 包含听力原文。
+
+结构示例：
+```json
+{
+  "section1": {
+    "transcript": "完整的听力文本...",
+    "segments": [...]
+  },
+  ...
+}
+```
+
+## 用户数据结构
+
+用户数据存储在 [english_training_platform/backend/data](mdc:english_training_platform/backend/data) 目录下。
+
+### 收藏数据
+
+[english_training_platform/backend/data/favorites.json](mdc:english_training_platform/backend/data/favorites.json) 存储用户收藏的材料。
+
+结构示例：
+```json
+{
+  "user1": {
+    "favorites": [
+      {
+        "id": "2022_06",
+        "title": "2022年6月四级听力",
+        "addedAt": "2023-06-15T10:30:00Z"
+      },
+      ...
+    ]
+  },
+  ...
+}
+```
+
+## API数据结构
+
+### 用户答题数据
+
+用户提交的答题数据格式：
+```json
+[
+  {
+    "materialId": "2022_06",
+    "sectionId": "section1",
+    "questionId": "q1",
+    "userAnswer": "A",
+    "correctAnswer": "B",
+    "isCorrect": false,
+    "questionType": "选择题",
+    "questionTopic": "校园生活",
+    "difficulty": 3
+  },
+  ...
+]
+```
+
+### 推荐结果数据
+
+智能推荐系统返回的数据格式：
+```json
+{
+  "weak_areas": ["细节理解", "数字信息"],
+  "strong_areas": ["主旨理解", "推理判断"],
+  "performance_score": 65,
+  "recommendations": [
+    {
+      "id": "2022_06",
+      "title": "2022年6月四级听力",
+      "reason": "推荐理由...",
+      "match_score": 0.85
+    },
+    ...
+  ],
+  "improvement_suggestions": "改进建议..."
+}
+```

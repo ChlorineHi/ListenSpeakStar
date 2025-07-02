@@ -1,0 +1,76 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# 前端架构
+
+前端基于Vue.js框架开发，使用Tailwind CSS进行样式设计。
+
+## 目录结构
+
+- [english_training_platform/frontend/src](mdc:english_training_platform/frontend/src) - 源代码目录
+  - [english_training_platform/frontend/src/components](mdc:english_training_platform/frontend/src/components) - 可复用组件
+  - [english_training_platform/frontend/src/views](mdc:english_training_platform/frontend/src/views) - 页面视图
+  - [english_training_platform/frontend/src/router](mdc:english_training_platform/frontend/src/router) - 路由配置
+  - [english_training_platform/frontend/src/services](mdc:english_training_platform/frontend/src/services) - API服务
+  - [english_training_platform/frontend/src/assets](mdc:english_training_platform/frontend/src/assets) - 静态资源
+
+## 核心组件
+
+### 导航栏
+- [english_training_platform/frontend/src/components/Navbar.vue](mdc:english_training_platform/frontend/src/components/Navbar.vue)
+- 网站主导航组件
+
+### 应用头部
+- [english_training_platform/frontend/src/components/AppHeader.vue](mdc:english_training_platform/frontend/src/components/AppHeader.vue)
+- 应用头部组件
+
+### 推荐结果展示
+- [english_training_platform/frontend/src/components/RecommendationResult.vue](mdc:english_training_platform/frontend/src/components/RecommendationResult.vue)
+- 展示智能推荐结果的组件
+
+## 主要页面
+
+### 首页
+- [english_training_platform/frontend/src/views/Home.vue](mdc:english_training_platform/frontend/src/views/Home.vue)
+- 应用首页
+
+### 听力练习
+- [english_training_platform/frontend/src/views/Listening.vue](mdc:english_training_platform/frontend/src/views/Listening.vue)
+- 听力材料列表页面
+- [english_training_platform/frontend/src/views/ListeningDetail.vue](mdc:english_training_platform/frontend/src/views/ListeningDetail.vue)
+- 听力练习详情页面
+- [english_training_platform/frontend/src/views/ListeningResult.vue](mdc:english_training_platform/frontend/src/views/ListeningResult.vue)
+- 听力练习结果页面
+
+### 口语练习
+- [english_training_platform/frontend/src/views/Speaking.vue](mdc:english_training_platform/frontend/src/views/Speaking.vue)
+- 口语练习材料列表页面
+- [english_training_platform/frontend/src/views/SpeakingPractice.vue](mdc:english_training_platform/frontend/src/views/SpeakingPractice.vue)
+- 口语练习详情页面
+
+### 智能推荐
+- [english_training_platform/frontend/src/views/RecommendationPage.vue](mdc:english_training_platform/frontend/src/views/RecommendationPage.vue)
+- 推荐系统页面
+- [english_training_platform/frontend/src/views/RecommendationResult.vue](mdc:english_training_platform/frontend/src/views/RecommendationResult.vue)
+- 推荐结果展示页面
+
+### 收藏管理
+- [english_training_platform/frontend/src/views/Favorites.vue](mdc:english_training_platform/frontend/src/views/Favorites.vue)
+- 用户收藏管理页面
+
+## 服务层
+
+### 材料服务
+- [english_training_platform/frontend/src/services/MaterialService.js](mdc:english_training_platform/frontend/src/services/MaterialService.js)
+- 处理材料相关的API调用
+
+### 音频服务
+- [english_training_platform/frontend/src/services/AudioService.js](mdc:english_training_platform/frontend/src/services/AudioService.js)
+- 处理音频播放和录制功能
+
+### 推荐服务
+- [english_training_platform/frontend/src/services/RecommendationService.js](mdc:english_training_platform/frontend/src/services/RecommendationService.js)
+- 处理智能推荐相关的API调用
+

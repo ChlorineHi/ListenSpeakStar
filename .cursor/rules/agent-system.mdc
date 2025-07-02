@@ -1,0 +1,55 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# 智能推荐Agent系统
+
+智能推荐Agent系统基于LangChain和LangGraph构建，用于分析用户学习情况并推荐适合的学习材料。
+
+## 核心文件
+
+- [english_training_platform/backend/services/langchain_agent.py](mdc:english_training_platform/backend/services/langchain_agent.py) - Agent系统主文件
+- [english_training_platform/backend/services/deepseek.py](mdc:english_training_platform/backend/services/deepseek.py) - DeepSeek API集成
+
+## 系统架构
+
+Agent系统由以下几个主要组件构成：
+
+1. **AgentState类** - 定义Agent状态，包含用户答题数据、材料索引、分析结果和推荐结果
+2. **分析Agent** - 分析用户答题情况，识别薄弱领域
+3. **推荐Agent** - 基于分析结果推荐适合的材料
+4. **Agent工作流** - 使用LangGraph构建的工作流，连接各个Agent
+
+## 工作流程
+
+1. 初始化AgentState，包含用户答题数据和材料索引
+2. 分析Agent分析用户答题情况，生成分析结果
+3. 推荐Agent基于分析结果和材料索引生成推荐
+4. 返回最终结果，包含用户薄弱领域、强项领域、表现分数和推荐材料
+
+## 分析Agent
+
+分析Agent通过调用DeepSeek API分析用户的答题数据，识别以下内容：
+- 薄弱领域（如细节理解、数字信息等）
+- 强项领域
+- 错误模式
+- 表现分数
+- 推荐标准
+
+## 推荐Agent
+
+推荐Agent通过调用DeepSeek API，基于用户分析结果和可用材料生成推荐：
+- 推荐最适合的材料
+- 提供推荐理由
+- 计算匹配度评分
+- 提供改进建议
+
+## 错误处理
+
+系统包含完善的错误处理机制：
+- API调用错误处理
+- JSON解析错误处理
+- 推荐材料验证
+- 默认推荐机制
+

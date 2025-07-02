@@ -1,0 +1,75 @@
+{
+          "materials": [
+                    {
+                              "id": "cet6_001",
+                              "title": "CET6 听力训练 - 科技创新",
+                              "difficulty": "CET6",
+                              "topics": [
+                                        "科技",
+                                        "创新"
+                              ],
+                              "audio_file": "cet6_001.mp3",
+                              "transcript": "这是英语六级听力训练材料的文字记录，主题关于科技创新。这段材料探讨了现代科技的发展趋势，人工智能和自动化技术如何改变我们的生活和工作方式，以及未来可能出现的技术突破。通过这段材料，学生可以学习与科技创新相关的词汇和表达。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "question": "根据材料，下列哪项技术被认为最具革命性?",
+                                                  "options": [
+                                                            "A. 人工智能",
+                                                            "B. 虚拟现实",
+                                                            "C. 区块链",
+                                                            "D. 量子计算"
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "材料中特别强调了人工智能技术对各行各业的革命性影响。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "question": "材料中提到的技术发展可能带来哪些挑战?",
+                                                  "options": [
+                                                            "A. 环境污染加剧",
+                                                            "B. 就业市场变化",
+                                                            "C. 国际关系紧张",
+                                                            "D. 教育系统崩溃"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "材料讨论了自动化和人工智能如何改变就业市场，导致某些工作消失而创造新的工作机会。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "question": "讲者对未来科技发展持什么态度?",
+                                                  "options": [
+                                                            "A. 非常乐观",
+                                                            "B. 谨慎乐观",
+                                                            "C. 中立",
+                                                            "D. 担忧"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "讲者认为科技进步会带来巨大机遇，但同时也强调了需要谨慎应对可能出现的问题。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "innovation",
+                                                  "translation": "创新",
+                                                  "example": "Technological innovation is driving economic growth."
+                                        },
+                                        {
+                                                  "word": "artificial intelligence",
+                                                  "translation": "人工智能",
+                                                  "example": "Artificial intelligence systems can now perform tasks that once required human intelligence."
+                                        },
+                                        {
+                                                  "word": "automation",
+                                                  "translation": "自动化",
+                                                  "example": "Factory automation has increased productivity while reducing labor costs."
+                                        },
+                                        {
+                                                  "word": "breakthrough",
+                                                  "translation": "突破",
+                                                  "example": "Scientists have made a major breakthrough in cancer research."
+                                        }
+                              ]
+                    }
+          ]
+}

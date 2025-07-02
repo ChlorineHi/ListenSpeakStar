@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+          .btn {
+                    @apply px-4 py-2 rounded-lg font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-opacity-50;
+          }
+
+          .btn-primary {
+                    @apply bg-primary text-white hover:bg-primary-dark focus:ring-primary;
+          }
+
+          .btn-secondary {
+                    @apply bg-secondary text-neutral-darkest hover:bg-secondary-dark focus:ring-secondary;
+          }
+
+          .btn-success {
+                    @apply bg-success text-white hover:bg-success-dark focus:ring-success;
+          }
+
+          .btn-danger {
+                    @apply bg-danger text-white hover:bg-danger-dark focus:ring-danger;
+          }
+
+          .btn-outline {
+                    @apply border-2 bg-transparent hover:bg-neutral-lighter;
+          }
+
+          .btn-outline-primary {
+                    @apply border-primary text-primary hover:bg-primary hover:text-white;
+          }
+
+          .card {
+                    @apply bg-white rounded-lg shadow p-4;
+          }
+
+          .form-input {
+                    @apply w-full px-3 py-2 border border-neutral-light rounded-lg focus:outline-none focus:ring-2 focus:ring-primary focus:ring-opacity-50;
+          }
+
+          .form-label {
+                    @apply block mb-1 font-medium text-neutral-darker;
+          }
+
+          .badge {
+                    @apply px-2 py-1 text-xs font-medium rounded-full;
+          }
+
+          .badge-primary {
+                    @apply bg-primary-light text-primary-dark;
+          }
+
+          .badge-secondary {
+                    @apply bg-secondary-light text-secondary-dark;
+          }
+}

@@ -1,0 +1,129 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+# 编码规范
+
+本项目遵循以下编码规范和最佳实践。
+
+## Python 后端规范
+
+### 导入顺序
+1. 标准库导入
+2. 第三方库导入
+3. 本地模块导入
+
+示例：
+```python
+import os
+import json
+import logging
+
+from flask import Flask, request
+from langchain.prompts import PromptTemplate
+
+from .services import material_manager
+```
+
+### 文档字符串
+使用三引号文档字符串，包含描述、参数和返回值。
+
+示例：
+```python
+def analyze_user_answers(state: AgentState) -> AgentState:
+    """
+    分析用户的答题情况，识别薄弱领域
+    
+    Args:
+        state: 当前Agent状态
+        
+    Returns:
+        更新后的Agent状态
+    """
+    # 函数实现...
+```
+
+### 错误处理
+使用try-except块进行错误处理，并记录详细日志。
+
+示例：
+```python
+try:
+    # 尝试执行的代码
+    result = process_data(data)
+    return result
+except Exception as e:
+    logger.error(f"处理数据时出错: {str(e)}")
+    # 返回默认值或重新抛出异常
+```
+
+## JavaScript/Vue 前端规范
+
+### 组件命名
+- 使用PascalCase命名组件文件和组件名
+- 页面组件以"Page"或具体功能命名
+
+示例：
+```
+AppHeader.vue
+ListeningDetail.vue
+RecommendationResult.vue
+```
+
+### 方法命名
+- 使用camelCase命名方法
+- 方法名应表明其功能
+
+示例：
+```javascript
+fetchMaterials() {
+  // 实现...
+}
+
+handleUserInput(value) {
+  // 实现...
+}
+```
+
+### API调用
+- 将API调用封装在服务层
+- 使用async/await处理异步操作
+
+示例：
+```javascript
+// services/MaterialService.js
+async fetchMaterials() {
+  try {
+    const response = await axios.get('/api/materials');
+    return response.data;
+  } catch (error) {
+    console.error('获取材料失败:', error);
+    throw error;
+  }
+}
+
+// 组件中使用
+async loadMaterials() {
+  try {
+    this.materials = await MaterialService.fetchMaterials();
+  } catch (error) {
+    this.error = '加载材料失败';
+  }
+}
+```
+
+## 通用规范
+
+### 命名约定
+- 使用有意义的变量和函数名
+- 避免使用单字母变量名（除非是循环索引）
+- 常量使用全大写，下划线分隔
+
+### 注释
+- 复杂逻辑需要添加注释
+- 使用TODO标记待完成的任务
+
+### 版本控制
+- 提交消息应清晰描述变更
+- 避免提交未使用的代码或注释掉的代码块

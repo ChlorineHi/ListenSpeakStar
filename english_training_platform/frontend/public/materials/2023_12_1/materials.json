@@ -1,0 +1,379 @@
+{
+          "materials": [
+                    {
+                              "id": "2023_12_1",
+                              "title": "2023年12月大学英语四级听力真题第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "综合",
+                                        "考试训练"
+                              ],
+                              "audio_file": "2023_12_1.mp3",
+                              "transcript": "本听力测试包含三个部分：A部分为新闻报道听力，B部分为对话听力，C部分为短文听力。各部分均有相应的题目和选项。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "section": "A",
+                                                  "question": "Why did the police officer stop the SUV car?",
+                                                  "options": [
+                                                            "A) He noticed the driver was too young to drive.",
+                                                            "B) He found there was no one sitting at the wheel.",
+                                                            "C) He thought something must be wrong with the driver.",
+                                                            "D) He saw the driver changing lanes much too frequently."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到警察预计会发现一个喝醉酒或有医疗紧急情况的司机(He expected to find a driver who was either very drunk or having a medical emergency)，说明他认为司机有问题。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "section": "A",
+                                                  "question": "What was the 5-year-old boy planning to do?",
+                                                  "options": [
+                                                            "A) Buy a sports car.",
+                                                            "B) Drive across town.",
+                                                            "C) Leave California.",
+                                                            "D) Visit his sister."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中提到这个男孩计划前往加利福尼亚并购买一辆兰博基尼跑车(He was planning to travel to California and buy a Lamborghini sports car)。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "section": "A",
+                                                  "question": "What is the news report mainly about?",
+                                                  "options": [
+                                                            "A) How mobile phones change the way we shop.",
+                                                            "B) How mobile phones alter human skeletons.",
+                                                            "C) How mobile phones cause increased headaches.",
+                                                            "D) How mobile phones affect our communication."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻主要讲述手机如何改变我们的骨骼结构(the way the tiny machines in front of us are changing our skeletons)。"
+                                        },
+                                        {
+                                                  "id": 4,
+                                                  "section": "A",
+                                                  "question": "What happens to the bone in response to constant phone use?",
+                                                  "options": [
+                                                            "A) It loosens.",
+                                                            "B) It brightens.",
+                                                            "C) It hardens.",
+                                                            "D) It softens."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到这个过程可以比作皮肤因持续摩擦或压力而变硬(This process can be compared to the way the skin hardens in response to constant rubbing or pressure)，说明骨头会变硬。"
+                                        },
+                                        {
+                                                  "id": 5,
+                                                  "section": "A",
+                                                  "question": "What is the village going to do for the orange cat?",
+                                                  "options": [
+                                                            "A) Create Internet pages for him.",
+                                                            "B) Ask a local pet shop to adopt him.",
+                                                            "C) Name an orange tree after him.",
+                                                            "D) Hold a birthday party for him."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "新闻开头提到村子要为一只名叫Wilbur的橘猫举办生日派对(A village is going to throw a birthday party for an orange cat named Wilbur)。"
+                                        },
+                                        {
+                                                  "id": 6,
+                                                  "section": "A",
+                                                  "question": "What do we learn about the cat from the news?",
+                                                  "options": [
+                                                            "A) He is a bold and aggressive pet.",
+                                                            "B) He pays regular visits to village shops.",
+                                                            "C) He once bit a doctor's receptionist.",
+                                                            "D) He likes to sit on the hairdresser's chair."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻中提到Wilbur经常出现在当地商店(making a regular appearance at local shops)，并且他会自己进入任何商店(He'll just take himself into any shop, anywhere)。"
+                                        },
+                                        {
+                                                  "id": 7,
+                                                  "section": "A",
+                                                  "question": "What does the pub owner say about the cat?",
+                                                  "options": [
+                                                            "A) He is fond of luxury cat food.",
+                                                            "B) He likes to stay in villagers' houses.",
+                                                            "C) He knows everybody in the village.",
+                                                            "D) He often seeks food around her pub."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中没有直接提到猫喜欢豪华猫粮，但提到猫是酒吧的常客，并受到顾客欢迎，这可能暗示他喜欢在那里获取食物。"
+                                        },
+                                        {
+                                                  "id": 8,
+                                                  "section": "B",
+                                                  "question": "What are the speakers discussing?",
+                                                  "options": [
+                                                            "A) Who to order the food.",
+                                                            "B) Whether to have sandwiches.",
+                                                            "C) When to go for their meal.",
+                                                            "D) Where to have their lunch."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "对话开始男士问女士想去哪里吃午餐(where do you want to go for lunch?)，整个对话都在讨论去哪里吃午餐。"
+                                        },
+                                        {
+                                                  "id": 9,
+                                                  "section": "B",
+                                                  "question": "Where did the speakers see a famous movie star?",
+                                                  "options": [
+                                                            "A) In the shopping center nearby.",
+                                                            "B) In the expensive Italian style diner.",
+                                                            "C) At the Sandwich Place on Camden Street.",
+                                                            "D) At the American restaurant they frequent."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "男士提到他们在Camden街的三明治店看到了著名电影明星Brigette Clark(That's where we saw Brigette Clark, the famous movie star)。"
+                                        },
+                                        {
+                                                  "id": 10,
+                                                  "section": "B",
+                                                  "question": "Why does the woman need to get back by 2:30?",
+                                                  "options": [
+                                                            "A) There is to be a conference call.",
+                                                            "B) She has to meet with her boss then.",
+                                                            "C) There will be crowds of people waiting for her.",
+                                                            "D) She will have a photo taken with Brigette Clark."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "女士提到她需要在2:30之前回来参加电话会议(I need to get back by 2:30 for a conference call)。"
+                                        },
+                                        {
+                                                  "id": 11,
+                                                  "section": "B",
+                                                  "question": "What does the woman think of Jeremy's wife?",
+                                                  "options": [
+                                                            "A) She doesn't deem homemade soup tasty.",
+                                                            "B) She doesn't think his wife cooks well.",
+                                                            "C) She feels Jeremy would rather dine out.",
+                                                            "D) She has found the soup smells terrible."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "女士说'可怜的Jeremy,他妻子厨艺很糟糕'Poor Jeremy. His wife is a terrible cook)，表明她认为Jeremy的妻子不会做饭。'"
+                                        },
+                                        {
+                                                  "id": 12,
+                                                  "section": "B",
+                                                  "question": "What is the woman's occupation?",
+                                                  "options": [
+                                                            "A) A landlady.",
+                                                            "B) A waitress.",
+                                                            "C) A receptionist.",
+                                                            "D) A saleswoman."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "从对话内容可以看出，女士在酒店前台工作，负责接待客人、办理入住手续等，因此她是一名前台接待员(receptionist)。"
+                                        },
+                                        {
+                                                  "id": 13,
+                                                  "section": "B",
+                                                  "question": "What do we learn about the man's father-in-law?",
+                                                  "options": [
+                                                            "A) He was involved in a terrible car accident last April.",
+                                                            "B) He has much difficulty getting up and down stairs.",
+                                                            "C) He is expected to undergo a knee operation.",
+                                                            "D) He prefers to stay next door to the children."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "男士提到他的岳父自从去年四月做了膝盖手术后，上下楼梯有很大困难(My father-in-law has had terrible problems getting up and down stairs since his knee operation last April)。"
+                                        },
+                                        {
+                                                  "id": 14,
+                                                  "section": "B",
+                                                  "question": "Why does the man want to know about transportation options?",
+                                                  "options": [
+                                                            "A) To please his parents-in-law.",
+                                                            "B) To find the best trip for his kids.",
+                                                            "C) To satisfy his curiosity.",
+                                                            "D) To compare prices."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "男士表示他们会探索所有可用的交通选择，并且说是的，这对比较价格会很有帮助(that would be very helpful in comparing prices)。"
+                                        },
+                                        {
+                                                  "id": 15,
+                                                  "section": "B",
+                                                  "question": "What does the woman recommend the man and his family do?",
+                                                  "options": [
+                                                            "A) Visit a local art gallery.",
+                                                            "B) Go on a boat trip.",
+                                                            "C) Take some photos of the islands.",
+                                                            "D) Try her hand-made clothing."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "女士推荐他们乘船旅行(I would recommend getting out on a boat trip)，并提到孩子们会喜欢这个活动。"
+                                        },
+                                        {
+                                                  "id": 16,
+                                                  "section": "C",
+                                                  "question": "What does the speaker say about artificial intelligence agents?",
+                                                  "options": [
+                                                            "A) They are more intelligent than many of us.",
+                                                            "B) They have already become our new friends.",
+                                                            "C) They have begun to affect our social behavior.",
+                                                            "D) They play increasingly more important roles."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文开头提到人工智能代理在我们的生活中扮演着越来越重要的角色(Artificial intelligence agents play ever more influential roles in our lives)。"
+                                        },
+                                        {
+                                                  "id": 17,
+                                                  "section": "C",
+                                                  "question": "What did researchers want to know about artificial intelligence?",
+                                                  "options": [
+                                                            "A) Whether it might have any effect on the way we negotiate.",
+                                                            "B) Whether it might actually outperform human negotiators.",
+                                                            "C) Whether it can facilitate business transactions.",
+                                                            "D) Whether it can speed up legal procedures."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "研究人员想知道使用人工智能代理是否会影响我们的谈判方式(whether using an artificial intelligence agent might affect how we negotiate)。"
+                                        },
+                                        {
+                                                  "id": 18,
+                                                  "section": "C",
+                                                  "question": "What were participants more willing to do when using an agent to negotiate for them?",
+                                                  "options": [
+                                                            "A) Choose to be tough.",
+                                                            "B) Sympathize with their opponent.",
+                                                            "C) Use deceptive strategies.",
+                                                            "D) Appear to be pleasant."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文结尾提到参与者在指派代理为他们谈判时更愿意采用欺骗性策略(Participants were more willing to employ deceptive strategies when assigned an agent to negotiate on their behalf)。"
+                                        },
+                                        {
+                                                  "id": 19,
+                                                  "section": "C",
+                                                  "question": "What did researchers find about the benefits of the cooking course?",
+                                                  "options": [
+                                                            "A) They were perceived differently by some academics.",
+                                                            "B) They still existed six months after the course ended.",
+                                                            "C) They varied greatly among the course participants.",
+                                                            "D) They were only measurable within seven weeks."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "研究发现，课程结束六个月后，这些好处仍然存在(These benefits remained six months after the completion of the course)。"
+                                        },
+                                        {
+                                                  "id": 20,
+                                                  "section": "C",
+                                                  "question": "What does the speaker say about the mental health benefits?",
+                                                  "options": [
+                                                            "A) They can be easily seen among participants in a healthy weight range.",
+                                                            "B) They should be attributed to participants' change in diet behaviors.",
+                                                            "C) They are linked to cooking confidence and cooking satisfaction.",
+                                                            "D) They actually result from eating more fruits and vegetables."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文提到研究表明烹饪信心和烹饪满意度与心理健康益处之间存在联系(This suggests a link between cooking confidence and satisfaction around cooking, and mental health benefits)。"
+                                        },
+                                        {
+                                                  "id": 21,
+                                                  "section": "C",
+                                                  "question": "According to the speaker, what plays a part in who benefits most from learning to cook?",
+                                                  "options": [
+                                                            "A) Gender.",
+                                                            "B) Confidence.",
+                                                            "C) Health.",
+                                                            "D) Practice."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文提到性别起着作用(Gender plays a part)，并解释了男性和女性参与者在烹饪信心方面的差异。"
+                                        },
+                                        {
+                                                  "id": 22,
+                                                  "section": "C",
+                                                  "question": "What does the speaker say about the invisible bubble of personal space?",
+                                                  "options": [
+                                                            "A) It keeps others away.",
+                                                            "B) It causes discomfort.",
+                                                            "C) It remains visible.",
+                                                            "D) It varies in size."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "演讲者提到我们实际上有不同大小的泡泡(we actually have bubbles of different sizes)，每个泡泡适用于不同的人群。"
+                                        },
+                                        {
+                                                  "id": 23,
+                                                  "section": "C",
+                                                  "question": "What happens when a mere acquaintance enters our intimate space?",
+                                                  "options": [
+                                                            "A) It makes us feel uncomfortable.",
+                                                            "B) It renders the acquaintance a stranger.",
+                                                            "C) It brings the acquaintance closer to us.",
+                                                            "D) It causes the bubble around us to vanish."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文提到一个普通熟人进入我们的亲密空间会让我们感到不舒服(A mere acquaintance entering our intimate space makes us uncomfortable)。"
+                                        },
+                                        {
+                                                  "id": 24,
+                                                  "section": "C",
+                                                  "question": "Where do people feel comfortable conducting routine social interactions with strangers?",
+                                                  "options": [
+                                                            "A) In personal space.",
+                                                            "B) In social space.",
+                                                            "C) Within a distance of 18 inches.",
+                                                            "D) Over 2 feet away from one another."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文提到在社交空间中，人们感到舒适地进行与新熟人或完全陌生人的例行社交互动(Here, people feel comfortable conducting routine social interactions with new acquaintances or total strangers)。"
+                                        },
+                                        {
+                                                  "id": 25,
+                                                  "section": "C",
+                                                  "question": "When are the sizes of our personal bubbles fixed according to research?",
+                                                  "options": [
+                                                            "A) When we begin to feel fear.",
+                                                            "B) When we develop a sense of space.",
+                                                            "C) When we are 3 or 4 years old.",
+                                                            "D) When we enter our teens."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "研究表明，我们的泡泡大小在青少年时期就已固定(The sizes of our bubbles are fixed by our teens)。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "SUV",
+                                                  "translation": "运动型多用途车",
+                                                  "example": "A police officer in the U.S. stopped a large SUV car that was going very slowly and drifting across lanes on a highway."
+                                        },
+                                        {
+                                                  "word": "skeleton",
+                                                  "translation": "骨骼",
+                                                  "example": "What we have not yet understood is the way the tiny machines in front of us are changing our skeletons."
+                                        },
+                                        {
+                                                  "word": "haunt",
+                                                  "translation": "常去的地方",
+                                                  "example": "Among his favorite haunts are a local hairdresser, two pubs, and the Nottingham Primary School."
+                                        },
+                                        {
+                                                  "word": "conference call",
+                                                  "translation": "电话会议",
+                                                  "example": "I need to get back by 2:30 for a conference call."
+                                        },
+                                        {
+                                                  "word": "brochure",
+                                                  "translation": "宣传册",
+                                                  "example": "We have bunches of brochures here."
+                                        },
+                                        {
+                                                  "word": "negotiate",
+                                                  "translation": "谈判",
+                                                  "example": "Another role that they are expected to take over is negotiating on our behalf in commercial transactions or legal disputes."
+                                        },
+                                        {
+                                                  "word": "personal space",
+                                                  "translation": "个人空间",
+                                                  "example": "What is personal space? We often think of it as an invisible bubble of space surrounding us that others can't enter, without causing discomfort."
+                                        }
+                              ]
+                    }
+          ]
+}

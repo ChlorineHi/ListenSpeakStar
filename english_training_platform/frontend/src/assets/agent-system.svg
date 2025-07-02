@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="800" height="600">
+  <!-- 背景 -->
+  <rect width="800" height="600" fill="#f0f9ff" rx="15" ry="15" />
+  
+  <!-- 标题 -->
+  <text x="400" y="50" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#1e40af">
+    英语听力智能推荐Agent系统
+  </text>
+  
+  <!-- 连接线 -->
+  <path d="M400,120 L400,180 L200,250 L200,300" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="5,5" />
+  <path d="M400,120 L400,180 L600,250 L600,300" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="5,5" />
+  <path d="M200,380 L200,420 L400,470 L400,500" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="5,5" />
+  <path d="M600,380 L600,420 L400,470 L400,500" fill="none" stroke="#3b82f6" stroke-width="3" stroke-dasharray="5,5" />
+  
+  <!-- 协调Agent -->
+  <g>
+    <circle cx="400" cy="120" r="50" fill="#dbeafe" stroke="#3b82f6" stroke-width="3" />
+    <text x="400" y="115" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e40af">
+      协调Agent
+    </text>
+    <text x="400" y="135" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e40af">
+      管理工作流程
+    </text>
+  </g>
+  
+  <!-- 分析Agent -->
+  <g>
+    <rect x="150" y="300" width="100" height="80" rx="10" ry="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="3" />
+    <text x="200" y="330" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e40af">
+      分析Agent
+    </text>
+    <text x="200" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e40af">
+      识别薄弱环节
+    </text>
+  </g>
+  
+  <!-- 推荐Agent -->
+  <g>
+    <rect x="550" y="300" width="100" height="80" rx="10" ry="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="3" />
+    <text x="600" y="330" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e40af">
+      推荐Agent
+    </text>
+    <text x="600" y="350" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e40af">
+      推荐学习材料
+    </text>
+  </g>
+  
+  <!-- 用户 -->
+  <g>
+    <circle cx="400" cy="500" r="50" fill="#bfdbfe" stroke="#1d4ed8" stroke-width="3" />
+    <text x="400" y="495" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1e40af">
+      用户
+    </text>
+    <text x="400" y="515" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e40af">
+      学习者
+    </text>
+  </g>
+  
+  <!-- 数据流图标 -->
+  <g>
+    <rect x="300" y="200" width="80" height="40" rx="5" ry="5" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" />
+    <text x="340" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e40af">
+      答题数据
+    </text>
+  </g>
+  
+  <g>
+    <rect x="420" y="200" width="80" height="40" rx="5" ry="5" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" />
+    <text x="460" y="225" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e40af">
+      材料索引
+    </text>
+  </g>
+  
+  <g>
+    <rect x="350" y="420" width="100" height="40" rx="5" ry="5" fill="#eff6ff" stroke="#3b82f6" stroke-width="2" />
+    <text x="400" y="445" font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#1e40af">
+      推荐结果
+    </text>
+  </g>
+  
+  <!-- LangChain和LangGraph标识 -->
+  <text x="150" y="570" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="#3b82f6">
+    Powered by: LangChain + LangGraph
+  </text>
+  
+  <!-- DeepSeek标识 -->
+  <text x="650" y="570" font-family="Arial, sans-serif" font-size="14" font-weight="bold" text-anchor="end" fill="#3b82f6">
+    DeepSeek API
+  </text>
+</svg> 

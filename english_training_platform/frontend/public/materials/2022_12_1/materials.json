@@ -1,0 +1,374 @@
+{
+          "materials": [
+                    {
+                              "id": "2022_12_01",
+                              "title": "2022年12月大学英语四级听力真题第1套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "综合",
+                                        "考试训练"
+                              ],
+                              "audio_file": "2022_12_1_4.mp3",
+                              "transcript": "本听力测试包含三个部分：A部分为新闻报道听力，B部分为对话听力，C部分为短文听力。各部分均有相应的题目和选项。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "section": "A",
+                                                  "question": "What happened at one of Australia's largest gold mines?",
+                                                  "options": [
+                                                            "A) Part of its dam wall collapsed.",
+                                                            "B) It released a lot of harmful gases.",
+                                                            "C) It was destroyed by an earthquake.",
+                                                            "D) Some miners were trapped underground."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中提到金矿的大坝墙壁部分坍塌(a partial wall collapse at one of the mine's dams)。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "section": "A",
+                                                  "question": "What did the spokesperson say about the incident?",
+                                                  "options": [
+                                                            "A) It posed a safety threat to the miners.",
+                                                            "B) It caused damage too heavy to assess.",
+                                                            "C) It brought the mine's operations to a halt.",
+                                                            "D) It was followed by two more earthquakes."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "发言人表示事件发生后，矿场的运营已经暂停(the operations at the site had been halted)。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "section": "A",
+                                                  "question": "What did the hospital do for the delivery of the babies?",
+                                                  "options": [
+                                                            "A) It prepared beds for all the six new citizens.",
+                                                            "B) It assigned a team of doctors for each expected baby.",
+                                                            "C) It made ample preparations for various possibilities.",
+                                                            "D) It brought in the most advanced instruments."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "医院为每个预期出生的婴儿准备了一个医疗团队(five teams of doctors, one for each baby)。"
+                                        },
+                                        {
+                                                  "id": 4,
+                                                  "section": "A",
+                                                  "question": "What did the doctor say about the newborns?",
+                                                  "options": [
+                                                            "A) They had to undergo 2-3 physical checkups.",
+                                                            "B) They were all of normal size except the sixth.",
+                                                            "C) They could go home together with their mother a day later.",
+                                                            "D) They needed to stay in the hospital for a couple of months."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "医生表示新生儿需要在医院待两到三个月进行医疗监督(They needed to stay in the hospital for two to three months for medical supervision)。"
+                                        },
+                                        {
+                                                  "id": 5,
+                                                  "section": "A",
+                                                  "question": "What do we learn from the news report about the Spanish island Palmador?",
+                                                  "options": [
+                                                            "A) It is owned by the local government.",
+                                                            "B) It has been turned into a public park.",
+                                                            "C) It has been bought by an American.",
+                                                            "D) It is a perfect tourist destination."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "新闻中描述Palmador岛是一个完美的旅游目的地(a favorite destination for famous people)。"
+                                        },
+                                        {
+                                                  "id": 6,
+                                                  "section": "A",
+                                                  "question": "What do holidaymakers come to Palmador to enjoy?",
+                                                  "options": [
+                                                            "A) Its seafood.",
+                                                            "B) Its unusual coastline.",
+                                                            "C) Its unspoiled beaches.",
+                                                            "D) Its architecture."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "度假者来Palmador岛是为了享受其未受破坏的海滩(to enjoy its unspoiled beaches and crystal clear waters)。"
+                                        },
+                                        {
+                                                  "id": 7,
+                                                  "section": "A",
+                                                  "question": "What do estate agents say about Palmador?",
+                                                  "options": [
+                                                            "A) It has an unmatched location.",
+                                                            "B) It is worth over 18 million euros.",
+                                                            "C) It has beautiful weather all year round.",
+                                                            "D) It is an ideal place to meet famous stars."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "房地产经纪人表示Palmador岛拥有无与伦比的位置(a remarkable location that few other private islands of this size can match)。"
+                                        },
+                                        {
+                                                  "id": 8,
+                                                  "section": "B",
+                                                  "question": "What do we learn about the woman from the conversation?",
+                                                  "options": [
+                                                            "A) She has been attending some group classes.",
+                                                            "B) She has registered for two new gym classes.",
+                                                            "C) She became a member of the gym two months ago.",
+                                                            "D) She is entitled to a discount on all the gym exercises."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "对话中女士提到她两个月前注册成为健身房会员(I signed up two months ago)。"
+                                        },
+                                        {
+                                                  "id": 9,
+                                                  "section": "B",
+                                                  "question": "What is the gym center doing right now?",
+                                                  "options": [
+                                                            "A) Considering the promotion of its regular classes.",
+                                                            "B) Taking measures to expand its exercise programs.",
+                                                            "C) Recruiting coaches for hot yoga and advanced spinning.",
+                                                            "D) Offering existing members a discount off two new classes."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "健身中心正在为现有会员提供两个新课程的折扣(offering existing members discounts off two of our brand new classes)。"
+                                        },
+                                        {
+                                                  "id": 10,
+                                                  "section": "B",
+                                                  "question": "What does the man say is a pity for the woman?",
+                                                  "options": [
+                                                            "A) She missed the deadline for the 10-week course.",
+                                                            "B) She missed out on the gym's general discount.",
+                                                            "C) She didn't sign up for membership in time.",
+                                                            "D) She wasn't so much interested in hot yoga."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "男士表示很遗憾女士错过了健身房的普通折扣(It's a shame you missed out on the general discount)。"
+                                        },
+                                        {
+                                                  "id": 11,
+                                                  "section": "B",
+                                                  "question": "Why is the woman unwilling to pay in advance?",
+                                                  "options": [
+                                                            "A) She doesn't want to reveal her card details over the phone.",
+                                                            "B) She doesn't think it wise to pay before attending any class.",
+                                                            "C) She might have to cancel her registration any minute.",
+                                                            "D) She prefers to have the fee added to her monthly bill."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "女士不愿意提前支付是因为她不想通过电话透露她的卡详细信息(I don't like giving my card details over the phone anyway)。"
+                                        },
+                                        {
+                                                  "id": 12,
+                                                  "section": "B",
+                                                  "question": "Why are the speakers in China?",
+                                                  "options": [
+                                                            "A) To make investments.",
+                                                            "B) To sign a business contract.",
+                                                            "C) To research new markets.",
+                                                            "D) To open a new office."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "对话中提到他们在中国是为了研究新市场(There are lots of great potential markets here in China...once we get back and present our research)。"
+                                        },
+                                        {
+                                                  "id": 13,
+                                                  "section": "B",
+                                                  "question": "Where will the man stop over on his way to London?",
+                                                  "options": [
+                                                            "A) Dubai.",
+                                                            "B) Beijing.",
+                                                            "C) Amsterdam.",
+                                                            "D) Earl's Court."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "男士将在去往伦敦的路上在迪拜中转(so that's Dubai)。"
+                                        },
+                                        {
+                                                  "id": 14,
+                                                  "section": "B",
+                                                  "question": "What does the man ask the woman to do?",
+                                                  "options": [
+                                                            "A) Rent a bike for him to get around the town.",
+                                                            "B) Reserve a meeting room in the head office.",
+                                                            "C) Help him prepare his presentation.",
+                                                            "D) Send him a map of the hotel area."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "男士要求女士找到显示酒店位置的地图并在线发送给他(Can you find a map that shows where the hotel is and send it to me online?)。"
+                                        },
+                                        {
+                                                  "id": 15,
+                                                  "section": "B",
+                                                  "question": "What did the woman remind the man to do at the end of the conversation?",
+                                                  "options": [
+                                                            "A) Bring his projector.",
+                                                            "B) Keep all his receipts.",
+                                                            "C) Submit his claims form.",
+                                                            "D) Pay with his credit card."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "对话结束时，女士提醒男士保留所有收据(Just remember to keep all your receipts)。"
+                                        },
+                                        {
+                                                  "id": 16,
+                                                  "section": "C",
+                                                  "question": "What did the researchers of the new study try to determine?",
+                                                  "options": [
+                                                            "A) Whether a country's educational level is linked to women's rights.",
+                                                            "B) Whether women's rights are making good progress around the world.",
+                                                            "C) Whether a country's protection of women's rights is related to its public health.",
+                                                            "D) Whether women's rights are more often overlooked in less-developed countries."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "研究人员试图确定一个国家对妇女权利的保护与其公共健康之间是否有联系(they wanted to determine if there was a link between protection of women's rights and public health)。"
+                                        },
+                                        {
+                                                  "id": 17,
+                                                  "section": "C",
+                                                  "question": "What does the passage say about countries lacking in medical resources?",
+                                                  "options": [
+                                                            "A) Their people still have better health if women's rights are respected.",
+                                                            "B) They must make efforts to increase women's access to health care.",
+                                                            "C) Their people tend to attach importance to women's rights.",
+                                                            "D) They need to invest more in hospital staff and facilities."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文提到即使医疗资源不足，如果一个国家有强大的妇女权利，健康结果仍然更好(if a country has strong women's rights, the health outcomes are better)。"
+                                        },
+                                        {
+                                                  "id": 18,
+                                                  "section": "C",
+                                                  "question": "What has often been questioned regarding women's rights?",
+                                                  "options": [
+                                                            "A) Their link with a country's public health.",
+                                                            "B) Their potential impact on social progress.",
+                                                            "C) Their value to a country's international image.",
+                                                            "D) Their positive effect on economic development."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到妇女权利对经济发展的积极影响经常受到质疑(the value of women's rights has often been questioned from an economic standpoint)。"
+                                        },
+                                        {
+                                                  "id": 19,
+                                                  "section": "C",
+                                                  "question": "What does the passage say about hot sunshine?",
+                                                  "options": [
+                                                            "A) It creates a wonderful setting for dating.",
+                                                            "B) It may cause strange physical reactions.",
+                                                            "C) It turns parks into picnic sites.",
+                                                            "D) It may result in a crowded beach."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文提到阳光和高温可能会使你的身体以一些奇怪的方式反应(they can make your body react in some strange ways)。"
+                                        },
+                                        {
+                                                  "id": 20,
+                                                  "section": "C",
+                                                  "question": "What does the passage say is a negative side effect of water loss?",
+                                                  "options": [
+                                                            "A) Breathing difficulty.",
+                                                            "B) Bad breath.",
+                                                            "C) Excessive sweating.",
+                                                            "D) High blood pressure."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文提到水分流失会导致口臭(Bacteria accumulate because there isn't enough water in your mouth to wash it away)。"
+                                        },
+                                        {
+                                                  "id": 21,
+                                                  "section": "C",
+                                                  "question": "What is said to be a positive effect of sunshine?",
+                                                  "options": [
+                                                            "A) It protects people against bacteria.",
+                                                            "B) It enables people to build up endurance.",
+                                                            "C) It accelerates people's blood circulation.",
+                                                            "D) It provides people with extra energy."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到阳光可以通过提高能量水平对身体产生积极影响(the sun can have a positive influence on your body by raising your energy levels)。"
+                                        },
+                                        {
+                                                  "id": 22,
+                                                  "section": "C",
+                                                  "question": "What does the passage say about left-handed people?",
+                                                  "options": [
+                                                            "A) They are more likely to win in combat sports.",
+                                                            "B) They are in the minority among the population.",
+                                                            "C) They have a higher chance of joining sports teams.",
+                                                            "D) They have more disadvantages in getting ahead."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文提到左撇子在格斗运动中获胜的机会更高(Left-handed fighters also had higher chances to win)。"
+                                        },
+                                        {
+                                                  "id": 23,
+                                                  "section": "C",
+                                                  "question": "What is said to be special about left-handed people?",
+                                                  "options": [
+                                                            "A) Their brain is more powerful than that of right-handed people.",
+                                                            "B) The left side of their brain is more powerful than its right side.",
+                                                            "C) They tend to be a lot more aggressive than right-handed people.",
+                                                            "D) Their brain has a stronger connection between its two sides."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到左撇子的两个大脑半球之间的连接更强(the two brain spheres of left-handers are more strongly connected)。"
+                                        },
+                                        {
+                                                  "id": 24,
+                                                  "section": "C",
+                                                  "question": "Why are left-handed people better at solving more difficult problems?",
+                                                  "options": [
+                                                            "A) They have a larger brain.",
+                                                            "B) It still remains unknown.",
+                                                            "C) It is related to their genes.",
+                                                            "D) They are better at reasoning."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文提到没有人理解左撇子在解决更困难问题方面表现更好的原因(No one understands the reason for this)。"
+                                        },
+                                        {
+                                                  "id": 25,
+                                                  "section": "C",
+                                                  "question": "What should parents do about a left-handed child?",
+                                                  "options": [
+                                                            "A) Teach them how to perform tasks with their right hand.",
+                                                            "B) Help them fully develop their mathematical abilities.",
+                                                            "C) Encourage them to play fast-paced interactive sports.",
+                                                            "D) Advise them to choose jobs that require quick reactions."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文建议如果你有一个左撇子孩子，你应该鼓励他们打乒乓球、棒球和网球等互动性运动(you should encourage them to play table tennis, baseball and tennis)。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "collapse",
+                                                  "translation": "坍塌",
+                                                  "example": "The wall collapse at the Cadia mine came just a few days after two earthquakes hit the area."
+                                        },
+                                        {
+                                                  "word": "dam",
+                                                  "translation": "水坝",
+                                                  "example": "The dams contain waste products of mining and can contain materials which are harmful to the environment and human health."
+                                        },
+                                        {
+                                                  "word": "unspoiled",
+                                                  "translation": "未受破坏的",
+                                                  "example": "They come to enjoy its unspoiled beaches and crystal clear waters."
+                                        },
+                                        {
+                                                  "word": "discount",
+                                                  "translation": "折扣",
+                                                  "example": "Currently we are offering existing members discounts off two of our brand new classes."
+                                        },
+                                        {
+                                                  "word": "receipt",
+                                                  "translation": "收据",
+                                                  "example": "Just remember to keep all your receipts."
+                                        },
+                                        {
+                                                  "word": "left-handed",
+                                                  "translation": "左撇子的",
+                                                  "example": "Left-handed people can find it inconvenient to do certain things, writing in a notebook for example, but there are a number of advantages of being left-handed."
+                                        }
+                              ]
+                    }
+          ]
+}

@@ -1,0 +1,229 @@
+{
+          "transcripts": [
+                    {
+                              "id": "2023_03_1",
+                              "title": "2023年3月大学英语四级听力真题第一套",
+                              "sections": [
+                                        {
+                                                  "section": "A",
+                                                  "description": "新闻报道听力",
+                                                  "introduction": "In this section, you will hear three news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
+                                                  "passages": [
+                                                            {
+                                                                      "passage_id": 1,
+                                                                      "content": "African leaders plan to turn the continent into a continent without borders. They will introduce a single passport policy, allowing free movement between countries. The idea from the African Union has been modelled on the EU Schengen free movement deal. Europe has abolished many internal borders. This enables visa-free movement across the continent. Currently, 13 African countries have visa-free deals in place with each other. These allow citizens to visit another country without a visa. Some countries offer visas on arrival. In contrast, Americans are able to travel to 20 of the continent's countries without a visa or secure a visa on arrival. The African Union, which represents 54 states, wants to abolish the requirement of a visa for Africans visiting other African countries. It also wants to establish a free trade deal across the continent in the near future as trade within the African continent costs more than any other region.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 1,
+                                                                                          "question": "What is the news report mainly about?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "新闻主要介绍了非洲联盟提出的单一护照政策，允许非洲人在非洲国家之间自由移动(a single passport policy, allowing free movement between countries)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 2,
+                                                                                          "question": "What benefit will the free-trade deal bring to Africa?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "新闻提到非洲大陆内部的贸易成本高于任何其他地区(trade within the African continent costs more than any other region)，因此自由贸易协议将降低非洲国家之间的贸易成本。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 2,
+                                                                      "content": "Researchers in Iceland found a new way of tackling climate change by pumping carbon dioxide underground and turning it into stone. Other carbon capture and storage methods store carbon dioxide as a gas, but problems include a high cost and concern about leaks. This new method of burying carbon dioxide and turning it into stone is cheaper and more secure, the Guardian reports.\nTo turn carbon dioxide into stone, researchers with the Carbfix project pumped the gas into volcanic rock and sped up the natural process in which the volcanic rock reacts with gas and forms carbon minerals. The gas turned into solid in just two years—much faster than the hundreds or thousands of years researchers had predicted.\nThe research took place at Iceland's Hellisheidi power plant. Already, the project in Iceland has been increased in scale to bury 10,000 tons of carbon dioxide each year. One potential difficulty is that for each ton of carbon dioxide buried, the technique requires 25 tons of water. However, the lead researcher said seawater could be used.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 3,
+                                                                                          "question": "What is the new way of tackling climate change mentioned in the news?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "新闻提到研究人员通过将二氧化碳泵入地下并将其转化为石头来应对气候变化(pumping carbon dioxide underground and turning it into stone)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 4,
+                                                                                          "question": "What is one potential difficulty with the new method?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "新闻提到这项技术的一个潜在困难是每埋藏一吨二氧化碳，需要25吨水(for each ton of carbon dioxide buried, the technique requires 25 tons of water)。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 3,
+                                                                      "content": "People in France are keeping away from the narrow French stick loaf in favor of healthier, cheaper options, a millers association has said. The National Association of French Millers says bread consumption is on the decline, with French people eating nine grams less than in the previous year. The association is concerned about the effects this trend will have on their trade, and suggested three reasons why it is happening.\nFirstly, the association cited changing diets, in particular the switch to those low in calories, as a factor in the reduction of bread consumption. This could explain why the difference in consumption between genders is so big. Nowadays, men eat an approximate average of 140 grams of bread daily, whereas women eat 80 to 90 grams.\nThe second reason, they say, is lifestyle changes in the country, with people dedicating less time to breakfast when bread would traditionally be eaten with butter and jam.\nFinally, the rising cost of bread is considered to be a factor, with the price of a French stick loaf increasing by nearly 25% in the last 10 years.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 5,
+                                                                                          "question": "What does the news report say about bread consumption in France?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "新闻报道提到法国面包消费量正在下降(bread consumption is on the decline)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 6,
+                                                                                          "question": "What does the news report say about French women?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "新闻提到饮食习惯的改变，特别是转向低热量饮食(the switch to those low in calories)，这可以解释为什么男女之间的消费差异如此之大。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 7,
+                                                                                          "question": "What is one of the lifestyle changes in France according to the news report?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "新闻提到法国人生活方式的改变，人们花在早餐上的时间减少了(people dedicating less time to breakfast)。"
+                                                                                }
+                                                                      ]
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "section": "B",
+                                                  "description": "对话听力",
+                                                  "introduction": "In this section, you will hear two long conversations. At the end of each conversation, you will hear four questions. Both the conversation and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
+                                                  "passages": [
+                                                            {
+                                                                      "passage_id": 1,
+                                                                      "content": "W: Next, please.\nM: Yes, I'd like to book two train tickets to London tomorrow morning, please.\nW: Okay. What time would you like to go?\nM: Well, after the rush hour, I think. We'd like to avoid the crowds if possible. So probably sometime around 10 O'clock.\nW: No problem. Just give me a minute. There's one here at 09:47, then one at 10:12, and then a third at 10:26.\nM: The one at 10:12 sounds good.\nW: All right. Would you like to sit in first or second class?\nM: Second class is fine, thanks. Is there any chance we could have a window seat for one of those?\nW: No problem. And I've booked those seats next to each other for you. The total price is 36 pounds 50 cents. Is there anything else?\nM: Yes, actually, we'll be taking our bicycles with us. What is the arrangement for that and will it cost extra?\nW: It's no extra cost. The price will be the same. All you need to do is wait at the far end of the platform. When the train arrives, tell the train guard where you're going and he will help you secure the bicycles in the last carriage and give you a ticket. Then you can walk down through the train to your carriage and take your seats. When you arrive in London, hand the ticket to the guard and he will return the bicycles to you.\nM: Thank you for the information. That's very helpful.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 8,
+                                                                                          "question": "When does the man want to travel to London?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "对话中男士表示他想在高峰时段之后出发(after the rush hour)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 9,
+                                                                                          "question": "What does the man request when booking the train tickets?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "男士询问是否可以安排一个靠窗的座位(Is there any chance we could have a window seat for one of those?)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 10,
+                                                                                          "question": "Where should the man wait with his bicycles?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "女士告诉男士需要在站台的远端等待(wait at the far end of the platform)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 11,
+                                                                                          "question": "What should the man do when he arrives in London to get his bicycles back?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "女士告诉男士到达伦敦后，将票交给列车员，他会把自行车还给你(hand the ticket to the guard and he will return the bicycles to you)。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 2,
+                                                                      "content": "M: Good morning. Our guest today is Karen Brook. Karen is the managing director of Cube Movie Theater located on Underhill Road. Thank you for coming, Karen.\nW: Thank you for having me.\nM: So, tell us about your cinema, Cube Movie Theater.\nW: Sure. Cube Movie Theater has been around now for 1l years. It's located in what used to be a hat factory.\nM: Oh, really?\nW: Yeah. There used to be many hat factories in Britain until around the 1950s. But fashion changed and most people stopped wearing hats. So practically all of those factories had to close down. This one in particular was closed for 47 years before we transformed it into a movie theater.\nM: I see. I hear there's something else that makes your theater special. What is it that sets you apart from other theaters?\nW: We are the only movie theater in the whole country that only shows foreign movies.\nM: Is there enough demand for that? I would have thought that in London, most people don't speak foreign languages.\nW: Sure. There's enough demand. The fact that we have been open and in business for all these years proves it. London is a very large and international city. There are lots of people interested in watching such movies. Furthermore, l might add, all movies come with English text at the bottom of the screen. So, even if you don't understand what the actors say, you can still read it.\nM: Of course. What movie are you showing right now?\nW: This week we're showing a musical from Pakistan. It's very popular.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 12,
+                                                                                          "question": "What does the woman say about hat factories in Britain?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "女士提到几十年前大多数帽子工厂都关闭了(practically all of those factories had to close down)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 13,
+                                                                                          "question": "What is special about Cube Movie Theater?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "女士表示Cube电影院是全国唯一一家只放映外国电影的电影院(the only movie theater in the whole country that only shows foreign movies)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 14,
+                                                                                          "question": "What does the man say about most people in London?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "男士认为伦敦大多数人不会说外语(I would have thought that in London, most people don't speak foreign languages)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 15,
+                                                                                          "question": "What does the woman say about the foreign movies shown in her theatre?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "女士表示所有电影在屏幕底部都有英文字幕(all movies come with English text at the bottom of the screen)。"
+                                                                                }
+                                                                      ]
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "section": "C",
+                                                  "description": "短文听力",
+                                                  "introduction": "In this section, you will hear three passages. At the end of each passage, you will hear three or four questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
+                                                  "passages": [
+                                                            {
+                                                                      "passage_id": 1,
+                                                                      "content": "Love them or hate them, smartphones have become an integral part of our daily lives. But should they be left outside the classroom? Nick Gibb, minister for school standards in England, believes schools should ban their pupils from bringing in smartphones.\nAstrid Natley, a secondary school math teacher incorporates phones into her classroom.\n\"My school doesn't have money for tablets,\" She says, \"When students use their phones for research, they learn they have a powerful tool in their hands. If we stop children using phones, we're rejecting something they care about.\"\nMeanwhile, Helen Lockhart, a registered nurse working for community education, supports a complete ban.\n\"I'm banned from mobile use at work, and my phone must be handed in. If I'm caught with it in my pocket, I will be subject to disciplinary procedure, which will impact on my career. We need to teach children how to behave like the professionals they're striving to become.\"\nRichard Stone, an English teacher, thinks there should be a clear separation between school and home.\n\"Students should do things differently in the two environments. Children are getting more than enough screen time in their lives without the need to bring their phone into the classroom. The internet is too easy and too unreliable a research tool, so let's leave phones and laptops at home, and show them a different world in their lessons—one of books and pens.\" he says.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 16,
+                                                                                          "question": "What does Astrid Natley say about smartphones?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "Astrid Natley将手机融入她的课堂教学(incorporates phones into her classroom)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 17,
+                                                                                          "question": "Why does Helen Lockhart support a complete ban on smartphones in schools?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "Helen Lockhart认为需要教育孩子们如何表现得像他们将要成为的专业人士(We need to teach children how to behave like the professionals they're striving to become)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 18,
+                                                                                          "question": "What does Richard Stone suggest students do in the classroom?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "Richard Stone建议在课堂上只使用书本和笔(one of books and pens)，而不是手机和笔记本电脑。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 2,
+                                                                      "content": "Kate, a six-year-old girl, helped her brother wash windows to get a reward promised by her mother: a purple doll that she wanted.\nShe watched her mother order the doll online. The next day, Kate asked if she could check the shipping status, so her mom clicked on the web page and then walked out of the room.\nKate saw that her doll would be arriving the next afternoon, but then she noticed something else: suggestions about other dolls and toys she could order.\nFifteen minutes and a few clicks later, with more than $350 worth of dolls in her cart, Kate placed the order and ran off to play.\nThe next day, while checking on another online order, her mother noticed the long list of dolls on the way. She was able to cancel two of them, but it was too late to cancel the rest. She told her daughter that they were going to be returned.\nWhen the packages arrived, Kate wanted to open them, but her parents said no. Instead of sending back the dolls, her father suggested giving them to the local children's hospital. So, the next week, Kate's family loaded up their car and took all the dolls to the playroom at the children's hospital. Kate was depressed at first, but then she sat with some girl patients, and they opened up all the boxes together, laughing and playing. She had a lot of fun and learned a really good lesson.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 19,
+                                                                                          "question": "How did Kate earn her reward?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "Kate通过帮助她的兄弟洗窗户(helped her brother wash windows)来获得奖励。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 20,
+                                                                                          "question": "What did Kate do when she was checking the shipping status?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "Kate在查看发货状态时，订购了价值350多美元的娃娃(with more than $350 worth of dolls in her cart, Kate placed the order)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 21,
+                                                                                          "question": "What did Kate's parents do with the dolls?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "Kate的父母把所有娃娃都送到了儿童医院(took all the dolls to the playroom at the children's hospital)。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 3,
+                                                                      "content": "Can the date you were born affect how successful your life is? According to recent research done in Australia, the answer is yes. The researchers found that the time when a person starts school has an enduring impact on their lives. Those who are relatively old compared to their classmates have certain advantages over them. Previous research has found older students achieve better results. They are also more likely to attend university and become professional athletes, chief executives, and even important politicians.\nBut the Australian researchers wanted to discover what was driving these differences. They suspected older, more mature students obtained more self-confidence than their peers because they achieved better grades. To test this out, they conducted two studies. One was with high school students and the other with more than 1000Australian adults aged between 24 and 60 years old.\nIn the first study, more than 600 high school students were surveyed about their tendency to take risks and feel confident.\nIn the second study, those born on both sides of the cut-off date for starting school were asked to complete online math questions and rate their performance. They were also asked about the risks they took while riding bicycles and managing their finances. The researchers found that older students displayed greater risk-taking tendencies.\nWhile risk-taking can be considered a negative attribute, it's also a characteristic of successful people, including athletes, political leaders, and entrepreneurs.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 22,
+                                                                                          "question": "According to the passage, what can affect how successful one's life is?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "根据短文，一个人开始上学的时间会对他们的生活产生持久的影响(the time when a person starts school has an enduring impact on their lives)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 23,
+                                                                                          "question": "What was the purpose of the Australian researchers' studies?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "澳大利亚研究人员想要发现是什么导致了这些差异(they wanted to discover what was driving these differences)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 24,
+                                                                                          "question": "Who were the participants in the first study?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "第一项研究的参与者是600多名高中生(more than 600 high school students)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 25,
+                                                                                          "question": "What characteristic do successful people share according to the passage?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "短文提到冒险精神是成功人士的特征(risk-taking...is also a characteristic of successful people)。"
+                                                                                }
+                                                                      ]
+                                                            }
+                                                  ]
+                                        }
+                              ]
+                    }
+          ]
+}

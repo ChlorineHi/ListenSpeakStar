@@ -1,0 +1,379 @@
+{
+          "materials": [
+                    {
+                              "id": "2023_12_2",
+                              "title": "2023年12月大学英语四级听力真题第二套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "综合",
+                                        "考试训练"
+                              ],
+                              "audio_file": "2023_12_2.mp3",
+                              "transcript": "本听力测试包含三个部分：A部分为新闻报道听力，B部分为对话听力，C部分为短文听力。各部分均有相应的题目和选项。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "section": "A",
+                                                  "question": "What does the news report say about friends?",
+                                                  "options": [
+                                                            "A) Their interests are quite similar.",
+                                                            "B) They are generally the same age.",
+                                                            "C) Their brains work in harmony.",
+                                                            "D) They have the same ethnic background."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到朋友之间的大脑活动相似，工作协调一致(their brains operate in harmony with each other)。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "section": "A",
+                                                  "question": "What does the news report say about the relationship between friends' brain activity?",
+                                                  "options": [
+                                                            "A) It can work both ways.",
+                                                            "B) It can be touching.",
+                                                            "C) It is hard to predict.",
+                                                            "D) It resembles family ties."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中提到这种关系可能是双向的(The relationship probably goes two ways)：我们被想法相似的人吸引，然后我们又会影响他们的想法。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "section": "A",
+                                                  "question": "Why did the two men use DNA matching websites?",
+                                                  "options": [
+                                                            "A) To identify their biological fathers.",
+                                                            "B) To search for their half-brothers.",
+                                                            "C) To see whether they are actually related.",
+                                                            "D) To find out more about their ancestry."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "新闻中提到他们分别在DNA匹配网站上尝试发现更多关于他们祖先的信息(they made separate attempts on DNA matching websites to discover more about their ancestry)。"
+                                        },
+                                        {
+                                                  "id": 4,
+                                                  "section": "A",
+                                                  "question": "What do we learn about the two men?",
+                                                  "options": [
+                                                            "A) They were both 60 years of age.",
+                                                            "B) They were born to the same mother.",
+                                                            "C) They flew 737 airplanes as pilots.",
+                                                            "D) They were both given up for adoption."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻最后提到这对朋友出生于同一个母亲，相隔15个月(The pair were born to the same mother 15 months apart)。"
+                                        },
+                                        {
+                                                  "id": 5,
+                                                  "section": "A",
+                                                  "question": "What did the Australian tourist find on the beach?",
+                                                  "options": [
+                                                            "A) The kilometer-long beach was practically deserted.",
+                                                            "B) The beautiful beach was spoiled with lots of trash.",
+                                                            "C) Other tourists refused to join in the cleanup.",
+                                                            "D) One of his friends was caught littering."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "澳大利亚游客评论说，尽管有很多垃圾，但没有人做任何事情，海滩不像应有的那样美丽(He felt so sad to see such a gorgeous place littered with so much trash)。"
+                                        },
+                                        {
+                                                  "id": 6,
+                                                  "section": "A",
+                                                  "question": "Who recorded the tourists' good deed?",
+                                                  "options": [
+                                                            "A) The beach authorities.",
+                                                            "B) One of the five tourists.",
+                                                            "C) A passerby.",
+                                                            "D) A local woman."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到一个路过的人决定录下他们的善举并将其放到互联网上(A man passing by decided to video their good deed and put it on the Internet)。"
+                                        },
+                                        {
+                                                  "id": 7,
+                                                  "section": "A",
+                                                  "question": "What did one local woman comment on the situation?",
+                                                  "options": [
+                                                            "A) It was tourists not natives who were cleaning up the beach.",
+                                                            "B) The number of tourists to the beach is on a steady decline.",
+                                                            "C) Some natives were selling poor-quality food to tourists.",
+                                                            "D) The tourists' good deed was not noticed by the locals."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "一位当地女性评论说，她为游客而不是当地人在清理海滩感到尴尬(One local woman commented on being embarrassed that tourists were cleaning up their beach)。"
+                                        },
+                                        {
+                                                  "id": 8,
+                                                  "section": "B",
+                                                  "question": "Why can't the man join the woman for a run on Saturday morning?",
+                                                  "options": [
+                                                            "A) He has to play football with workmates.",
+                                                            "B) He has got some books to read.",
+                                                            "C) He is going to visit a friend.",
+                                                            "D) He is physically unfit for it."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "男士提到他上周末和同事踢足球时扭伤了脚踝(I hurt my ankle last weekend playing football with work colleagues)，因此他身体状况不适合跑步。"
+                                        },
+                                        {
+                                                  "id": 9,
+                                                  "section": "B",
+                                                  "question": "Why is the woman going to the zoo next Saturday?",
+                                                  "options": [
+                                                            "A) To teach kids about animal protection.",
+                                                            "B) To learn how popular zoos could be.",
+                                                            "C) To see some rare animals in cages.",
+                                                            "D) To give her little nephew a treat."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "女士说她的小侄子六岁生日，他喜欢动物园，所以全家都要去(My little nephew turns six, and he loves the zoo, so the whole family is going)，相当于给侄子一个特别待遇。"
+                                        },
+                                        {
+                                                  "id": 10,
+                                                  "section": "B",
+                                                  "question": "What do we learn about Dan?",
+                                                  "options": [
+                                                            "A) He enjoys excellent health.",
+                                                            "B) He is keen on extreme sports.",
+                                                            "C) He coaches tennis players every week.",
+                                                            "D) He spends most of his time in the gym."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "对话中提到Dan非常健康(Dan is extremely fit and healthy)，他经常去健身房，每周还打两三次网球。"
+                                        },
+                                        {
+                                                  "id": 11,
+                                                  "section": "B",
+                                                  "question": "What has the man been doing with his swollen ankle?",
+                                                  "options": [
+                                                            "A) Tending to his swollen ankle.",
+                                                            "B) Concentrating on reading.",
+                                                            "C) Writing three book reports.",
+                                                            "D) Planning Christmas celebrations."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "男士说他一直在赶上一些阅读(I've been catching up on some reading)，他在圣诞节收到了三本书，现在才开始阅读它们。"
+                                        },
+                                        {
+                                                  "id": 12,
+                                                  "section": "B",
+                                                  "question": "What does the woman say about John's book?",
+                                                  "options": [
+                                                            "A) It is being debated by hundreds of retirees.",
+                                                            "B) It is attracting many people's attention.",
+                                                            "C) It partly records his own experience.",
+                                                            "D) It argues for postponing retirement."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "女士提到John的书引起了很多关注(your book is getting a lot of attention)，部分原因是他写大多数人可以在40岁退休。"
+                                        },
+                                        {
+                                                  "id": 13,
+                                                  "section": "B",
+                                                  "question": "What does John suggest people do for retirement?",
+                                                  "options": [
+                                                            "A) One should foresee a financial crisis.",
+                                                            "B) One should trust financial planners' figures.",
+                                                            "C) One should have one million dollars to retire.",
+                                                            "D) One should start saving as early as possible."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "女士提到她读过文章推荐一百万美元作为退休的良好数字(I've read articles recommending one million dollars as a good figure for retirement)，John的回应表明这是大多数财务规划师给出的数字。"
+                                        },
+                                        {
+                                                  "id": 14,
+                                                  "section": "B",
+                                                  "question": "What does John say about retirement?",
+                                                  "options": [
+                                                            "A) It doesn't need to be permanent.",
+                                                            "B) It shouldn't be considered risky.",
+                                                            "C) It helps to reduce travel expenses.",
+                                                            "D) It is the way to quit a job one hates."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "John提到退休不必是永久性的(Retirement doesn't have to be permanent)，如果需要，人们可以重返工作岗位。"
+                                        },
+                                        {
+                                                  "id": 15,
+                                                  "section": "B",
+                                                  "question": "How can one save enough to retire by 40 according to John?",
+                                                  "options": [
+                                                            "A) By keeping close contact with one's employers.",
+                                                            "B) By following the counsel of financial planners.",
+                                                            "C) By retiring when one reaches sixty years old.",
+                                                            "D) By investing half of one's monthly income."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "John表示通过削减住房、食物和交通费用，并投资每月收入的一半(by cutting housing, food, and transport expenses and investing half your monthly income)，可以在40岁退休。"
+                                        },
+                                        {
+                                                  "id": 16,
+                                                  "section": "C",
+                                                  "question": "What does the research find about college students' food choices?",
+                                                  "options": [
+                                                            "A) They tended to be arbitrarily judged by individuals of opposing groups.",
+                                                            "B) They tended to be easily anticipated by those belonging to their own race.",
+                                                            "C) They were influenced by the presence of someone from an outsider group.",
+                                                            "D) They were readily shared among members of the same social or racial group."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "研究发现，大学生在不同种族的观察者在场时更可能选择健康食品，而不是与自己种族相同的观察者(college students were more likely to choose healthy food in the presence of an observer of a different race, as opposed to an observer from their own race)。"
+                                        },
+                                        {
+                                                  "id": 17,
+                                                  "section": "C",
+                                                  "question": "When were the students more likely to choose healthy food?",
+                                                  "options": [
+                                                            "A) When an unknown student from another university was present.",
+                                                            "B) When an experimenter from the research team took notice.",
+                                                            "C) When they were offered both candy and fruit as a snack.",
+                                                            "D) When they tried to make a positive impression on the researchers."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文提到当来自另一所大学的陌生学生在场时，31%的学生选择了更健康的选项，而在自己大学的陌生学生在场时，只有12%的学生选择了健康食品(When in the presence of an unknown student from their own university, only 12% of students selected the healthier option. However, this number was 31% when in the presence of an unknown student from another university)。"
+                                        },
+                                        {
+                                                  "id": 18,
+                                                  "section": "C",
+                                                  "question": "How can a healthy diet be promoted according to the research?",
+                                                  "options": [
+                                                            "A) By maintaining its positive image.",
+                                                            "B) By advertising its social benefits.",
+                                                            "C) By supporting struggling consumers.",
+                                                            "D) By teaching consumers diet strategies."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "研究发现，促进健康饮食的一种方式可能是宣传健康选择的社会益处(one way to promote a healthy diet could be to advertise the social benefits of healthy choices)。"
+                                        },
+                                        {
+                                                  "id": 19,
+                                                  "section": "C",
+                                                  "question": "What is the passage mainly about?",
+                                                  "options": [
+                                                            "A) The academic and learning issues struggling students encounter.",
+                                                            "B) The risk students face due to a history of mental health problems.",
+                                                            "C) The work universities are doing to help students succeed academically.",
+                                                            "D) The effect of interacting with therapy dogs on students under pressure."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文主要讲述与治疗犬互动对压力下的学生的影响(For college students under pressure, a dog may be the best stress fighter around)，特别是对于有心理健康问题或学习困难的学生。"
+                                        },
+                                        {
+                                                  "id": 20,
+                                                  "section": "C",
+                                                  "question": "What did the researchers measure in the students?",
+                                                  "options": [
+                                                            "A) Their executive functioning.",
+                                                            "B) Their communicative skills.",
+                                                            "C) Their academic networking.",
+                                                            "D) Their leadership capacities."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "研究人员测量了参与研究的学生的执行功能(The researchers measured executive functioning in the students involved in the study)，这是指计划、组织、激励、集中注意力和记忆所需的技能。"
+                                        },
+                                        {
+                                                  "id": 21,
+                                                  "section": "C",
+                                                  "question": "What does Pendry say about traditional stress management programs?",
+                                                  "options": [
+                                                            "A) Rid students of their anxiety.",
+                                                            "B) Add to some students' stress.",
+                                                            "C) Contribute little to typical student's success.",
+                                                            "D) Help students with mental issues pull through."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "Pendry认为传统的压力管理项目对于挣扎的学生来说可能被视为另一个讲座，让他们感到更加压力(Pendry believes those students may experience the programs as another lecture and feel even more stressed)。"
+                                        },
+                                        {
+                                                  "id": 22,
+                                                  "section": "C",
+                                                  "question": "What does the speaker say about taking risks in business?",
+                                                  "options": [
+                                                            "A) Work hard and plan carefully.",
+                                                            "B) Attempt to succeed at any cost.",
+                                                            "C) Aim high and expect great results.",
+                                                            "D) Remain optimistic even in difficulty."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文开头提到在商业中冒险并不意味着盲目进入商业然后期待伟大的结果，相反，在创业中冒险涉及仔细规划和努力工作(taking risks in entrepreneurship involves careful planning and hard work)。"
+                                        },
+                                        {
+                                                  "id": 23,
+                                                  "section": "C",
+                                                  "question": "What is key to business growth according to the speaker?",
+                                                  "options": [
+                                                            "A) Regarding failure as something inevitable.",
+                                                            "B) Trying out innovative marketing strategies.",
+                                                            "C) Venturing into sectors never explored before.",
+                                                            "D) Being willing to experiment with novel ideas."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到愿意尝试新想法是业务增长的关键(The willingness to experiment with new ideas is key to business growth)。"
+                                        },
+                                        {
+                                                  "id": 24,
+                                                  "section": "C",
+                                                  "question": "What should we do when we fail according to the speaker?",
+                                                  "options": [
+                                                            "A) Expect future success so as to move forward.",
+                                                            "B) Learn from our failure and forge ahead.",
+                                                            "C) Distinguish between good and bad risks.",
+                                                            "D) Examine our strategies and find out weaknesses."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文提到当你失败时，从中学习并前进(when you fail, learn from it and move forward)。"
+                                        },
+                                        {
+                                                  "id": 25,
+                                                  "section": "C",
+                                                  "question": "What advantage do risk-takers have according to the speaker?",
+                                                  "options": [
+                                                            "A) Fresher offers.",
+                                                            "B) Safer operation.",
+                                                            "C) More challenges.",
+                                                            "D) Less competition."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到当大多数人远离风险时，这意味着冒险者面临的竞争更少(when most individuals stay away from risk, it means less competition for risk-takers)。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "harmony",
+                                                  "translation": "和谐",
+                                                  "example": "Have you noticed how similar you are to your friends? It may be because your brains operate in harmony with each other."
+                                        },
+                                        {
+                                                  "word": "ancestry",
+                                                  "translation": "祖先",
+                                                  "example": "They made separate attempts on DNA matching websites to discover more about their ancestry."
+                                        },
+                                        {
+                                                  "word": "litter",
+                                                  "translation": "乱扔垃圾",
+                                                  "example": "He felt so sad to see such a gorgeous place littered with so much trash."
+                                        },
+                                        {
+                                                  "word": "swollen",
+                                                  "translation": "肿胀的",
+                                                  "example": "It's just a little swollen and I should be fine for next Saturday if you still want to go for a jog then."
+                                        },
+                                        {
+                                                  "word": "financial independence",
+                                                  "translation": "财务独立",
+                                                  "example": "Having investment income that's greater than monthly expenses."
+                                        },
+                                        {
+                                                  "word": "executive functioning",
+                                                  "translation": "执行功能",
+                                                  "example": "Executive function is a term for the skills one needs to plan, organize, motivate, concentrate and memorize."
+                                        },
+                                        {
+                                                  "word": "risk-taker",
+                                                  "translation": "冒险者",
+                                                  "example": "Risk-takers are best at adapting in difficult times."
+                                        }
+                              ]
+                    }
+          ]
+}

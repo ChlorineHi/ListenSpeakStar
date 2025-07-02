@@ -1,0 +1,379 @@
+{
+          "materials": [
+                    {
+                              "id": "2023_06_2",
+                              "title": "2023年6月大学英语四级听力真题第二套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "综合",
+                                        "考试训练"
+                              ],
+                              "audio_file": "2023_06_2.mp3",
+                              "transcript": "本听力测试包含三个部分：A部分为新闻报道听力，B部分为对话听力，C部分为短文听力。各部分均有相应的题目和选项。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "section": "A",
+                                                  "question": "What happened to the man mentioned in the news?",
+                                                  "options": [
+                                                            "A) A man was bitten by a snake.",
+                                                            "B) A man was taken to a hospital.",
+                                                            "C) A man kept a 4-foot snake as a pet.",
+                                                            "D) A man fell off his toilet seat."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中提到一名男子在抬起马桶盖时被一条4英尺长的蛇咬了(a man being bitten by a 4-foot snake when he lifted his toilet seat)。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "section": "A",
+                                                  "question": "What was unclear according to the police officer?",
+                                                  "options": [
+                                                            "A) Where the snake had been taken.",
+                                                            "B) Whether the snake was infected.",
+                                                            "C) How the snake was captured.",
+                                                            "D) Who owned the snake."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "警官表示不清楚蛇的主人是谁(It was unclear who the owner was)。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "section": "A",
+                                                  "question": "What has Andrea Belcher been doing since last April?",
+                                                  "options": [
+                                                            "A) Taking her trash out in fancy dresses.",
+                                                            "B) Amusing herself by going to ball parties.",
+                                                            "C) Sharing her photos with famous movie stars.",
+                                                            "D) Posting her daughter's photos on social media."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中提到Andrea Belcher自去年4月以来一直在做一件不寻常且有趣的事情，就是穿着晚礼服拿出垃圾(get dressed up to take out the trash)。"
+                                        },
+                                        {
+                                                  "id": 4,
+                                                  "section": "A",
+                                                  "question": "Why has Andrea kept up the videos?",
+                                                  "options": [
+                                                            "A) To make herself popular.",
+                                                            "B) To amuse people.",
+                                                            "C) To please her daughter.",
+                                                            "D) To record her achievements."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "Andrea解释说她这样做是为了给人们带来一点乐趣，让人们微笑(how nice it was to have a little bit of fun and craziness that made people smile)。"
+                                        },
+                                        {
+                                                  "id": 5,
+                                                  "section": "A",
+                                                  "question": "What can customers do at Frank's restaurant?",
+                                                  "options": [
+                                                            "A) Eat as much as they want for $10.",
+                                                            "B) Have a chance of winning a $100 prize.",
+                                                            "C) Have a meal even if they have no money.",
+                                                            "D) Get a free meal after answering some questions."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到在Frank's餐厅，即使没有钱但仍然饥饿的顾客可以从板子上取一张收据，不问任何问题就能获得食物(No money, but still hungry? No problem...Anyone who is hungry and wants something to eat can take one, no questions asked)。"
+                                        },
+                                        {
+                                                  "id": 6,
+                                                  "section": "A",
+                                                  "question": "How did the idea for the board of free meals start?",
+                                                  "options": [
+                                                            "A) It was brought up by two staffers.",
+                                                            "B) It helped to popularize her restaurant.",
+                                                            "C) It originated from a donation to her staff.",
+                                                            "D) It was suggested by some of her customers."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "免费餐食板的想法源于一位捐赠者给餐厅每位员工100美元的捐款(The idea for the board of free meals started after a donor came in with $100 for each member of its staff)。"
+                                        },
+                                        {
+                                                  "id": 7,
+                                                  "section": "A",
+                                                  "question": "What has happened since the drive started two weeks ago?",
+                                                  "options": [
+                                                            "A) Fifty customers have offered donations.",
+                                                            "B) More people have been giving than taking.",
+                                                            "C) Many people have come to eat at the restaurant.",
+                                                            "D) Most staffers have received messages of kindness."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "活动开展两周以来，提供餐票的人比领取的人多得多(there are a lot more people giving tickets than receiving)。"
+                                        },
+                                        {
+                                                  "id": 8,
+                                                  "section": "B",
+                                                  "question": "What is Steve Pinker's occupation?",
+                                                  "options": [
+                                                            "A) He is a psychologist.",
+                                                            "B) He is a famous writer.",
+                                                            "C) He is a host for a TV program.",
+                                                            "D) He is a primary school teacher."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "对话开头介绍Steve Pinker是McGill大学的心理学家(psychologist Steve Pinker from McGill University)。"
+                                        },
+                                        {
+                                                  "id": 9,
+                                                  "section": "B",
+                                                  "question": "What is the topic of today's program?",
+                                                  "options": [
+                                                            "A) Why social media accounts vanish without a trace.",
+                                                            "B) Why parents raise their children in different ways.",
+                                                            "C) Why people fail to respond to emails promptly.",
+                                                            "D) Why friends break off contact all of a sudden."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "今天节目的话题是为什么朋友突然消失(why friends suddenly disappear)。"
+                                        },
+                                        {
+                                                  "id": 10,
+                                                  "section": "B",
+                                                  "question": "How do children with an anxious attachment style react to a relationship breakdown with their parents?",
+                                                  "options": [
+                                                            "A) They simply shut themselves down.",
+                                                            "B) They avoid showing their emotions.",
+                                                            "C) They scream to get their parents back.",
+                                                            "D) They attempt to ignore the whole situation."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "具有焦虑型依恋风格的孩子在与父母关系破裂时会尖叫和哭泣，试图让父母回来(children with an anxious attachment style scream and cry to get their parents to come back)。"
+                                        },
+                                        {
+                                                  "id": 11,
+                                                  "section": "B",
+                                                  "question": "What does the man say about insecurely attached persons?",
+                                                  "options": [
+                                                            "A) They may regard any difference as the end of a relationship.",
+                                                            "B) They are on better terms with friends and romantic partners.",
+                                                            "C) They try to express their feelings and thoughts effectively.",
+                                                            "D) They attach more value to their relationships with others."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "不安全依恋的人可能会将任何分歧，无论在你看来多么微小，都视为关系的终结(To them, a difference, no matter how small in your eyes, signals the end of the relationship)。"
+                                        },
+                                        {
+                                                  "id": 12,
+                                                  "section": "B",
+                                                  "question": "What does the man say is special about Japanese jeans?",
+                                                  "options": [
+                                                            "A) Their price.",
+                                                            "B) Their color.",
+                                                            "C) Their quality.",
+                                                            "D) Their design."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "男士表示日本牛仔裤的特别之处在于其质量，他提到日本牛仔裤使用更高质量的面料，有更密的编织，比世界上任何其他牛仔裤都更耐用(the fabric they use is of a higher quality...They have a denser weave and a more durable than any other genes in the world)。"
+                                        },
+                                        {
+                                                  "id": 13,
+                                                  "section": "B",
+                                                  "question": "What does the woman think about jeans?",
+                                                  "options": [
+                                                            "A) Jeans are a typical American garment.",
+                                                            "B) America makes the best-known brands of jeans.",
+                                                            "C) America has the best weaving tools in the world.",
+                                                            "D) Jeans are available in a greater variety in America."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "女士认为牛仔裤是典型的美国服装(I would have thought America made the best jeans because it's a typical American garment)。"
+                                        },
+                                        {
+                                                  "id": 14,
+                                                  "section": "B",
+                                                  "question": "What does the man say about the dyes used for Japanese jeans?",
+                                                  "options": [
+                                                            "A) They are artificial.",
+                                                            "B) They are natural.",
+                                                            "C) They are unique.",
+                                                            "D) They are special."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "男士提到日本牛仔裤使用的染料是天然的(the dyes are natural)。"
+                                        },
+                                        {
+                                                  "id": 15,
+                                                  "section": "B",
+                                                  "question": "What does the man say about Japanese jeans at the end of the conversation?",
+                                                  "options": [
+                                                            "A) They are for casual wearing.",
+                                                            "B) They are popular with boys.",
+                                                            "C) They are much too pricey.",
+                                                            "D) They are worth the price."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "对话结束时，男士表示日本牛仔裤虽然价格昂贵，但完全值得(They are a little pricey, yes. But...I think they're totally worth it)。"
+                                        },
+                                        {
+                                                  "id": 16,
+                                                  "section": "C",
+                                                  "question": "How does the speaker feel after watching a superhero movie?",
+                                                  "options": [
+                                                            "A) He desires more in life.",
+                                                            "B) He wants to see it again.",
+                                                            "C) He feels as inspired as other audience members.",
+                                                            "D) He longs to become a superstar himself."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "演讲者表示每次看完超级英雄电影后，他都会感到一种渴望，意识到生活中应该有更多东西(I experience a sense of longing, realizing that there should be more in life)。"
+                                        },
+                                        {
+                                                  "id": 17,
+                                                  "section": "C",
+                                                  "question": "What does the speaker say about the plot of superhero films?",
+                                                  "options": [
+                                                            "A) It is rather unrealistic.",
+                                                            "B) It is extremely artistic.",
+                                                            "C) It is somewhat complicated.",
+                                                            "D) It is relatively predictable."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "演讲者表示每部超级英雄电影的情节都变得相对可预测(The plot of each superhero film has become relatively predictable)。"
+                                        },
+                                        {
+                                                  "id": 18,
+                                                  "section": "C",
+                                                  "question": "How do the elites criticize superhero films?",
+                                                  "options": [
+                                                            "A) They are biased against women.",
+                                                            "B) They are basically misleading.",
+                                                            "C) They are full of shootings.",
+                                                            "D) They are too simple."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "精英们批评超级英雄电影太简单(These movies are criticized as being too simple)。"
+                                        },
+                                        {
+                                                  "id": 19,
+                                                  "section": "C",
+                                                  "question": "What does the speaker say about storytelling?",
+                                                  "options": [
+                                                            "A) It can highlight leadership.",
+                                                            "B) It can help connect people.",
+                                                            "C) It is a means to inspire creative thinking.",
+                                                            "D) It is an intuitive way to solidify friendship."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "演讲者表示讲故事能在人与人之间建立联系(Storytelling forges connections among people)。"
+                                        },
+                                        {
+                                                  "id": 20,
+                                                  "section": "C",
+                                                  "question": "What do good stories do to listeners?",
+                                                  "options": [
+                                                            "A) Allow them to recite data points.",
+                                                            "B) Make them more open to learning.",
+                                                            "C) Enable them to remember the main idea.",
+                                                            "D) Stimulate them to engage in discussions."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "好的故事让听众更愿意学习(They allow the listener to enter the story, making them more open to learning)。"
+                                        },
+                                        {
+                                                  "id": 21,
+                                                  "section": "C",
+                                                  "question": "What can leaders do with a simple personal story?",
+                                                  "options": [
+                                                            "A) Inspire listeners' imagination.",
+                                                            "B) Enrich their own experience.",
+                                                            "C) Convey fundamental values.",
+                                                            "D) Explain insightful ideas."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "领导者可以通过简单的个人故事传达基本价值观(With a simple personal story, they can convey fundamental values)。"
+                                        },
+                                        {
+                                                  "id": 22,
+                                                  "section": "C",
+                                                  "question": "What is the passage mainly about?",
+                                                  "options": [
+                                                            "A) Immigrants outnumber U.S.-born Americans.",
+                                                            "B) Immigrants have been contributing to the U.S.",
+                                                            "C) Another wave of immigrants is hitting the U.S.",
+                                                            "D) The number of immigrants to the U.S. is declining."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "这篇短文主要讲述移民对美国的贡献(immigrants are still contributing to America today)。"
+                                        },
+                                        {
+                                                  "id": 23,
+                                                  "section": "C",
+                                                  "question": "What does the passage say about immigrants to the U.S.?",
+                                                  "options": [
+                                                            "A) More of them expect their children to succeed in business.",
+                                                            "B) They have fewer chances to be hired by U.S. companies.",
+                                                            "C) They have founded most Fortune 500 companies.",
+                                                            "D) More of them are successful business people."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到移民不仅更频繁地创业，而且往往取得成功，超过40%的财富500强公司的创始人是移民或移民的子女(They are often succeeding. Over 40% of Fortune 500 companies had a founder who was either an immigrant or the child of one)。"
+                                        },
+                                        {
+                                                  "id": 24,
+                                                  "section": "C",
+                                                  "question": "What does the passage say about immigrants' debt level?",
+                                                  "options": [
+                                                            "A) They have higher installment loan debt than native-born Americans.",
+                                                            "B) Nineteen percent of them borrow money from friends and family.",
+                                                            "C) Their level of debt is lower than that of native-born Americans.",
+                                                            "D) Thirty-four percent of them use credit for their daily purchases."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文提到移民的债务水平明显低于美国本土出生的人(This results in significantly lower levels of debt than native-born Americans)。"
+                                        },
+                                        {
+                                                  "id": 25,
+                                                  "section": "C",
+                                                  "question": "What do immigrants tend to do according to the passage?",
+                                                  "options": [
+                                                            "A) Keep their traditional values and old habits.",
+                                                            "B) Find employment in competitive businesses.",
+                                                            "C) Borrow money from financial institutions.",
+                                                            "D) Collaborate with native-born Americans."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文提到移民之所以表现良好，是因为他们保持了来自祖国的价值观和习惯(The values and habits they bring from their own homelands help explain some of the success)。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "snake",
+                                                  "translation": "蛇",
+                                                  "example": "Police have reported a man being bitten by a 4-foot snake when he lifted his toilet seat on Sunday morning."
+                                        },
+                                        {
+                                                  "word": "fancy dress",
+                                                  "translation": "化装舞会服装",
+                                                  "example": "She put on her black off-the-shoulder gown and put her trash bin out."
+                                        },
+                                        {
+                                                  "word": "donation",
+                                                  "translation": "捐赠",
+                                                  "example": "The idea for the board of free meals started after a donor came in with $100 for each member of its staff."
+                                        },
+                                        {
+                                                  "word": "attachment style",
+                                                  "translation": "依恋风格",
+                                                  "example": "There are two different attachment styles: an anxious attachment style and an avoidant attachment style."
+                                        },
+                                        {
+                                                  "word": "durable",
+                                                  "translation": "耐用的",
+                                                  "example": "They have a denser weave and are more durable than any other jeans in the world."
+                                        },
+                                        {
+                                                  "word": "predictable",
+                                                  "translation": "可预测的",
+                                                  "example": "The plot of each superhero film has become relatively predictable."
+                                        },
+                                        {
+                                                  "word": "entrepreneur",
+                                                  "translation": "企业家",
+                                                  "example": "From 1996 to 2016, the pace at which immigrants started businesses was double that of U.S.-born individuals."
+                                        }
+                              ]
+                    }
+          ]
+}

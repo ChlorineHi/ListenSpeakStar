@@ -1,0 +1,374 @@
+{
+          "materials": [
+                    {
+                              "id": "2023_06_1",
+                              "title": "2023年6月大学英语四级听力真题第一套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "综合",
+                                        "考试训练"
+                              ],
+                              "audio_file": "2023_06_1.mp3",
+                              "transcript": "本听力测试包含三个部分：A部分为新闻报道听力，B部分为对话听力，C部分为短文听力。各部分均有相应的题目和选项。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "section": "A",
+                                                  "question": "What was the woman in the news charged with?",
+                                                  "options": [
+                                                            "A) She was involved in a conflict with bird lovers.",
+                                                            "B) She was charged with mistreating animals.",
+                                                            "C) She was on bad terms with her neighbors.",
+                                                            "D) She was accused of violating a city law."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "新闻中提到这名女子被指控违反了罗德岛市禁止喂食野生动物的法律(charged with allegedly violating a Rhode Island city law against feeding wild animals)。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "section": "A",
+                                                  "question": "What did Anthony Moretti say about the situation?",
+                                                  "options": [
+                                                            "A) It will take time to solve the rat problem.",
+                                                            "B) All wild animals should be well protected.",
+                                                            "C) The woman was not to blame for the situation.",
+                                                            "D) No one should go unpunished for violating law."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "城市管理主任Anthony Moretti表示，解决老鼠问题需要几个月的时间(it will take months to get the problem under control)。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "section": "A",
+                                                  "question": "What will the four volunteers do according to the news?",
+                                                  "options": [
+                                                            "A) Communicate with astronauts in Mars Dune Alpha.",
+                                                            "B) Work in an environment resembling Mars.",
+                                                            "C) Build a Martian habitat in Houston.",
+                                                            "D) Send in applications before Friday."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻中提到志愿者将在类似火星的环境中工作(will work in an environment similar to Mars)。"
+                                        },
+                                        {
+                                                  "id": 4,
+                                                  "section": "A",
+                                                  "question": "What will the volunteers eat during the experiment?",
+                                                  "options": [
+                                                            "A) Ready-made food.",
+                                                            "B) Food that is organic.",
+                                                            "C) Food they grow.",
+                                                            "D) Potatoes mostly."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻提到食物将全部是即食太空食品(food will all be ready to eat space food)。"
+                                        },
+                                        {
+                                                  "id": 5,
+                                                  "section": "A",
+                                                  "question": "What did the Japanese mayor do according to the news?",
+                                                  "options": [
+                                                            "A) He apologized for scratching an athlete's gold medal.",
+                                                            "B) He was asked to present a gold medal to Miu Goto.",
+                                                            "C) He bit a softball player's Olympic gold medal.",
+                                                            "D) He attracted public attention at a media event."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到日本市长咬了一名垒球运动员的奥运金牌(biting the Olympic gold medal of a softball player)。"
+                                        },
+                                        {
+                                                  "id": 6,
+                                                  "section": "A",
+                                                  "question": "What did the mayor offer to do?",
+                                                  "options": [
+                                                            "A) Have another picture taken with the Olympic medalist.",
+                                                            "B) Apologize to the International Olympic Committee.",
+                                                            "C) Get the damaged medal repaired.",
+                                                            "D) Pay for the cost of a new medal."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "市长表示愿意支付新奖牌的费用(offered to pay for the cost of a new one)。"
+                                        },
+                                        {
+                                                  "id": 7,
+                                                  "section": "A",
+                                                  "question": "How do some Olympians regard their medals?",
+                                                  "options": [
+                                                            "A) Allow no one to touch them.",
+                                                            "B) See them as symbols of honor.",
+                                                            "C) Treat them as treasures.",
+                                                            "D) Keep them in a safe place."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "一些奥运选手表示他们把奖牌当作珍宝(treat their medals as treasures)。"
+                                        },
+                                        {
+                                                  "id": 8,
+                                                  "section": "B",
+                                                  "question": "What did the woman do to her computer?",
+                                                  "options": [
+                                                            "A) She covered its screen with a plastic sheet.",
+                                                            "B) She connected it with her smartphone.",
+                                                            "C) She decorated it with colorful stickers.",
+                                                            "D) She bought some new software for it."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "女士用塑料薄膜覆盖了电脑屏幕(a plastic sheet that blocks blue light)。"
+                                        },
+                                        {
+                                                  "id": 9,
+                                                  "section": "B",
+                                                  "question": "What does the woman say about blue light?",
+                                                  "options": [
+                                                            "A) It may not be simply blue.",
+                                                            "B) It includes unnatural light.",
+                                                            "C) It is more harmful to young people.",
+                                                            "D) It induces people to fall asleep."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "女士解释说蓝光包括自然光，但也包括非自然光(Blue light includes natural light, but it also includes light that isn't natural)。"
+                                        },
+                                        {
+                                                  "id": 10,
+                                                  "section": "B",
+                                                  "question": "What does the man say about himself?",
+                                                  "options": [
+                                                            "A) He has had much trouble falling asleep.",
+                                                            "B) He has had some sort of health problems.",
+                                                            "C) He has stayed up playing computer games.",
+                                                            "D) He has been burdened with excessive work."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "男士表示他因为工作太多而几个月没有睡够(I haven't slept enough in months because I have too much work to do)。"
+                                        },
+                                        {
+                                                  "id": 11,
+                                                  "section": "B",
+                                                  "question": "What does the woman conclude about sleep?",
+                                                  "options": [
+                                                            "A) Exposure to blue light is the chief cause of obesity.",
+                                                            "B) Sleep may be more important than people assumed.",
+                                                            "C) Sleep may also be negatively affected by natural light.",
+                                                            "D) Overuse of electronic devices may cause heart disease."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "女士提到睡眠可能比人们想象的更重要(sleep is probably even more important than we thought)。"
+                                        },
+                                        {
+                                                  "id": 12,
+                                                  "section": "B",
+                                                  "question": "What did adults often ask the speakers when they were kids?",
+                                                  "options": [
+                                                            "A) What they wanted to be when grown up.",
+                                                            "B) What their favorite cartoon character was.",
+                                                            "C) What they learned from computer games.",
+                                                            "D) What they liked to do most after school."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "对话中提到大人经常问孩子长大后想做什么工作(what I wanted to be when I grew up)。"
+                                        },
+                                        {
+                                                  "id": 13,
+                                                  "section": "B",
+                                                  "question": "What does the woman's daughter want to be?",
+                                                  "options": [
+                                                            "A) A stock broker.",
+                                                            "B) A pop singer.",
+                                                            "C) A mechanical engineer.",
+                                                            "D) A basketball player."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "女士的女儿说想成为机械工程师(mechanical engineer)，这是成人最喜欢的答案，因为它是明智和雄心勃勃的完美结合。"
+                                        },
+                                        {
+                                                  "id": 14,
+                                                  "section": "B",
+                                                  "question": "What does the woman think children should be?",
+                                                  "options": [
+                                                            "A) Ambitious.",
+                                                            "B) Sensible.",
+                                                            "C) Imaginative.",
+                                                            "D) Practical."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "女士喜欢看到孩子们有无限的想象力(springing from their boundless imaginations)。"
+                                        },
+                                        {
+                                                  "id": 15,
+                                                  "section": "B",
+                                                  "question": "What should parents do according to the speakers?",
+                                                  "options": [
+                                                            "A) Relax their strict control of their kids.",
+                                                            "B) Help their kids understand themselves.",
+                                                            "C) Impose their own dreams on their kids.",
+                                                            "D) Dismiss their high expectations of their kids."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "对话结尾提到父母应该帮助孩子了解自己(helping our kids understand who they are)。"
+                                        },
+                                        {
+                                                  "id": 16,
+                                                  "section": "C",
+                                                  "question": "What are some phone companies trying to do in Africa?",
+                                                  "options": [
+                                                            "A) Set up company branches.",
+                                                            "B) Improve its infrastructure.",
+                                                            "C) Introduce iPhones into its markets.",
+                                                            "D) Promote Internet-ready phones."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到一些电话公司正在尝试将支持互联网的手机引入非洲市场(trying to introduce internet ready phones into African markets)。"
+                                        },
+                                        {
+                                                  "id": 17,
+                                                  "section": "C",
+                                                  "question": "What is special about KaiOS phones?",
+                                                  "options": [
+                                                            "A) They cater to Africans' needs.",
+                                                            "B) They are more expensive models.",
+                                                            "C) They are more powerful and capable.",
+                                                            "D) They boast the longest battery life."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "KaiOS手机专为非洲人的需求设计，保留了智能手机的基本功能，同时降低成本并延长电池寿命(strip out costs and preserve battery life for people who likely have inadequate access to electricity)。"
+                                        },
+                                        {
+                                                  "id": 18,
+                                                  "section": "C",
+                                                  "question": "What do KaiOS phones have instead of a touchscreen?",
+                                                  "options": [
+                                                            "A) A large touchscreen.",
+                                                            "B) An old-school keypad.",
+                                                            "C) A voice-response device.",
+                                                            "D) A digitally-designed system."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "KaiOS手机没有触摸屏，而是使用老式键盘(Instead of a touchscreen, they re-controlled with an old school keypad)。"
+                                        },
+                                        {
+                                                  "id": 19,
+                                                  "section": "C",
+                                                  "question": "What does the passage say about using recycled plastic in the past?",
+                                                  "options": [
+                                                            "A) It ensured sustainable economic growth.",
+                                                            "B) It was strongly opposed by manufacturers.",
+                                                            "C) It was cheaper than using fossil fuel plastic.",
+                                                            "D) It satisfied consumer demands on the whole."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文提到过去使用回收塑料制造塑料产品很便宜，而化石燃料塑料更贵(using recycled plastic to make plastic products was cheap. By contrast, fossil fuel plastic was more expensive)。"
+                                        },
+                                        {
+                                                  "id": 20,
+                                                  "section": "C",
+                                                  "question": "What has contributed to the cheaper price of new plastic?",
+                                                  "options": [
+                                                            "A) The capacity to mass produce it.",
+                                                            "B) The U.S. federal government's regulations.",
+                                                            "C) A boom in market demand for clear plastic bottles.",
+                                                            "D) A rapid increase in U.S. petroleum chemical production."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "新塑料变得更便宜是因为美国石油化工生产的繁荣(because of a boom in petroleum chemical production from the us)。"
+                                        },
+                                        {
+                                                  "id": 21,
+                                                  "section": "C",
+                                                  "question": "What does the UK government plan to do?",
+                                                  "options": [
+                                                            "A) Require companies to use 30% of new plastic.",
+                                                            "B) Increase the supply of new plastic in the market.",
+                                                            "C) Reduce the amount of plastic pollution in local areas.",
+                                                            "D) Take measures to promote the use of recycled plastic."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "英国政府计划对不使用至少30%回收塑料的公司征税，并计划增加市场上回收塑料的数量(plans to tax companies which don't use at least 30% recycled plastic in their products...planning to increase the quantity of recycled plastic in the market)。"
+                                        },
+                                        {
+                                                  "id": 22,
+                                                  "section": "C",
+                                                  "question": "What is the Dreamery?",
+                                                  "options": [
+                                                            "A) It studies dreams.",
+                                                            "B) It rents a place for nap-takers.",
+                                                            "C) It is a hotel for business people.",
+                                                            "D) It is a nap research institute."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "Dreamery是曼哈顿的一家企业，出售小睡的地方(At the Dreamery, a business in Manhattan, naps are for sale)。"
+                                        },
+                                        {
+                                                  "id": 23,
+                                                  "section": "C",
+                                                  "question": "What does the speaker think is unnecessary?",
+                                                  "options": [
+                                                            "A) To find out creative people's work performance.",
+                                                            "B) To see how many people can go without napping.",
+                                                            "C) To understand the obvious importance of napping.",
+                                                            "D) To feel how difficult it is to get his idea across."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "演讲者认为没有必要提及所有表明小睡好处的研究，因为这是显而易见的(do you really need experts to tell you that?)。"
+                                        },
+                                        {
+                                                  "id": 24,
+                                                  "section": "C",
+                                                  "question": "How does the speaker say his work results are determined?",
+                                                  "options": [
+                                                            "A) They decline due to pointless meetings.",
+                                                            "B) They depend on his ability to concentrate.",
+                                                            "C) They enable him to enjoy a creative career.",
+                                                            "D) They are affected by the overuse of social media."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "演讲者表示他的工作质量和数量直接来源于他集中注意力的能力(the quality and quantity of work I can do emerges directly from my ability to concentrate)。"
+                                        },
+                                        {
+                                                  "id": 25,
+                                                  "section": "C",
+                                                  "question": "What does the speaker find odd?",
+                                                  "options": [
+                                                            "A) Some bosses associate napping with laziness.",
+                                                            "B) Many office workers nap during work hours.",
+                                                            "C) Some bosses can concentrate without napping.",
+                                                            "D) Many of his friends daydream in the office."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "演讲者觉得奇怪的是老板们坚持不让员工午睡，并将午睡与懒惰联系起来(bosses insist that they take the second option and that napping is associated with laziness)。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "violate",
+                                                  "translation": "违反",
+                                                  "example": "A woman was charged with allegedly violating a Rhode Island city law against feeding wild animals."
+                                        },
+                                        {
+                                                  "word": "habitat",
+                                                  "translation": "栖息地",
+                                                  "example": "NASA began taking applications Friday for four people to live a year in Mars Dune Alpha, a 1,700 direction, two square foot Martian habitat."
+                                        },
+                                        {
+                                                  "word": "treasure",
+                                                  "translation": "珍宝",
+                                                  "example": "Some Olympians said they treat their medals as treasures."
+                                        },
+                                        {
+                                                  "word": "blue light",
+                                                  "translation": "蓝光",
+                                                  "example": "It's a plastic sheet that blocks blue light."
+                                        },
+                                        {
+                                                  "word": "imagination",
+                                                  "translation": "想象力",
+                                                  "example": "That's the kind of goal setting I like to see in children springing from their boundless imaginations."
+                                        },
+                                        {
+                                                  "word": "nap",
+                                                  "translation": "小睡",
+                                                  "example": "At the Dreamery, a business in Manhattan, naps are for sale."
+                                        }
+                              ]
+                    }
+          ]
+}

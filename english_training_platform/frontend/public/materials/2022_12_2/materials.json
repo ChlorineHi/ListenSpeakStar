@@ -1,0 +1,374 @@
+{
+          "materials": [
+                    {
+                              "id": "2022_12_2",
+                              "title": "2022年12月大学英语四级听力真题第2套",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "综合",
+                                        "考试训练"
+                              ],
+                              "audio_file": "2022_12_2_4.mp3",
+                              "transcript": "本听力测试包含三个部分：A部分为新闻报道听力，B部分为对话听力，C部分为短文听力。各部分均有相应的题目和选项。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "section": "A",
+                                                  "question": "What event will take place in Glasgow?",
+                                                  "options": [
+                                                            "A. A free car show.",
+                                                            "B. A yearly concert.",
+                                                            "C. A sports competition.",
+                                                            "D. A pipe band contest."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "新闻中提到在格拉斯哥将举行世界风笛乐队锦标赛(World Pipe Band Championships)。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "section": "A",
+                                                  "question": "What does Glasgow City Council say the event will do?",
+                                                  "options": [
+                                                            "A. Improve the image of Glasgow city.",
+                                                            "B. Enrich the local culture of Glasgow.",
+                                                            "C. Contribute a lot to the local economy.",
+                                                            "D. Entertain people in local communities."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到格拉斯哥市议会表示，该活动预计将为当地经济带来30万英镑的收入。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "section": "A",
+                                                  "question": "What is scientists' warning in the news report?",
+                                                  "options": [
+                                                            "A. Surprising rise in global sea levels.",
+                                                            "B. Dangerous ice melts in Greenland.",
+                                                            "C. Changing weather patterns in summer.",
+                                                            "D. Record growth of Greenland's ice sheets."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻中科学家警告格陵兰岛正在发生危险的冰层融化(dangerous ice melts)。"
+                                        },
+                                        {
+                                                  "id": 4,
+                                                  "section": "A",
+                                                  "question": "What do we learn about this year's ice melting season in Greenland?",
+                                                  "options": [
+                                                            "A. It began in late May.",
+                                                            "B. It lasted three months.",
+                                                            "C. It started a month earlier than usual.",
+                                                            "D. It ended a month earlier than before."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到今年融冰季节在5月初就开始了，比正常情况提前了一个月(a month earlier than normal)。"
+                                        },
+                                        {
+                                                  "id": 5,
+                                                  "section": "A",
+                                                  "question": "What happened on the streets of Blackhall Colliery?",
+                                                  "options": [
+                                                            "A. Bundles of £20 notes kept turning up.",
+                                                            "B. A villager was searching for his lost cash.",
+                                                            "C. Local policemen came across bundles of £20 notes.",
+                                                            "D. A bundle containing thousands of pounds got stolen."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中提到在Blackhall Colliery的街道上不断出现成捆的20英镑钞票(Bundles containing thousands of pounds in cash keep turning up)。"
+                                        },
+                                        {
+                                                  "id": 6,
+                                                  "section": "A",
+                                                  "question": "What do the local police do with the money if not claimed in two weeks?",
+                                                  "options": [
+                                                            "A. They give it to charity.",
+                                                            "B. They return it to the finder.",
+                                                            "C. They hand it over to the local government.",
+                                                            "D. They place a notice in The Northern Echo."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻中提到如果两周内无人认领，钱会归还给发现者(returned to the finder)。"
+                                        },
+                                        {
+                                                  "id": 7,
+                                                  "section": "A",
+                                                  "question": "What did the policeman John Forster say about the villagers?",
+                                                  "options": [
+                                                            "A. They cooperated well with the police.",
+                                                            "B. They enjoyed a fairly affluent life.",
+                                                            "C. They were puzzled by the mystery.",
+                                                            "D. They had a strong community spirit."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "警察John Forster提到村民们立即想到将钱交给警察局，这表明了他们强烈的社区精神(community spirit)。"
+                                        },
+                                        {
+                                                  "id": 8,
+                                                  "section": "B",
+                                                  "question": "How does the man often feel on his birthday?",
+                                                  "options": [
+                                                            "A. Excited.",
+                                                            "B. Delighted.",
+                                                            "C. Indifferent.",
+                                                            "D. Strange."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "对话中男士说他在生日时常常感到奇怪(strange)。"
+                                        },
+                                        {
+                                                  "id": 9,
+                                                  "section": "B",
+                                                  "question": "What does the woman say many people tend to do on their birthday?",
+                                                  "options": [
+                                                            "A. Search for the meaning of their life.",
+                                                            "B. Look back on their years at school.",
+                                                            "C. Call on their relatives and friends.",
+                                                            "D. Talk about future plans with friends."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "女士提到许多人在生日时开始寻找自己存在的意义(search for the meaning of their existence)。"
+                                        },
+                                        {
+                                                  "id": 10,
+                                                  "section": "B",
+                                                  "question": "What does the man say about birthday celebrations?",
+                                                  "options": [
+                                                            "A. He prefers to have them shown on social media.",
+                                                            "B. He loves them but does not want to make a fuss.",
+                                                            "C. He enjoys celebrating others' birthdays rather than his own.",
+                                                            "D. He looks forward to receiving presents from his close friends."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "男士说他喜欢庆祝朋友的生日，但不喜欢自己成为关注的中心(I have wonderful friends and I love celebrating their birthdays. But I don't like being the center of attention)。"
+                                        },
+                                        {
+                                                  "id": 11,
+                                                  "section": "B",
+                                                  "question": "What does the woman suggest the man do about his birthday celebration at the end of the conversation?",
+                                                  "options": [
+                                                            "A. Hold it on a modest scale to remove birthday anxieties.",
+                                                            "B. View it as a chance for people to socialize and have fun.",
+                                                            "C. Extend invitation to those he trusts most.",
+                                                            "D. Make it an occasion to collect donations."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "对话结束时，女士建议男士将生日视为一个让人们聚在一起娱乐的机会(see your birthday as an opportunity to bring people together for them to have fun)。"
+                                        },
+                                        {
+                                                  "id": 12,
+                                                  "section": "B",
+                                                  "question": "What does the woman say about her subway ride?",
+                                                  "options": [
+                                                            "A. It was absolutely exhausting.",
+                                                            "B. There was a terrible smell.",
+                                                            "C. There was too long a delay.",
+                                                            "D. She got off at the wrong station."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "女士说地铁非常拥挤，她几乎无法移动，很难呼吸，当她到站时已经筋疲力尽(totally exhausted)。"
+                                        },
+                                        {
+                                                  "id": 13,
+                                                  "section": "B",
+                                                  "question": "Why hasn't the woman got her own car?",
+                                                  "options": [
+                                                            "A. She hasn't saved enough money.",
+                                                            "B. She is worried about traffic jams.",
+                                                            "C. She hasn't passed the driving test yet.",
+                                                            "D. She is used to taking public transport."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "女士说她有驾照，但正在攒钱买车，现在对她来说还有点贵，需要一段时间才能攒够钱(it'll take a while before I have enough money)。"
+                                        },
+                                        {
+                                                  "id": 14,
+                                                  "section": "B",
+                                                  "question": "What does the woman say about electric motorbikes?",
+                                                  "options": [
+                                                            "A. They are popular.",
+                                                            "B. They are dangerous.",
+                                                            "C. They are a bit expensive for her.",
+                                                            "D. They are environmentally friendly."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "女士说她见过太多涉及电动摩托车的可怕事故，称它们为危险的怪物(dangerous monsters)。"
+                                        },
+                                        {
+                                                  "id": 15,
+                                                  "section": "B",
+                                                  "question": "How was the woman going to get to work?",
+                                                  "options": [
+                                                            "A. By bus.",
+                                                            "B. By jogging.",
+                                                            "C. By renting a bike.",
+                                                            "D. By sharing a ride."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "对话最后，女士决定下载拼车应用(ride sharing app)，表明她打算通过拼车方式上班。"
+                                        },
+                                        {
+                                                  "id": 16,
+                                                  "section": "C",
+                                                  "question": "What do we learn about Steve Miller?",
+                                                  "options": [
+                                                            "A. He is a sign language interpreter.",
+                                                            "B. He is a deaf person working in IT.",
+                                                            "C. He doesn't like speaking at meetings.",
+                                                            "D. He doesn't use email or text messages."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文开头介绍Steve Miller是一名聋人，在IT行业工作(Being a deaf person in tech)。"
+                                        },
+                                        {
+                                                  "id": 17,
+                                                  "section": "C",
+                                                  "question": "What does Miller say is making things better for people like him?",
+                                                  "options": [
+                                                            "A. Improved communication skills.",
+                                                            "B. Speech recognition technology.",
+                                                            "C. Big advances in sign language.",
+                                                            "D. Transformation in the IT industry."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "Miller提到语音识别技术的重大进步(Big advances in speech recognition technology)使通信工具能够实时将语音转换为文本。"
+                                        },
+                                        {
+                                                  "id": 18,
+                                                  "section": "C",
+                                                  "question": "In what way can Miller benefit from attending meetings via video?",
+                                                  "options": [
+                                                            "A. He can avoid being mistaken.",
+                                                            "B. He can take notes on the spot.",
+                                                            "C. He can understand with ease.",
+                                                            "D. He can see the speakers' images."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "Miller说通过视频参加会议使他不再担心能否理解内容，可以专注于会议的内容(He no longer has to worry about whether or not he can understand)。"
+                                        },
+                                        {
+                                                  "id": 19,
+                                                  "section": "C",
+                                                  "question": "What do people want upon returning home according to the passage?",
+                                                  "options": [
+                                                            "A. To find pure white walls shining.",
+                                                            "B. To enter a house well looked after.",
+                                                            "C. To get a hug from family members.",
+                                                            "D. To see cheerful colours all around."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到人们回家时想看到能让他们振奋起来并给予拥抱的颜色(they want to see colours that cheer them up and give them a hug)。"
+                                        },
+                                        {
+                                                  "id": 20,
+                                                  "section": "C",
+                                                  "question": "What does the passage say people should avoid doing in home decoration?",
+                                                  "options": [
+                                                            "A. Choosing a colour because it is fashionable.",
+                                                            "B. Painting the interior of their cupboards.",
+                                                            "C. Doing the painting job all by themselves.",
+                                                            "D. Designing all window frames the same way."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文建议人们不要因为一种颜色流行或在杂志上看到就选择它(Don't go for a colour because it's in fashion, or you've seen it in a magazine)。"
+                                        },
+                                        {
+                                                  "id": 21,
+                                                  "section": "C",
+                                                  "question": "What can one do to make a room look bigger?",
+                                                  "options": [
+                                                            "A. Fit most of the cupboards into walls.",
+                                                            "B. Hang landscape paintings all around.",
+                                                            "C. Match the room's ceiling with all the furniture in colour.",
+                                                            "D. Paint the wooden frameworks and walls the same colour."
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文提到将木质框架与墙壁涂成相同的颜色可以使房间看起来更大(painting the wooden frameworks the same colour as the walls, helping the rooms look bigger)。"
+                                        },
+                                        {
+                                                  "id": 22,
+                                                  "section": "C",
+                                                  "question": "What does the passage say parents increasingly understand?",
+                                                  "options": [
+                                                            "A. Children must read at least 3 times a week.",
+                                                            "B. Reading is a habit every child can develop.",
+                                                            "C. Reading to their children is important.",
+                                                            "D. Children should start reading at age 3."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文开头提到父母经常听说给孩子读书对支持发展至关重要，而且这个信息正在传达给他们(Parents often hear that reading to their children is critical for supporting development, and the message is getting through to them)。"
+                                        },
+                                        {
+                                                  "id": 23,
+                                                  "section": "C",
+                                                  "question": "What can predict children's reading skills according to recent research?",
+                                                  "options": [
+                                                            "A. The number of books they have read by age four.",
+                                                            "B. The speed of their brain development in infancy.",
+                                                            "C. The number and quality of books parents read to them in infancy.",
+                                                            "D. The quality and quantity of time parents spend playing with them."
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文提到最近的研究发现，婴儿期共享阅读的质量和数量可以预测以后儿童的词汇和阅读技能(both the quality and quantity of shared book reading in infancy predicted later childhood vocabulary and reading skills)。"
+                                        },
+                                        {
+                                                  "id": 24,
+                                                  "section": "C",
+                                                  "question": "What kind of books are said to help babies learn more?",
+                                                  "options": [
+                                                            "A. Books with specifically labeled images.",
+                                                            "B. Books with pictures of dolls and toys.",
+                                                            "C. Books describing the lives of animals.",
+                                                            "D. Books telling very interesting stories."
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文提到当父母给婴儿看有脸部或具有特定标签的物体的书籍时，他们学习得更多(when parents showed babies books that had faces or objects with specific labels, they learned more)。"
+                                        },
+                                        {
+                                                  "id": 25,
+                                                  "section": "C",
+                                                  "question": "What are parents advised to do at the end of the passage?",
+                                                  "options": [
+                                                            "A. Read as many books as possible to their children.",
+                                                            "B. Choose carefully what to read to their children.",
+                                                            "C. Share experience with other parents.",
+                                                            "D. Create picture books for their children."
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文结尾建议父母需要非常谨慎地选择与孩子分享的书籍(parents need to choose the books they share with their children with great care)。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "pipe band",
+                                                  "translation": "风笛乐队",
+                                                  "example": "The World Pipe Band Championships will take place in Glasgow on Saturday."
+                                        },
+                                        {
+                                                  "word": "melt",
+                                                  "translation": "融化",
+                                                  "example": "Scientists are already sounding the alarm about dangerous ice melts going on right now in Greenland."
+                                        },
+                                        {
+                                                  "word": "bundle",
+                                                  "translation": "捆，束",
+                                                  "example": "Bundles containing thousands of pounds in cash keep turning up on the streets."
+                                        },
+                                        {
+                                                  "word": "anxiety",
+                                                  "translation": "焦虑",
+                                                  "example": "It's not entirely unusual to feel anxious or sad around your birthday."
+                                        },
+                                        {
+                                                  "word": "exhausting",
+                                                  "translation": "使筋疲力尽的",
+                                                  "example": "When I got to my station, I was totally exhausted."
+                                        },
+                                        {
+                                                  "word": "recognition",
+                                                  "translation": "识别",
+                                                  "example": "Big advances in speech recognition technology have enabled communication tools to turn live speech into text."
+                                        }
+                              ]
+                    }
+          ]
+}

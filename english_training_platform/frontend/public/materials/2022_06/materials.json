@@ -1,0 +1,374 @@
+{
+          "materials": [
+                    {
+                              "id": "2022_06",
+                              "title": "CET4 听力模拟测试 1",
+                              "difficulty": "CET4",
+                              "topics": [
+                                        "综合",
+                                        "考试训练"
+                              ],
+                              "audio_file": "2022_06.mp3",
+                              "transcript": "本听力测试包含三个部分：A部分为新闻报道听力，B部分为对话听力，C部分为短文听力。各部分均有相应的题目和选项。",
+                              "questions": [
+                                        {
+                                                  "id": 1,
+                                                  "section": "A",
+                                                  "question": "What kind of beds were used in the Olympic Village according to the news?",
+                                                  "options": [
+                                                            "A. Cardboard beds",
+                                                            "B. Wooden beds",
+                                                            "C. Beds with soft mattresses",
+                                                            "D. Beds with hard mattresses"
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中提到奥运村使用了纸板床，这是一种环保选择。"
+                                        },
+                                        {
+                                                  "id": 2,
+                                                  "section": "A",
+                                                  "question": "What will the beds be recycled into after the Olympics?",
+                                                  "options": [
+                                                            "A. Garbage",
+                                                            "B. Metal products",
+                                                            "C. Paper products",
+                                                            "D. Gold medals"
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到这些纸板床在奥运会后将被回收制成纸制品。"
+                                        },
+                                        {
+                                                  "id": 3,
+                                                  "section": "A",
+                                                  "question": "What invention is mentioned in the second news item?",
+                                                  "options": [
+                                                            "A. A new musical instrument",
+                                                            "B. A new kind of record that let people listen to longer pieces of music",
+                                                            "C. A new museum",
+                                                            "D. A new piece of classical music"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "新闻中提到的发明是一种新型唱片，它让人们能够听更长的音乐作品。"
+                                        },
+                                        {
+                                                  "id": 4,
+                                                  "section": "A",
+                                                  "question": "When was the invention made according to the news?",
+                                                  "options": [
+                                                            "A. In 1978",
+                                                            "B. In 1848",
+                                                            "C. In 1948",
+                                                            "D. In 1877"
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到这项发明是在1948年完成的。"
+                                        },
+                                        {
+                                                  "id": 5,
+                                                  "section": "A",
+                                                  "question": "How many copies of the original recording were made?",
+                                                  "options": [
+                                                            "A. 300 copies",
+                                                            "B. 400 copies",
+                                                            "C. 500 copies",
+                                                            "D. 600 copies"
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到原始录音制作了500份拷贝。"
+                                        },
+                                        {
+                                                  "id": 6,
+                                                  "section": "A",
+                                                  "question": "According to the third news item, which statement is true about Jupiter?",
+                                                  "options": [
+                                                            "A. Yes. Jupiter is larger than earth",
+                                                            "B. No. Earth is larger than Jupiter",
+                                                            "C. No. Jupiter is equal to earth",
+                                                            "D. Not mentioned"
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "新闻中确认了木星比地球大。"
+                                        },
+                                        {
+                                                  "id": 7,
+                                                  "section": "A",
+                                                  "question": "What mythology are the planets' names derived from?",
+                                                  "options": [
+                                                            "A. Characters in Greek mythology",
+                                                            "B. Characters in Chinese mythology",
+                                                            "C. Characters in Roman mythology",
+                                                            "D. Not mentioned"
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "新闻中提到行星的名字来源于罗马神话中的人物。"
+                                        },
+                                        {
+                                                  "id": 8,
+                                                  "section": "B",
+                                                  "question": "What is the problem with arm exercises that use weights, according to the conversation?",
+                                                  "options": [
+                                                            "A. They don't get rid of flabby arms",
+                                                            "B. They can damage arm muscles",
+                                                            "C. They aren't acceptable to most people",
+                                                            "D. They can raise one's blood pressure"
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "对话中提到使用重物的手臂练习可能会导致血压升高。"
+                                        },
+                                        {
+                                                  "id": 9,
+                                                  "section": "B",
+                                                  "question": "How did the woman learn about the arm exercises?",
+                                                  "options": [
+                                                            "A. By talking to an expert",
+                                                            "B. By reading an article",
+                                                            "C. By attending an exercise class",
+                                                            "D. By listening to the radio"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "对话中女士提到她是通过阅读一篇文章了解到这些手臂练习的。"
+                                        },
+                                        {
+                                                  "id": 10,
+                                                  "section": "B",
+                                                  "question": "What does the man recommend for good overall health?",
+                                                  "options": [
+                                                            "A. Exercising the entire body",
+                                                            "B. Having your blood pressure taken daily",
+                                                            "C. Losing weight prior to exercising",
+                                                            "D. Weighing in before each exercise session"
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "对话中男士建议全身锻炼对整体健康有益。"
+                                        },
+                                        {
+                                                  "id": 11,
+                                                  "section": "B",
+                                                  "question": "Which of the following exercises does the man suggest?",
+                                                  "options": [
+                                                            "A. Wearing arm weights while you are swimming",
+                                                            "B. Jogging vigorously in one place for a long time",
+                                                            "C. Using bicycles that require you to use both your arms and legs",
+                                                            "D. Walking slowly while swinging your arms back and forth"
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "对话中男士建议使用需要同时用到手臂和腿部的自行车。"
+                                        },
+                                        {
+                                                  "id": 12,
+                                                  "section": "B",
+                                                  "question": "When did the accident in the second conversation happen?",
+                                                  "options": [
+                                                            "A. On the man's birthday",
+                                                            "B. At Christmas",
+                                                            "C. At daytime",
+                                                            "D. Last week"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "对话中提到事故发生在圣诞节期间。"
+                                        },
+                                        {
+                                                  "id": 13,
+                                                  "section": "B",
+                                                  "question": "Why did the accident happen?",
+                                                  "options": [
+                                                            "A. His bike got a flat tire",
+                                                            "B. He's trying to answer a phone call",
+                                                            "C. He didn't see the car",
+                                                            "D. He got the wrong way"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "对话中提到事故发生是因为他试图接听电话。"
+                                        },
+                                        {
+                                                  "id": 14,
+                                                  "section": "B",
+                                                  "question": "When did the man go to see a doctor?",
+                                                  "options": [
+                                                            "A. Immediately after the accident",
+                                                            "B. After several days",
+                                                            "C. The next day",
+                                                            "D. Never"
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "对话中提到他是在事故发生的第二天去看医生的。"
+                                        },
+                                        {
+                                                  "id": 15,
+                                                  "section": "B",
+                                                  "question": "What happened to the man as a result of the accident?",
+                                                  "options": [
+                                                            "A. He broke a few ribs and recovered after 6 weeks",
+                                                            "B. He broke his arm and recovered after 6 weeks",
+                                                            "C. Nothing serious and he didn't go to the hospital",
+                                                            "D. Nothing serious but he went to the hospital for checking"
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "对话中提到他因事故折断了几根肋骨，并在6周后康复。"
+                                        },
+                                        {
+                                                  "id": 16,
+                                                  "section": "C",
+                                                  "question": "How many people would be affected by the legislation according to the first passage?",
+                                                  "options": [
+                                                            "A. 10 million",
+                                                            "B. 11 million",
+                                                            "C. 10 billion",
+                                                            "D. 11 billion"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文中提到立法将影响1100万人。"
+                                        },
+                                        {
+                                                  "id": 17,
+                                                  "section": "C",
+                                                  "question": "How long has comprehensive immigration reform been debated?",
+                                                  "options": [
+                                                            "A. 14 years",
+                                                            "B. 18 years",
+                                                            "C. 20 years",
+                                                            "D. 40 years"
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文中提到全面移民改革已经讨论了14年。"
+                                        },
+                                        {
+                                                  "id": 18,
+                                                  "section": "C",
+                                                  "question": "What is the passage mainly about?",
+                                                  "options": [
+                                                            "A. A visitation regulation",
+                                                            "B. A bill of rights",
+                                                            "C. A healthcare act",
+                                                            "D. An immigration reform bill"
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文主要讨论的是移民改革法案。"
+                                        },
+                                        {
+                                                  "id": 19,
+                                                  "section": "C",
+                                                  "question": "How many senses do ants have according to the second passage?",
+                                                  "options": [
+                                                            "A. One",
+                                                            "B. Few",
+                                                            "C. Seven",
+                                                            "D. Many"
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文中提到蚂蚁有很多感官。"
+                                        },
+                                        {
+                                                  "id": 20,
+                                                  "section": "C",
+                                                  "question": "How do ants mainly find their food?",
+                                                  "options": [
+                                                            "A. By their sense of sight",
+                                                            "B. By their sense of hearing",
+                                                            "C. By their sense of touch",
+                                                            "D. By their sense of smell"
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文中提到蚂蚁主要通过嗅觉寻找食物。"
+                                        },
+                                        {
+                                                  "id": 21,
+                                                  "section": "C",
+                                                  "question": "How long can an ant live?",
+                                                  "options": [
+                                                            "A. One year",
+                                                            "B. Five years",
+                                                            "C. Seven years",
+                                                            "D. Ten years"
+                                                  ],
+                                                  "answer": "C",
+                                                  "explanation": "短文中提到蚂蚁可以活七年。"
+                                        },
+                                        {
+                                                  "id": 22,
+                                                  "section": "C",
+                                                  "question": "How do ants get honey according to the passage?",
+                                                  "options": [
+                                                            "A. Ants tap plant insects till a drop of honey comes out",
+                                                            "B. Ants take care of plant insects",
+                                                            "C. Ants get their food from plant lice",
+                                                            "D. Ants get honey from bees"
+                                                  ],
+                                                  "answer": "A",
+                                                  "explanation": "短文中提到蚂蚁通过敲击植物昆虫直到蜜汁滴出来获取蜂蜜。"
+                                        },
+                                        {
+                                                  "id": 23,
+                                                  "section": "C",
+                                                  "question": "What is the main topic of the third passage?",
+                                                  "options": [
+                                                            "A. Education during the Civil War",
+                                                            "B. Post-Civil War developments in higher education",
+                                                            "C. Current trends in technological education",
+                                                            "D. Benefits for women in state universities"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文主要讨论的是内战后高等教育的发展。"
+                                        },
+                                        {
+                                                  "id": 24,
+                                                  "section": "C",
+                                                  "question": "How many areas of study were available in colleges and universities mentioned in the passage?",
+                                                  "options": [
+                                                            "A. Two",
+                                                            "B. Three",
+                                                            "C. Ten",
+                                                            "D. One hundred"
+                                                  ],
+                                                  "answer": "B",
+                                                  "explanation": "短文中提到大学里有三个学习领域。"
+                                        },
+                                        {
+                                                  "id": 25,
+                                                  "section": "C",
+                                                  "question": "How was women's education before the Civil War according to the passage?",
+                                                  "options": [
+                                                            "A. It was well established",
+                                                            "B. It was the same as that available to men",
+                                                            "C. It was only available in the northern states",
+                                                            "D. It was not highly developed"
+                                                  ],
+                                                  "answer": "D",
+                                                  "explanation": "短文中提到内战前女性教育并不发达。"
+                                        }
+                              ],
+                              "vocabulary": [
+                                        {
+                                                  "word": "recycle",
+                                                  "translation": "回收利用",
+                                                  "example": "The cardboard beds will be recycled into paper products after the Olympics."
+                                        },
+                                        {
+                                                  "word": "invention",
+                                                  "translation": "发明",
+                                                  "example": "The invention of the new record format changed how people listened to music."
+                                        },
+                                        {
+                                                  "word": "mythology",
+                                                  "translation": "神话",
+                                                  "example": "Many planets are named after characters from Roman mythology."
+                                        },
+                                        {
+                                                  "word": "flabby",
+                                                  "translation": "松弛的",
+                                                  "example": "She wanted to do arm exercises to get rid of her flabby arms."
+                                        },
+                                        {
+                                                  "word": "immigration",
+                                                  "translation": "移民",
+                                                  "example": "The immigration reform bill has been debated for many years."
+                                        },
+                                        {
+                                                  "word": "comprehensive",
+                                                  "translation": "全面的",
+                                                  "example": "Comprehensive immigration reform requires addressing many complex issues."
+                                        }
+                              ]
+                    }
+          ]
+}

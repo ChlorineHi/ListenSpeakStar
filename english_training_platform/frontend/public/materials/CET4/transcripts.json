@@ -1,0 +1,229 @@
+{
+          "transcripts": [
+                    {
+                              "id": "cet4_001",
+                              "title": "CET4 听力模拟测试 1",
+                              "sections": [
+                                        {
+                                                  "section": "A",
+                                                  "description": "新闻报道听力",
+                                                  "introduction": "In this section, you will hear several news reports. At the end of each news report, you will hear two or three questions. Both the news report and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
+                                                  "passages": [
+                                                            {
+                                                                      "passage_id": 1,
+                                                                      "content": "In an effort to be more environment friendly, organizers of this summer's Tokyo Olympics have built cardboard beds for the athletes to sleep on.\n\nSome observers have questioned whether such beds will be strong enough to hold some of the heavier Olympic competitors.\n\nBut Takashi Kitajima, who is in charge of the athletes' housing for the event, told the Associated Press he is not worried about any beds breaking.\n\n\"Those beds can stand up to 200 kilograms,\" he said. Kitajima added that the cardboard beds were made to be even stronger than wooden beds.\n\nHowever, he did say there could be a problem if some athletes get too excited celebrating their gold-medal success. \"Of course, wood and cardboard would each break if you jumped on them,\" Kitajima said.\n\nThe Athletes Village Housing Center is expected to be completed in June. The Olympics are set to open in Tokyo on July 24.\n\nJapanese officials say the cardboard bed parts will be recycled into paper products after the games.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 1,
+                                                                                          "question": "What kind of beds will be provided for the athletes of the Tokyo Olympics?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "根据听力材料，东京奥运会为运动员提供了纸板床(cardboard beds)，属于环保选择。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 2,
+                                                                                          "question": "What would the bed parts be turned into after the games?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "听力材料最后一句提到：日本官员表示，这些纸板床部件在奥运会后将被回收制成纸制品(recycled into paper products)。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 2,
+                                                                      "content": "Seventy years ago this week something important happened in music history: the first LP, or long-playing vinyl record, was introduced.\n\nAt the time, the LP was a new kind of record that let people listen to longer pieces of music.\n\nColumbia Records first introduced the LP in 1948. To celebrate this year's anniversary, the British music company HMV and the music company Sony Classical recreated 500 copies of the first performance recorded to an LP.\n\nThe recording was of a piece of classical music: Mendelssohn's Concerto in E minor. All the copies of the LP are to be given away to fans, except for one, which will be donated to the British Library.\n\nThe record adds to the library's collection of 250,000 LPs, most of which were released in Britain. The museum has other musical artifacts going back to the beginning of sound recording. These include wax cylinders, created by Thomas Edison in 1877. They were the first way fans could buy music to listen to at home.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 3,
+                                                                                          "question": "What was the LP according to the report?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "根据听力材料，LP是一种新型唱片，它让人们能够听更长的音乐作品(a new kind of record that let people listen to longer pieces of music)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 4,
+                                                                                          "question": "When did Columbia Record first introduce the LP?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "听力材料明确指出：Columbia Records于1948年首次推出了LP唱片(Columbia Records first introduced the LP in 1948)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 5,
+                                                                                          "question": "How many copies of the first performance recorded to an LP did the music companies recreate?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "听力材料中提到：为了庆祝今年的周年纪念，英国音乐公司HMV和索尼古典音乐公司重新制作了500份首次录制到LP的演奏的拷贝(recreated 500 copies)。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 3,
+                                                                      "content": "Compared to earth's mass, Jupiter is thought to be much larger than that. And scientists say NASA's Juno spacecraft has led to new findings about Jupiter. They don't know how deeply these bands extend, though, but information from Juno has led them to conclude that Jupiter's outer layer extends 1,900 miles beneath the surface of the planet.\n\nSo, how did they come up with this? Juno took measurements of Jupiter's gravitational field, which scientists use to more deeply analyze the planet. They also concluded that though Jupiter's interior is thought to be fluid, it rotates like a solid body. The Juno mission cost the U.S. a little over $1.1 billion. It's hoped to help scientist better understand the solar system's largest planet. Jupiter is located fifth in line from the sun. Both Jupiter and the Juno's spacecraft were named after characters in Roman mythology.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 6,
+                                                                                          "question": "Is Jupiter thought to be much larger than earth?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "听力材料一开始就明确表示：与地球质量相比，木星被认为比地球大得多(Jupiter is thought to be much larger than that)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 7,
+                                                                                          "question": "What were both Jupiter and the Juno's spacecraft named after?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "听力材料最后指出：木星和朱诺飞船都是以罗马神话中的人物命名的(Both Jupiter and the Juno's spacecraft were named after characters in Roman mythology)。"
+                                                                                }
+                                                                      ]
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "section": "B",
+                                                  "description": "对话听力",
+                                                  "introduction": "In this section, you will hear several conversations. At the end of each conversation, one or more questions will be asked about what was said. Both the conversations and the questions will be spoken only once. After each question there will be a pause. During the pause, you must read the four choices marked A), B), C) and D), and decide which is the best answer.",
+                                                  "passages": [
+                                                            {
+                                                                      "passage_id": 1,
+                                                                      "content": "M: Arm exercises? Is that because our arms are too fat or flabby?\nW: Actually, that's not the main reason. They say that arm exercises are an ideal way to become physically fit.\nM: But don't arm exercises raise your blood pressure?\nW: That they do. But the article I read mentioned ways to compensate for that.\nM: How?\nW: By adding leg exercise so the arms don't do all the work. Arm exercises alone aren't enough to increase metabolism before fatigue sets in. The more of a body that involves in the exercise, the better.\nM: And in turn, I'm sure that there is a great chance of losing weight.\nW: Sounds right to me.\nM: So, what exercises do the experts recommend?\nW: They mention quite a few. But some of the more popular ones are cycling with special bicycles that make you use both your arms and legs, and walking vigorously while wearing arm weights.\nM: I must try that. I like to walk a lot.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 8,
+                                                                                          "question": "According to the conversation, what is one problem with arm exercises?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "对话中男士问手臂运动会不会升高血压，女士回答确实如此(That they do)，所以手臂运动的一个问题是会升高血压。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 9,
+                                                                                          "question": "How did the woman obtain the information about arm exercises?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "女士提到我读的文章提到了补偿方法(the article I read)，说明她是通过阅读文章获得信息的。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 10,
+                                                                                          "question": "According to the conversation, what are the experts now recommending?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "女士解释说专家建议通过增加腿部锻炼来平衡手臂运动，认为锻炼身体更多部位会更好(The more of a body that involves in the exercise, the better)，这表明专家推荐全身锻炼。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 11,
+                                                                                          "question": "What form of exercise does the woman mention?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "女士提到骑特殊的自行车，让你同时使用手臂和腿部(cycling with special bicycles that make you use both your arms and legs)，这符合答案C的描述。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 2,
+                                                                      "content": "Amy: How about you? Have you ever been in an accident?\nPaul: Not a car accident. I was in a bicycle accident.\nAmy: Yeah?\nPaul: I laugh now but at the time, it was pretty bad.\nAmy: What happened?\nPaul: It was dark and it was Christmas day. And I was on my bicycle going down a quite steep slope and my mobile phone rang. I looked at my phone and took it out of my pocket whilst riding my bike. I looked at it and noticed it was my dad and he was ringing to wish me a happy Christmas.\nIt's dark and I'm trying to get my dad off the phone as soon as I can. And before I knew it, I drove straight into the back of a parked black car.\nAmy: Oh no.\nPaul: I saw it at the very last minute. So I hit the back of it and my body slammed into the ground, and I broke a few bones.\nAmy: Oh no.\nPaul: Yeah, yeah. It was a pretty miserable Christmas to be honest with you.\nAmy: I'd say it's terrible. That's the worst.\nPaul: Yeah.\nAmy: Did the owner of the car see what happened? Did you damage the car?\nPaul: I didn't stay long enough. I got out of there pretty quickly.\nAmy: And went to the hospital?\nPaul: No, I was a bit stubborn. I don't know why. It was the worst night sleep I've ever had but yeah, I didn't go to the hospital until the next day.\nAmy: What bones did you break?\nPaul: I broke a few ribs.\nAmy: Oh no. So how long did it take you to recover?\nPaul: It took me about probably six weeks, I suppose.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 12,
+                                                                                          "question": "When did the accident happen?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "Paul说It was dark and it was Christmas day，表明事故发生在圣诞节。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 13,
+                                                                                          "question": "Which of the following reasons is true for the accident?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "Paul说他在骑车时手机响了，他拿出手机接听父亲的电话(I looked at my phone and took it out of my pocket whilst riding my bike)，这导致了事故。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 14,
+                                                                                          "question": "When did the man go to the hospital?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "Paul说I didn't go to the hospital until the next day，表明他是在事故发生的第二天才去医院的。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 15,
+                                                                                          "question": "How bad the accident was for the man?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "Paul说I broke a few ribs，并且It took me about probably six weeks，这与选项A相符。"
+                                                                                }
+                                                                      ]
+                                                            }
+                                                  ]
+                                        },
+                                        {
+                                                  "section": "C",
+                                                  "description": "短文听力",
+                                                  "introduction": "In this section, you will hear several short passages. At the end of each passage, you will hear some questions. Both the passage and the questions will be spoken only once. After you hear a question, you must choose the best answer from the four choices marked A), B), C) and D).",
+                                                  "passages": [
+                                                            {
+                                                                      "passage_id": 1,
+                                                                      "content": "Immigration in the United States is a complicated and controversial issue. Since the founding of the country people have come from different countries in search of a better life and opportunities. Immigration laws, however, are always changing and are complicated. This leads to many people coming into the US without proper legal status. It is estimated that there are more than 11 million undocumented people in the Unites States. While some people will say there is no reason for immigrants to be undocumented in the US, there are limits on the amount of Green Cards, or legal permanent resident cards that people from certain countries can get. There are also long waiting lists, up to 14 years in some cases, for people coming from certain countries, to apply for legal status in the US. Additionally there are a limited amount of visas, or permits, for people coming into the US with manual labor skills. Millions of undocumented people have been deported, or sent back to their country of origin under President Obama.\n\nIn 2013, the US Senate passed an immigration reform bill. The law adds extra border security along the US-Mexico border, and also makes it easier for immigrants to become citizens. The bill, which also has to be approved by the House of Representatives, has not yet been presented or voted on in Congress. Because of this, many are asking President Obama to take action to protect some of the undocumented, many of whom have been in the US for many years and have children that are US citizens.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 16,
+                                                                                          "question": "What is the estimated number of immigrants living in the United States?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "短文中明确指出：据估计，美国有超过1100万无证移民(It is estimated that there are more than 11 million undocumented people in the Unites States)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 17,
+                                                                                          "question": "How long might one be in a waiting list to apply for legal status in the US?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "短文提到：在某些情况下，来自某些国家的人申请美国合法身份的等待名单长达14年(There are also long waiting lists, up to 14 years in some cases)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 18,
+                                                                                          "question": "What has been approved by the US Senate in 2013 to make immigration easier?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "短文提到：2013年，美国参议院通过了一项移民改革法案(the US Senate passed an immigration reform bill)，该法案使移民更容易成为公民。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 2,
+                                                                      "content": "Most ants are hard workers and often work from six o'clock in the morning until ten o'clock at night. The work is divided among the worker ants so that each one has a certain amount to do. We do not know how they decide what each one is to do, for they do not talk. Some people think ants follow each other by their sense of smell.\n\nAnts often live to be a year old, and some have been known to live six or seven years. One way they get their food is from plant insects which we might call their cows. The ants milk these \"cows\" by tapping the insects gently until a drop of honey comes out. Then they eat the honey. Ants take very good care of these plant insects and often build a covering over them so that they will be protected from the rain.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 19,
+                                                                                          "question": "How many hours do ants usually work at one time?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "短文提到蚂蚁通常从早上六点工作到晚上十点(work from six o'clock in the morning until ten o'clock at night)，这是16个小时，属于很多小时。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 20,
+                                                                                          "question": "How do ants follow each other?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "短文中提到：一些人认为蚂蚁通过气味感觉互相跟随(Some people think ants follow each other by their sense of smell)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 21,
+                                                                                          "question": "What is the longest time that ants have been known to live?",
+                                                                                          "answer": "C",
+                                                                                          "explanation": "短文提到：蚂蚁通常能活一年，有些已知能活六七年(Ants often live to be a year old, and some have been known to live six or seven years)。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 22,
+                                                                                          "question": "Which of the following statements best describes the ants' method of getting food?",
+                                                                                          "answer": "A",
+                                                                                          "explanation": "短文描述了蚂蚁通过轻敲植物昆虫直到一滴蜜露出来获取食物(The ants milk these \"cows\" by tapping the insects gently until a drop of honey comes out)，这与选项A相符。"
+                                                                                }
+                                                                      ]
+                                                            },
+                                                            {
+                                                                      "passage_id": 3,
+                                                                      "content": "Free development in the United States' higher education that you are benefiting from today started more than a century ago following the civil war. The first of these was the rapid growth of technological and professional education to lead the urgent demands of a complex industrial and urban society. New schools of technology, engineering, architecture, law and medicine. Second was the provision for graduate study, such as what had long existed in France, and Germany. Harvard and John Hopkins Universities quickly took the lead in this field, but the state universities didn't lag far behind. Third was the increased provision for the education for women. This included the establishment of new women's colleges, such as Vassar, Wellesley and Smith, and the adoption of co-education in all the new state universities outside the south as well as in many private institutions. These developments, the growth of technological and professional education, the provision for graduate study and the increased educational opportunities for women began over a century ago, continue to this day, over ten decades since the end of the civil war.",
+                                                                      "questions": [
+                                                                                {
+                                                                                          "question_id": 23,
+                                                                                          "question": "What is the main topic of the talk?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "短文主要讨论了内战后美国高等教育的发展(development in the United States' higher education...following the civil war)，包括技术和专业教育的增长、研究生教育的提供以及女性教育机会的增加。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 24,
+                                                                                          "question": "How many major educational changes does the speaker discuss?",
+                                                                                          "answer": "B",
+                                                                                          "explanation": "演讲者讨论了三个主要的教育变化：1.技术和专业教育的快速发展；2.研究生教育的提供；3.女性教育机会的增加。"
+                                                                                },
+                                                                                {
+                                                                                          "question_id": 25,
+                                                                                          "question": "From the talk, what assumption can be made about education for women in the United States before the civil war?",
+                                                                                          "answer": "D",
+                                                                                          "explanation": "短文提到内战后女性教育机会增加，包括建立新的女子学院和在州立大学采用男女同校制，这暗示内战前女性教育不发达(not highly developed)。"
+                                                                                }
+                                                                      ]
+                                                            }
+                                                  ]
+                                        }
+                              ]
+                    }
+          ]
+}
