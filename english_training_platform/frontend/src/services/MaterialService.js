@@ -66,10 +66,10 @@ class MaterialService {
           }
 
           /**
-           * 检查材料ID是否存在于可用材料列表中
-           * @param {string} materialId 材料ID
-           * @returns {Promise<boolean>} 是否存在
-           */
+ * 检查材料ID是否存在于可用材料列表中
+ * @param {string} materialId 材料ID
+ * @returns {Promise<boolean>} 是否存在
+ */
           async checkMaterialExists(materialId) {
                     try {
                               // 获取index.json中的可用材料列表
@@ -81,17 +81,45 @@ class MaterialService {
 
                               const indexData = await response.json();
 
-                              // 检查材料ID是否在可用材料列表中
-                              if (indexData.available_materials && indexData.available_materials.includes(materialId)) {
+                              // 如果是难度ID，直接返回true（处理CET4, CET6等难度ID作为材料ID的情况）
+                              if (["CET4", "CET6", "IELTS", "TOEFL"].includes(materialId)) {
+                                        console.log(`材料ID "${materialId}" 被识别为难度级别，假定存在`);
                                         return true;
                               }
 
-                              // 如果不在可用列表中，再检查materials_details
+                              // 对ID进行大小写不敏感的检查
+                              const materialIdLower = materialId.toLowerCase();
+
+                              // 检查材料ID是否在可用材料列表中（大小写不敏感）
+                              if (indexData.available_materials) {
+                                        const exists = indexData.available_materials.some(id =>
+                                                  id.toLowerCase() === materialIdLower);
+                                        if (exists) return true;
+                              }
+
+                              // 如果不在可用列表中，再检查materials_details（大小写不敏感）
                               if (indexData.materials_details) {
-                                        const exists = indexData.materials_details.some(material => material.id === materialId);
-                                        if (exists) {
+                                        const exists = indexData.materials_details.some(material =>
+                                                  material.id.toLowerCase() === materialIdLower);
+                                        if (exists) return true;
+                              }
+
+                              // 检查是否存在对应的目录（直接检查目录是否存在）
+                              try {
+                                        const testResponse = await fetch(`/materials/${materialId}/materials.json`, { method: 'HEAD' });
+                                        if (testResponse.ok) {
+                                                  console.log(`找到材料目录: ${materialId}`);
                                                   return true;
                                         }
+
+                                        // 尝试小写版本的目录
+                                        const testResponseLower = await fetch(`/materials/${materialIdLower}/materials.json`, { method: 'HEAD' });
+                                        if (testResponseLower.ok) {
+                                                  console.log(`找到材料目录(小写): ${materialIdLower}`);
+                                                  return true;
+                                        }
+                              } catch (e) {
+                                        // 忽略错误，继续检查
                               }
 
                               console.warn(`材料ID "${materialId}" 不在可用材料列表中`);
@@ -200,112 +228,158 @@ class MaterialService {
                               }
 
                               // 首先尝试从本地材料文件获取（更可靠）
-                              let materialsPath = `/materials/${difficulty}/materials.json`;
-                              console.log(`尝试从本地文件获取: ${materialsPath}`);
+                              let materialsPath;
+                              let directPaths = [];
 
-                              try {
-                                        let response = await fetch(materialsPath);
+                              // 难度可能是实际的材料ID
+                              if (["CET4", "CET6", "IELTS", "TOEFL"].includes(materialId)) {
+                                        // 如果传入的是难度ID，尝试小写版本的目录
+                                        const lowerCaseId = materialId.toLowerCase();
 
-                                        // 如果找不到完全匹配的目录，尝试其他可能的格式
-                                        if (!response.ok && idParts.length >= 3) {
-                                                  console.log(`无法从 ${difficulty} 获取材料，尝试其他可能的目录名格式`);
+                                        // 尝试以 [难度]_001 格式的路径（如cet4_001）
+                                        directPaths.push(`/materials/${lowerCaseId}_001/materials.json`);
+                                        // 尝试原始难度目录
+                                        directPaths.push(`/materials/${materialId}/materials.json`);
+                                        // 尝试小写难度目录
+                                        directPaths.push(`/materials/${lowerCaseId}/materials.json`);
 
-                                                  // 尝试直接使用ID作为目录
-                                                  materialsPath = `/materials/${normalizedId}/materials.json`;
+                                        console.log(`尝试以难度ID查找材料，将尝试以下路径: ${directPaths.join(', ')}`);
+                              } else {
+                                        // 标准情况：尝试使用难度目录
+                                        materialsPath = `/materials/${difficulty}/materials.json`;
+                                        console.log(`尝试从难度目录获取: ${materialsPath}`);
+
+                                        // 同时添加直接目录尝试
+                                        directPaths.push(`/materials/${materialId}/materials.json`);
+                                        directPaths.push(`/materials/${materialId.toLowerCase()}/materials.json`);
+                              }
+
+                              // 先尝试各种直接路径
+                              let response = null;
+                              let foundDirectPath = false;
+
+                              for (const path of directPaths) {
+                                        try {
+                                                  console.log(`尝试直接路径: ${path}`);
+                                                  const testResponse = await fetch(path);
+                                                  if (testResponse.ok) {
+                                                            response = testResponse;
+                                                            materialsPath = path;
+                                                            directoryName = path.split('/')[2]; // 提取目录名
+                                                            foundDirectPath = true;
+                                                            console.log(`找到有效的直接路径: ${path}`);
+                                                            break;
+                                                  }
+                                        } catch (e) {
+                                                  // 忽略错误，继续尝试
+                                        }
+                              }
+
+                              // 如果直接路径尝试失败，并且有难度目录，尝试从难度目录获取
+                              if (!foundDirectPath && !["CET4", "CET6", "IELTS", "TOEFL"].includes(materialId)) {
+                                        try {
                                                   response = await fetch(materialsPath);
-
-                                                  if (response.ok) {
-                                                            directoryName = normalizedId;
-                                                            console.log(`找到有效路径: ${materialsPath}`);
-                                                  } else {
-                                                            // 尝试不同的目录名格式
-                                                            const possibleDirectoryNames = [
-                                                                      `${idParts[0]}_${idParts[1]}_${idParts[2]}`, // 原始格式
-                                                                      `${idParts[0]}_${idParts[1]}`, // 例如：2022_12
-                                                                      `${idParts[0]}_${idParts[1]}_1`, // 例如：2022_12_1
-                                                                      `${idParts[0]}_${idParts[1]}_2`  // 例如：2022_12_2
-                                                            ];
-
-                                                            for (const dirName of possibleDirectoryNames) {
-                                                                      if (dirName === directoryName) continue; // 跳过已尝试过的
-
-                                                                      console.log(`尝试从其他可能的目录获取: ${dirName}`);
-                                                                      materialsPath = `/materials/${dirName}/materials.json`;
-                                                                      response = await fetch(materialsPath);
-                                                                      if (response.ok) {
-                                                                                directoryName = dirName;
-                                                                                console.log(`找到有效路径: ${materialsPath}`);
-                                                                                break;
-                                                                      }
-                                                            }
-                                                  }
+                                        } catch (e) {
+                                                  console.warn(`尝试从难度目录获取失败: ${e.message}`);
                                         }
-
-                                        if (response.ok) {
-                                                  const data = await response.json();
-                                                  let material;
-
-                                                  if (Array.isArray(data)) {
-                                                            material = data.find(m => m.id === materialId || m.id === normalizedId);
-                                                  } else if (data.materials && Array.isArray(data.materials)) {
-                                                            material = data.materials.find(m => m.id === materialId || m.id === normalizedId);
-                                                  }
-
-                                                  if (material) {
-                                                            // 添加完整的音频URL路径
-                                                            if (material.audio_file && !material.audio_url) {
-                                                                      material.audio_url = `/materials/${directoryName}/${material.audio_file}`;
-                                                                      console.log(`设置音频URL: ${material.audio_url}`);
-                                                            }
-
-                                                            console.log(`成功从本地文件获取材料: ${materialId}`);
-                                                            return material;
-                                                  }
-                                        }
-
-                                        console.log(`从本地文件未找到材料，尝试从API获取`);
-                              } catch (fileError) {
-                                        console.warn('从本地文件获取材料失败，尝试从API获取:', fileError);
                               }
 
-                              // 如果本地文件获取失败，尝试从API获取材料
-                              try {
-                                        const apiUrl = `http://localhost:5000/api/listening/material/${materialId}`;
-                                        console.log(`尝试从API获取: ${apiUrl}`);
+                              // 如果找不到完全匹配的目录，尝试其他可能的格式
+                              if (!foundDirectPath && (!response || !response.ok) && idParts.length >= 3) {
+                                        console.log(`无法从 ${difficulty} 获取材料，尝试其他可能的目录名格式`);
 
-                                        const response = await fetch(apiUrl);
-
-                                        // 检查响应类型，确保是JSON
-                                        const contentType = response.headers.get('content-type');
-                                        if (!contentType || !contentType.includes('application/json')) {
-                                                  console.error(`API返回了非JSON响应: ${contentType}`);
-                                                  throw new Error('API返回了非JSON响应');
-                                        }
+                                        // 尝试直接使用ID作为目录
+                                        materialsPath = `/materials/${normalizedId}/materials.json`;
+                                        response = await fetch(materialsPath);
 
                                         if (response.ok) {
-                                                  const material = await response.json();
-                                                  if (material && material.id) {
-                                                            // 确保audio_url是完整路径
-                                                            if (material.audio_file && !material.audio_url) {
-                                                                      material.audio_url = `/materials/${directoryName}/${material.audio_file}`;
-                                                            }
-                                                            console.log(`从API成功获取材料: ${materialId}`);
-                                                            return material;
-                                                  } else {
-                                                            console.error('API返回的材料数据无效');
-                                                            throw new Error('无效的材料数据');
-                                                  }
+                                                  directoryName = normalizedId;
+                                                  console.log(`找到有效路径: ${materialsPath}`);
                                         } else {
-                                                  console.error(`API返回错误状态码: ${response.status}`);
-                                                  throw new Error(`API请求失败: ${response.status}`);
+                                                  // 尝试不同的目录名格式
+                                                  const possibleDirectoryNames = [
+                                                            `${idParts[0]}_${idParts[1]}_${idParts[2]}`, // 原始格式
+                                                            `${idParts[0]}_${idParts[1]}`, // 例如：2022_12
+                                                            `${idParts[0]}_${idParts[1]}_1`, // 例如：2022_12_1
+                                                            `${idParts[0]}_${idParts[1]}_2`  // 例如：2022_12_2
+                                                  ];
+
+                                                  for (const dirName of possibleDirectoryNames) {
+                                                            if (dirName === directoryName) continue; // 跳过已尝试过的
+
+                                                            console.log(`尝试从其他可能的目录获取: ${dirName}`);
+                                                            materialsPath = `/materials/${dirName}/materials.json`;
+                                                            response = await fetch(materialsPath);
+                                                            if (response.ok) {
+                                                                      directoryName = dirName;
+                                                                      console.log(`找到有效路径: ${materialsPath}`);
+                                                                      break;
+                                                            }
+                                                  }
                                         }
-                              } catch (apiError) {
-                                        console.error('从API获取材料失败:', apiError);
-                                        throw new Error(`无法获取材料: ${materialId}`);
                               }
-                    } catch (error) {
-                              console.error(`获取材料详情失败:`, error);
-                              throw error;
+
+                              if (response.ok) {
+                                        const data = await response.json();
+                                        let material;
+
+                                        if (Array.isArray(data)) {
+                                                  material = data.find(m => m.id === materialId || m.id === normalizedId);
+                                        } else if (data.materials && Array.isArray(data.materials)) {
+                                                  material = data.materials.find(m => m.id === materialId || m.id === normalizedId);
+                                        }
+
+                                        if (material) {
+                                                  // 添加完整的音频URL路径
+                                                  if (material.audio_file && !material.audio_url) {
+                                                            material.audio_url = `/materials/${directoryName}/${material.audio_file}`;
+                                                            console.log(`设置音频URL: ${material.audio_url}`);
+                                                  }
+
+                                                  console.log(`成功从本地文件获取材料: ${materialId}`);
+                                                  return material;
+                                        }
+                              }
+
+                              console.log(`从本地文件未找到材料，尝试从API获取`);
+                    } catch (fileError) {
+                              console.warn('从本地文件获取材料失败，尝试从API获取:', fileError);
+                    }
+
+                    // 如果本地文件获取失败，尝试从API获取材料
+                    try {
+                              const apiUrl = `http://localhost:5000/api/listening/material/${materialId}`;
+                              console.log(`尝试从API获取: ${apiUrl}`);
+
+                              const response = await fetch(apiUrl);
+
+                              // 检查响应类型，确保是JSON
+                              const contentType = response.headers.get('content-type');
+                              if (!contentType || !contentType.includes('application/json')) {
+                                        console.error(`API返回了非JSON响应: ${contentType}`);
+                                        throw new Error('API返回了非JSON响应');
+                              }
+
+                              if (response.ok) {
+                                        const material = await response.json();
+                                        if (material && material.id) {
+                                                  // 确保audio_url是完整路径
+                                                  if (material.audio_file && !material.audio_url) {
+                                                            material.audio_url = `/materials/${directoryName}/${material.audio_file}`;
+                                                  }
+                                                  console.log(`从API成功获取材料: ${materialId}`);
+                                                  return material;
+                                        } else {
+                                                  console.error('API返回的材料数据无效');
+                                                  throw new Error('无效的材料数据');
+                                        }
+                              } else {
+                                        console.error(`API返回错误状态码: ${response.status}`);
+                                        throw new Error(`API请求失败: ${response.status}`);
+                              }
+                    } catch (apiError) {
+                              console.error('从API获取材料失败:', apiError);
+                              throw new Error(`无法获取材料: ${materialId}`);
                     }
           }
 
